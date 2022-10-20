@@ -86,6 +86,12 @@ Additionally, you can enter comments to manual controls, i.e., to add links, wri
 
 4\. Once your controls are in place, hit the Create button from the top right of the page.
 
+### FAQ
+
+* **How do you calculate the pack score?**
+
+Our formula is "Pass / (Pass+Fail)".
+
 ### Support
 
 For further questions regarding Packs, contact us via live chat or email us at contact@resmo.com.
