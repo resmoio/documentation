@@ -88,6 +88,7 @@
 * [Upstash Integration](integrations/upstash-integration.md)
 * [Qualys Integration](integrations/qualys-integration.md)
 * [Sentry Integration](integrations/sentry-integration.md)
+* [Brex Integration](integrations/brex-integration.md)
 
 ## Notifications
 
