@@ -10,15 +10,13 @@ description: Frequently asked questions about Resmo
 
 We only offer a SaaS-based solution. We run on AWS. We will not provide an on-prem version.&#x20;
 
-If you want to host Resmo on your own Cloud environment, contact us. We may prioritize this feature if there is enough enterprise interest.
-
 </details>
 
 <details>
 
 <summary>Do you offer a free plan?</summary>
 
-Not right now. Contact us if you are a non-profit or a startup and looking for a discount.
+Yes! take a look at the details on resmo.com/pricing
 
 </details>
 
@@ -26,6 +24,12 @@ Not right now. Contact us if you are a non-profit or a startup and looking for a
 
 <summary>How do we trust you?</summary>
 
-Our team   ... We run on AWS and we are an AWS partner. This means we are compliant with AWS Well-architected framework.&#x20;
+You can see our company security best practices on trust.resmo.com.&#x20;
+
+A few key point to keep in mind:
+
+* We do require read-only access to your tools
+* We support SSO and 2FA
+* We're in the process of getting SOC2 compliant
 
 </details>
