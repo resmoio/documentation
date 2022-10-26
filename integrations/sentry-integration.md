@@ -41,7 +41,7 @@ Resmo consolidates Sentry resources in a single asset inventory, including Integ
 
 4\. Name your Sentry integration and optionally write a description.
 
-<figure><img src="../.gitbook/assets/sentry-integration (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/sentry-integration.png" alt=""><figcaption></figcaption></figure>
 
 5\. Go to **Auth Tokens** under the **Sentry Account Details** page.
 

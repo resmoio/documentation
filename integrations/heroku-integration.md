@@ -6,7 +6,7 @@ description: Guide for Resmo Heroku integration
 
 ## Resmo + Heroku Integration Fundamentals
 
-![](../.gitbook/assets/heroku-logo.png)
+![](<../.gitbook/assets/heroku-logo (1).png>)
 
 Resmo integrates with Heroku to keep your cyber asset environments secure and compliant.
 

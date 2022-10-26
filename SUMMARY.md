@@ -89,6 +89,7 @@
 * [Qualys Integration](integrations/qualys-integration.md)
 * [Sentry Integration](integrations/sentry-integration.md)
 * [Brex Integration](integrations/brex-integration.md)
+* [JumpCloud Integration](integrations/jumpcloud-integration.md)
 
 ## Notifications
 

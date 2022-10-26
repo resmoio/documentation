@@ -260,7 +260,7 @@ roleRef:
 
 3\. Go to your Integrations page from the navigation bar.
 
-![](<../.gitbook/assets/integrations (2).png>)
+![](<../.gitbook/assets/integrations (1).png>)
 
 4\. Click the Add Integration button and select Kubernetes.
 

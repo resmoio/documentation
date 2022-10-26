@@ -39,7 +39,7 @@ Once you sign up to Resmo, you can easily integrate your account with Datadog us
 
 1. Login to your Resmo account and navigate to Integrations.
 
-![](<../.gitbook/assets/integrations (1).png>)
+![](<../.gitbook/assets/integrations (2).png>)
 
 2\. Click Add Integration and select Datadog.
 

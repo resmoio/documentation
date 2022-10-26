@@ -35,7 +35,7 @@ Once you sign up to Resmo, you can easily integrate your account with Snyk using
 1. Login to your Resmo account.
 2. Navigate to Integrations. Then, click Add Integration and select Snyk.
 
-![](<../.gitbook/assets/integrations (1).png>)
+![](<../.gitbook/assets/integrations (2).png>)
 
 3\. Name your integration and write a description (optional.)
 

@@ -57,7 +57,7 @@ Resmo Jamf integration aggregates resources, including account groups, computers
 
 6\. Go to the Resmo integration page and fill in the username and password fields with the created user credentials.
 
-![](<../.gitbook/assets/jamf-configuration-fields (1).png>)
+![](../.gitbook/assets/jamf-configuration-fields.png)
 
 7\. Enter the server name of your Jamf account. For example, if your Jamf server URL is _resmo.jamfcloud.com_, your server name must be _"resmo"_.
 

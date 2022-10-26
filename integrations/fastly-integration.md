@@ -42,7 +42,7 @@ Resmo aggregates Fastly resources in real-time, including accounts, API Tokens, 
 
 1. Log in to your Resmo account and go to your Integrations page.
 
-<figure><img src="../.gitbook/assets/resmo-fastly (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/resmo-fastly.png" alt=""><figcaption></figcaption></figure>
 
 2\. Click the Add Integration button from the top right. Then, select Fastly.
 

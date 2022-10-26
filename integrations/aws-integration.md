@@ -76,7 +76,7 @@ The installation steps in this section present a general route you'll follow. To
 
 2\. Click the Add Integration button on the top right.
 
-![](<../.gitbook/assets/add-integration (1).png>)
+![](<../.gitbook/assets/add-integration (1) (1).png>)
 
 3\. Add the Amazon Web Services integration.
 
@@ -88,7 +88,7 @@ The installation steps in this section present a general route you'll follow. To
 
 6\. To [install the integration using CloudFormation](aws-integration.md#install-using-cloudformation), hit the Launch Stack button. Or you can install it manually by clicking the Connect Manually button.&#x20;
 
-![](<../.gitbook/assets/launch-stack (2).png>)
+![](<../.gitbook/assets/launch-stack (1).png>)
 
 **The following steps are for manual installation.**
 
@@ -109,7 +109,7 @@ The installation steps in this section present a general route you'll follow. To
 1. On your Resmo Integrations page, click Add Integration>AWS. You'll see the Create page for a new AWS integration. Then, click on the 'Need Help?' button next to the "Amazon Web Services Integration" title.&#x20;
 2. Hit the `LaunchStack` button to open the CloudFormation _**Quick create stack**_ page.
 
-![](<../.gitbook/assets/launch-stack (1).png>)
+![](<../.gitbook/assets/launch-stack (2).png>)
 
 {% hint style="info" %}
 If you are using AWS Organizations, please ensure;

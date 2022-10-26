@@ -67,7 +67,7 @@ See the full list:
 
 8\. Then, create a new API key with Read-only permission.
 
-![](../.gitbook/assets/pagerduty-create-api-key.png)
+![](<../.gitbook/assets/pagerduty-create-api-key (1).png>)
 
 9\. Next, copy the created API key and go back to the Resmo PagerDuty integration screen.
 

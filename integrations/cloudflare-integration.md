@@ -40,7 +40,7 @@ Once you sign up to Resmo, you can easily integrate your account with Cloudflare
 
 1. Login to your Resmo account and navigate to the Integrations page.
 
-![](<../.gitbook/assets/settings-integrations (1).jpg>)
+![](<../.gitbook/assets/settings-integrations (2).jpg>)
 
 2\. Click the Add Integration button and select Cloudflare.
 
@@ -63,11 +63,11 @@ Once you sign up to Resmo, you can easily integrate your account with Cloudflare
 Cloudflare API tokens are generated from the User Profile>API Tokens page. The token requires permission to read all resources. You may also use the 'Read all resources' token template as demonstrated below.
 {% endhint %}
 
-![](<../.gitbook/assets/read-all-resources (1).png>)
+![](../.gitbook/assets/read-all-resources.png)
 
 5\. Enter the user API token on the integration screen’s API token field.
 
-![](<../.gitbook/assets/cloudflare (2).png>)
+![](../.gitbook/assets/cloudflare.png)
 
 6\. Hit the create button, and you are ready to run queries.
 

@@ -39,7 +39,7 @@ Once you sign up to Resmo, you can easily integrate your account with BambooHR u
 1. Sign in or sign up to Resmo.
 2. Go to your Integrations page and click the Add Integrations button from the top right.
 
-<figure><img src="../.gitbook/assets/add-integration.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/add-integration (1).png" alt=""><figcaption></figcaption></figure>
 
 3\. Find BambooHR from the list and click on it.
 

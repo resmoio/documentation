@@ -40,13 +40,13 @@ Once you sign up to Resmo, you can easily integrate your account with Duo using 
 
 1. Login to your Resmo account and go to your Integrations page.
 
-![](<../.gitbook/assets/integrations (1).png>)
+![](<../.gitbook/assets/integrations (2).png>)
 
 2\. Then, select Duo integration to add it.
 
 3\. Name the integration and write a description (optional.)
 
-![](<../.gitbook/assets/duo (1).png>)
+![](../.gitbook/assets/duo.png)
 
 4\. Go to your Duo account -> Duo Admin panel
 

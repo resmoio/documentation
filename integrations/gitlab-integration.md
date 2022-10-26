@@ -49,7 +49,7 @@ See the full list:
 1. Sign up for or sign in to your Resmo account.
 2. Navigate to the Integrations page. Then, click the Add Integration button.
 
-![](<../.gitbook/assets/integrations (1).png>)
+![](<../.gitbook/assets/integrations (2).png>)
 
 3\. Next, hit the Add button for GitLab.
 
@@ -61,7 +61,7 @@ See the full list:
 
 6\. You will be redirected to GitLab. Accept permissions.
 
-![](../.gitbook/assets/gitlab-permissions.png)
+![](<../.gitbook/assets/gitlab-permissions (1).png>)
 
 7\. Your integration is all set! Now you can start exploring and querying your GitLab resources.
 

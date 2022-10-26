@@ -39,11 +39,11 @@ _(To be added)_
 
 1. **Login to your Resmo account and navigate to Integrations. Then, add Snowflake.**
 
-![](<../.gitbook/assets/integrations (1).png>)
+![](<../.gitbook/assets/integrations (2).png>)
 
 **2. Name the integration and write a description (optional.)**
 
-![](<../.gitbook/assets/snowflake-integration (1).png>)
+![](../.gitbook/assets/snowflake-integration.png)
 
 **3. Go to your Snowflake Account and Create Security Integration with the following properties.**
 

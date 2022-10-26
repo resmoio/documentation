@@ -23,7 +23,7 @@ The number of widgets must be a minimum of 1 and a maximum of 20.
 
 ### Users dashboard
 
-<figure><img src="../.gitbook/assets/explore-users-dashboard.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/explore-users-dashboard (1).jpg" alt=""><figcaption></figcaption></figure>
 
 The Users dashboard on your Dashboards page allows you to easily monitor unique users by applications with some cool additional info like:
 

@@ -33,11 +33,11 @@ Resmo has an Azure DevOps application that you can install once you sign up for 
 2. Go to your Integrations page and click the Add Integrations button.
 3. Find Azure DevOps from the list and click on it.
 
-<figure><img src="../.gitbook/assets/add-azuredevops.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/add-azuredevops (1).png" alt=""><figcaption></figcaption></figure>
 
 4\. From the opening screen, type a descriptive name for the integration and optionally a description.
 
-<figure><img src="../.gitbook/assets/azure-devops (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/azure-devops.png" alt=""><figcaption></figcaption></figure>
 
 5\. You'll be redirected to Azure DevOps. Accept permissions.
 

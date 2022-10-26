@@ -31,13 +31,13 @@ Suppression helps you mark particular resources inside a rule to signal Resmo to
 
 1. Open the Rule details where the suppression exists.
 
-![](../.gitbook/assets/suppressions-tab.png)
+![](<../.gitbook/assets/suppressions-tab (1).png>)
 
 2\. Click the Suppression tab on the Rule Detail page.
 
 3\. Now, click the remove icon (-) next to the suppression you wish to delete.
 
-![](<../.gitbook/assets/suppressions-tab (1).png>)
+![](../.gitbook/assets/suppressions-tab.png)
 
 4\. Type in the reason for your suppression removal and click Remove Suppression.
 

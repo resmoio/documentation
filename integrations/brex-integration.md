@@ -41,7 +41,7 @@ Resmo uses API to do the initial polling and collect existing resources. Followi
 
 4\. Name your Brex integrations and optionally write a description.
 
-<figure><img src="../.gitbook/assets/brex-integration (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/brex-integration.png" alt=""><figcaption></figcaption></figure>
 
 5\. Go to **Create Token** under the **Developer -> Settings** page.
 

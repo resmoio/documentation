@@ -17,7 +17,7 @@ Once you set up an email notification channel, Resmo sends automated notificatio
 1. Log into your Resmo account.
 2. Click Settings from the navigation bar and then, Notification Channels.
 
-![](../.gitbook/assets/notification-channels.png)
+![](<../.gitbook/assets/notification-channels (1).png>)
 
 3\. Click the Add Notification Channels button from the top right corner.
 

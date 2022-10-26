@@ -14,7 +14,7 @@ Resmo offers integrations with your favorite tools. Let's assume you use GitHub.
 
 * Let's integrate Resmo with GitHub, for example.&#x20;
 
-![](<../.gitbook/assets/github-integration (1).png>)
+![](../.gitbook/assets/github-integration.png)
 
 * First things first, go to **Settings>Integrations** and click the **Add Integration** button.&#x20;
 * Then, select GitHub. Once you fill in the required fields and click **Create**, you will be redirected to GitHub to accept permissions. Accept them, and your integration is ready to roll!
@@ -48,7 +48,7 @@ You can save custom queries to find and use them later on. Plus, if it's a query
 * Private queries cannot be viewed by other users and referenced in the rules.
 {% endhint %}
 
-![](../.gitbook/assets/private-query.png)
+![](<../.gitbook/assets/private-query (1).png>)
 
 ### Support
 

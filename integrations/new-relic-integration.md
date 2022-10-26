@@ -52,7 +52,7 @@ _New Relic resources_
 
 4\. Go to your New Relic account and open the API Keys page from the top-right account dropdown menu.
 
-![](../.gitbook/assets/newrelic-api-keys.png)
+![](<../.gitbook/assets/newrelic-api-keys (1).png>)
 
 5\. Then, create a new API key.
 

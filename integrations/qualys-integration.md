@@ -54,7 +54,7 @@ See the full list:
 1. Sign up or sign in to your Resmo account.&#x20;
 2. Go to your Integrations page and click the **Add Integration** button.
 
-<figure><img src="../.gitbook/assets/add-integration (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/add-integration (4).png" alt=""><figcaption></figcaption></figure>
 
 3\. Name your integration and optionally write a description.
 
