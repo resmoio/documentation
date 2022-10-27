@@ -70,7 +70,7 @@ The Role should be 'Read Only' and select Multi-factor Authentication also for b
 2. Open the JumpCloud integration you wish to uninstall.
 3. From there, you have two options. You can choose to temporarily disable it by clicking the Disable button or permanently uninstall it by clicking the Delete button.
 
-<figure><img src="../.gitbook/assets/disable-delete.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/disable-delete (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Troubleshooting
 

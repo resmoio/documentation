@@ -90,6 +90,8 @@
 * [Sentry Integration](integrations/sentry-integration.md)
 * [Brex Integration](integrations/brex-integration.md)
 * [JumpCloud Integration](integrations/jumpcloud-integration.md)
+* [Webflow Integration](integrations/webflow-integration.md)
+* [Tenable Integration](integrations/tenable-integration.md)
 
 ## Notifications
 
