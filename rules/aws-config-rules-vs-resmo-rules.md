@@ -6,39 +6,7 @@ description: A list of AWS Config managed rules supported by Resmo
 
 The following table lists managed rules on [AWS Config](https://docs.aws.amazon.com/config/latest/developerguide/managed-rules-by-aws-config.html), supported by Resmo. Mind that the exact queries/rules on Resmo may vary.
 
-| AWS Config Rule                              | Supported by Resmo query/rule |   |
-| -------------------------------------------- | ----------------------------- | - |
-| ec2-instances-in-vpc                         | Yes                           |   |
-| encrypted-volumes                            | Yes                           |   |
-| restricted-ssh                               | Yes                           |   |
-| autoscaling-group-elb-healthcheck-required   | Yes                           |   |
-| autoscaling-launch-config-public-ip-disabled | Yes                           |   |
-| cloudfront-associated-with-waf               | Yes                           |   |
-| cloudfront-origin-access-identity-enabled    | Yes                           |   |
-| cloudfront-origin-failover-enabled           | Yes                           |   |
-| dynamodb-table-encrypted-kms                 | Yes                           |   |
-| dynamodb-table-encryption-enabled            | Yes                           |   |
-| ec2-instance-detailed-monitoring-enabled     | Yes                           |   |
-| ec2-instance-multiple-eni-check              | Yes                           |   |
-| iam-policy-in-use                            | Yes                           |   |
-| iam-user-no-policies-check                   | Yes                           |   |
-| iam-user-unused-credentials-check            | Yes                           |   |
-| internet-gateway-authorized-vpc-only         | Yes                           |   |
-| lambda-dlq-check                             | Yes                           |   |
-| lambda-inside-vpc                            | Yes                           |   |
-| mfa-enabled-for-iam-console-access           | Yes                           |   |
-| multi-region-cloudtrail-enabled              | Yes                           |   |
-| opensearch-audit-logging-enabled             | Yes                           |   |
-| opensearch-encrypted-at-rest                 | Yes                           |   |
-| opensearch-https-required                    | Yes                           |   |
-| rds-instance-deletion-protection-enabled     | Yes                           |   |
-| rds-instance-iam-authentication-enabled      | Yes                           |   |
-| rds-instance-public-access-check             | Yes                           |   |
-| s3-bucket-public-read-prohibited             | Yes                           |   |
-| s3-bucket-public-write-prohibited            | Yes                           |   |
-| s3-bucket-server-side-encryption-enabled     | Yes                           |   |
-| s3-bucket-versioning-enabled                 | Yes                           |   |
-| vpc-flow-logs-enabled                        | Yes                           |   |
+<table><thead><tr><th>AWS Config Rule</th><th>Supported by Resmo query/rule</th><th data-hidden></th></tr></thead><tbody><tr><td>ec2-instances-in-vpc</td><td>Yes</td><td></td></tr><tr><td>encrypted-volumes</td><td>Yes</td><td></td></tr><tr><td>restricted-ssh</td><td>Yes</td><td></td></tr><tr><td>autoscaling-group-elb-healthcheck-required</td><td>Yes</td><td></td></tr><tr><td>autoscaling-launch-config-public-ip-disabled</td><td>Yes</td><td></td></tr><tr><td>cloudfront-associated-with-waf</td><td>Yes</td><td></td></tr><tr><td>cloudfront-origin-access-identity-enabled</td><td>Yes</td><td></td></tr><tr><td>cloudfront-origin-failover-enabled</td><td>Yes</td><td></td></tr><tr><td>dynamodb-table-encrypted-kms</td><td>Yes</td><td></td></tr><tr><td>dynamodb-table-encryption-enabled</td><td>Yes</td><td></td></tr><tr><td>ec2-instance-detailed-monitoring-enabled</td><td>Yes</td><td></td></tr><tr><td>ec2-instance-multiple-eni-check</td><td>Yes</td><td></td></tr><tr><td>iam-policy-in-use</td><td>Yes</td><td></td></tr><tr><td>iam-user-no-policies-check</td><td>Yes</td><td></td></tr><tr><td>iam-user-unused-credentials-check</td><td>Yes</td><td></td></tr><tr><td>internet-gateway-authorized-vpc-only</td><td>Yes</td><td></td></tr><tr><td>lambda-dlq-check</td><td>Yes</td><td></td></tr><tr><td>lambda-inside-vpc</td><td>Yes</td><td></td></tr><tr><td>mfa-enabled-for-iam-console-access</td><td>Yes</td><td></td></tr><tr><td>multi-region-cloudtrail-enabled</td><td>Yes</td><td></td></tr><tr><td>opensearch-audit-logging-enabled</td><td>Yes</td><td></td></tr><tr><td>opensearch-encrypted-at-rest</td><td>Yes</td><td></td></tr><tr><td>opensearch-https-required</td><td>Yes</td><td></td></tr><tr><td>rds-instance-deletion-protection-enabled</td><td>Yes</td><td></td></tr><tr><td>rds-instance-iam-authentication-enabled</td><td>Yes</td><td></td></tr><tr><td>rds-instance-public-access-check</td><td>Yes</td><td></td></tr><tr><td>s3-bucket-public-read-prohibited</td><td>Yes</td><td></td></tr><tr><td>s3-bucket-public-write-prohibited</td><td>Yes</td><td></td></tr><tr><td>s3-bucket-server-side-encryption-enabled</td><td>Yes</td><td></td></tr><tr><td>s3-bucket-versioning-enabled</td><td>Yes</td><td></td></tr><tr><td>vpc-flow-logs-enabled</td><td>Yes</td><td></td></tr></tbody></table>
 
 ### Support
 

@@ -92,6 +92,7 @@
 * [JumpCloud Integration](integrations/jumpcloud-integration.md)
 * [Webflow Integration](integrations/webflow-integration.md)
 * [Tenable Integration](integrations/tenable-integration.md)
+* [SonarCloud Integration](integrations/sonarcloud-integration.md)
 
 ## Notifications
 
