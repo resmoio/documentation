@@ -93,6 +93,9 @@
 * [Webflow Integration](integrations/webflow-integration.md)
 * [Tenable Integration](integrations/tenable-integration.md)
 * [SonarCloud Integration](integrations/sonarcloud-integration.md)
+* [Salesforce Integration](integrations/salesforce-integration.md)
+* [LastPass Integration](integrations/lastpass-integration.md)
+* [Microsoft Teams Integration](integrations/microsoft-teams-integration.md)
 
 ## Notifications
 
