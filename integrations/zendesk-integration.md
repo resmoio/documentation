@@ -32,7 +32,7 @@ Resmo has a Zendesk application that you can install once you sign up for a Resm
 1. Sign up or sign in to Resmo. Then, navigate to your Integrations page.
 2. Click the Add Integration button.
 
-<figure><img src="../.gitbook/assets/add-integration (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/add-integration (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 3\. Add Zendesk.
 

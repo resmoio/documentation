@@ -18,6 +18,11 @@
 * [Resources](resources/resources.md)
 * [Resource Changes](resources/resource-changes.md)
 
+## API
+
+* [Basics](api/basics.md)
+* [Query API](api/query-api.md)
+
 ## Resource Groups
 
 * [Resource Groups](resource-groups/resource-groups.md)
