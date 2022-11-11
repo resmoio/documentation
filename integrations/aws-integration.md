@@ -76,7 +76,7 @@ The installation steps in this section present a general route you'll follow. To
 
 2\. Click the Add Integration button on the top right.
 
-![](<../.gitbook/assets/add-integration (1) (1).png>)
+![](<../.gitbook/assets/add-integration (1) (1) (1).png>)
 
 3\. Add the Amazon Web Services integration.
 

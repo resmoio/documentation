@@ -96,6 +96,7 @@
 * [Salesforce Integration](integrations/salesforce-integration.md)
 * [LastPass Integration](integrations/lastpass-integration.md)
 * [Microsoft Teams Integration](integrations/microsoft-teams-integration.md)
+* [Zendesk Integration](integrations/zendesk-integration.md)
 
 ## Notifications
 
