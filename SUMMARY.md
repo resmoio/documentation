@@ -102,6 +102,8 @@
 * [LastPass Integration](integrations/lastpass-integration.md)
 * [Microsoft Teams Integration](integrations/microsoft-teams-integration.md)
 * [Zendesk Integration](integrations/zendesk-integration.md)
+* [Segment Integration](integrations/segment-integration.md)
+* [Terraform Cloud Integration](integrations/terraform-cloud-integration.md)
 
 ## Notifications
 
