@@ -104,6 +104,7 @@
 * [Zendesk Integration](integrations/zendesk-integration.md)
 * [Segment Integration](integrations/segment-integration.md)
 * [Terraform Cloud Integration](integrations/terraform-cloud-integration.md)
+* [Google Drive Integration](integrations/google-drive-integration.md)
 
 ## Notifications
 

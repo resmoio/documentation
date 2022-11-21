@@ -36,7 +36,7 @@ See the complete list:
 1. Sign up or sign in to your Resmo account.
 2. Go to your Integrations page and click the Add Integration button.
 
-<figure><img src="../.gitbook/assets/add-integration.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/add-integration (1).png" alt=""><figcaption></figcaption></figure>
 
 3\. Then, add JumpCloud.
 
