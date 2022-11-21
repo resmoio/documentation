@@ -62,6 +62,7 @@
 * [AWS Integration](integrations/aws-integration.md)
 * [Azure Integration](integrations/azure-integration.md)
 * [GCP Integration](integrations/gcp-integration.md)
+* [Google Drive Integration](integrations/google-drive-integration.md)
 * [Kubernetes Integration](integrations/kubernetes-integration.md)
 * [Google Workspace Integration](integrations/google-workspace-integration.md)
 * [GitHub Integration](integrations/github-integration.md)
@@ -104,7 +105,6 @@
 * [Zendesk Integration](integrations/zendesk-integration.md)
 * [Segment Integration](integrations/segment-integration.md)
 * [Terraform Cloud Integration](integrations/terraform-cloud-integration.md)
-* [Google Drive Integration](integrations/google-drive-integration.md)
 
 ## Notifications
 
