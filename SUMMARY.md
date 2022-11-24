@@ -105,6 +105,7 @@
 * [Zendesk Integration](integrations/zendesk-integration.md)
 * [Segment Integration](integrations/segment-integration.md)
 * [Terraform Cloud Integration](integrations/terraform-cloud-integration.md)
+* [Tailscale Integration](integrations/tailscale-integration.md)
 
 ## Notifications
 
