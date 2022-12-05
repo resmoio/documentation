@@ -106,6 +106,7 @@
 * [Segment Integration](integrations/segment-integration.md)
 * [Terraform Cloud Integration](integrations/terraform-cloud-integration.md)
 * [Tailscale Integration](integrations/tailscale-integration.md)
+* [Vercel Integration](integrations/vercel-integration.md)
 
 ## Notifications
 
