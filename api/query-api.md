@@ -8,7 +8,7 @@ The API Key will work with several scopes in the future, but currently, it suppo
 
 **Query Endpoint**&#x20;
 
-You can query your data with the help of this endpoint as you did in Resmo Search UI. You just need to add your SQL to the request body.
+You can query your data with the help of this endpoint, as you did in Resmo Search UI. You just need to add your SQL to the request body.
 
 ### Request fields
 
