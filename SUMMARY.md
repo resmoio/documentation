@@ -107,6 +107,7 @@
 * [Terraform Cloud Integration](integrations/terraform-cloud-integration.md)
 * [Tailscale Integration](integrations/tailscale-integration.md)
 * [Vercel Integration](integrations/vercel-integration.md)
+* [GoDaddy Integration](integrations/godaddy-integration.md)
 
 ## Notifications
 
