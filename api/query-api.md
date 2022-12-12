@@ -51,7 +51,7 @@ curl --location --request POST '/api/query'
 
 4\. Name your API key and choose the query scope. Then, define an expiration date for your API key.
 
-<figure><img src="../.gitbook/assets/add-api-key.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/add-api-key (1).png" alt=""><figcaption></figcaption></figure>
 
 5\. Hit the Add API Key button.
 

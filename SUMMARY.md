@@ -119,6 +119,10 @@
 * [PagerDuty Notification Channel](notifications/pagerduty-notification-channel.md)
 * [Amazon SNS Notification Channel](notifications/amazon-sns-notification-channel.md)
 
+## Plugins
+
+* [Raycast](plugins/raycast.md)
+
 ## Users and Permissions
 
 * [User](users-and-permissions/user.md)
