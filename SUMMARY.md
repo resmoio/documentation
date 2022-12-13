@@ -108,6 +108,7 @@
 * [Tailscale Integration](integrations/tailscale-integration.md)
 * [Vercel Integration](integrations/vercel-integration.md)
 * [GoDaddy Integration](integrations/godaddy-integration.md)
+* [Kandji Integration](integrations/kandji-integration.md)
 
 ## Notifications
 
