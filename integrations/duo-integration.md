@@ -81,4 +81,5 @@ Once you sign up to Resmo, you can easily integrate your account with Duo using 
 ### Troubleshooting
 
 * Please check the up-to-date instructions in [Duo Support Documentation](https://duo.com/docs/adminapi) if you need to reach Duo Support to request API access.
+* Resmo uses the Duo Admin API. **Duo Admin API** is available to Duo Beyond, Duo Access, and Duo MFA plan customers and new customers with an Access or Beyond trial.
 * For further queries or information, contact us via live chat or email us at contact@resmo.com.

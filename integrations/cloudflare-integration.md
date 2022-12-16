@@ -19,7 +19,7 @@ Resmo integrates with Cloudflare to ensure the security and compliance of your C
 
 ### How does the integration work?
 
-Once you sign up to Resmo, you can easily integrate your account with Cloudflare using an API token. Resmo uses API to do the initial polling and collect existing resources. Then, we receive resource changes and updates in real-time by regular polling.
+Once you sign up to Resmo, you can easily integrate your account with Cloudflare using an API token. Resmo uses API to do the initial polling and collect existing resources. Then, we receive resource changes and updates in real-time through regular polling.
 
 [Available Resources](https://docs.resmo.com/resources/cloudflare)
 
@@ -31,7 +31,7 @@ Once you sign up to Resmo, you can easily integrate your account with Cloudflare
 * Identify DNSSEC activated zone count per account
 * List account members with pending state
 * Find active zones
-* Identify phishing detected zones
+* Identify phishing-detected zones
 * List account members with accepted state
 
 ### Integration walkthrough
@@ -81,4 +81,5 @@ Cloudflare API tokens are generated from the User Profile>API Tokens page. The t
 
 ### Troubleshooting
 
-Please check your API token permissions if you cannot see your resources even if the integration is successfully configured.
+* Please check your API token permissions if you cannot see your resources even if the integration is successfully configured.
+* Cloudflare requires the Enterprise plan to [list all invitations](https://api.cloudflare.com/#user-s-invites-list-invitations) associated with a user. Without the Cloudflare Enterprise plan, Resmo cannot collect user invitation resources from your account. Other resources can be collected.

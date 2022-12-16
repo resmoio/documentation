@@ -2,6 +2,8 @@
 
 <figure><img src="../.gitbook/assets/raycast-logo.png" alt=""><figcaption></figcaption></figure>
 
+Resmo is available as a [Raycast extension](https://www.raycast.com/resmo/resmo) to help you quickly search across your SaaS and cloud resources directly from your Raycast launcher.
+
 ### What does Resmo offer to Raycast users?
 
 * Open your launcher and quickly search resources from cloud services and SaaS applications that you integrated your Resmo account with.
@@ -9,7 +11,7 @@
 
 ### How does the extension work?
 
-In order to use the extension, you need a Resmo account. You can create your account for free from [here](https://id.resmo.app/). This extension requires a Resmo API Key and Domain URL in order to run. Once you create your Resmo account, you will have your domain URL, and you can create an API Key. After you complete the installation process, you can immediately start searching for your resources.
+In order to use the extension, you need a Resmo account. You can create your account for free from [here](https://id.resmo.app/). This [extension](https://www.raycast.com/resmo/resmo) requires a Resmo API Key and Domain URL in order to run. Once you create your Resmo account, you will have your domain URL, and you can create an API Key. After you complete the installation process, you can immediately start searching for your resources.
 
 ## Installation walkthrough
 
@@ -17,7 +19,7 @@ In order to use the extension, you need a Resmo account. You can create your acc
 
 In order to complete the installation, you must have a Resmo account and Raycast installed on your desktop.&#x20;
 
-1. Go to the Raycast store page and search Resmo.&#x20;
+1. Go to the [Resmo Raycast extension page](https://www.raycast.com/resmo/resmo).&#x20;
 2. Click the Install Extension button and it will open the Raycast application on your desktop.
 
 <figure><img src="../.gitbook/assets/install-raycast-resmo-extension (1).png" alt=""><figcaption></figcaption></figure>

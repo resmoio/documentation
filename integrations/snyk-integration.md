@@ -59,6 +59,12 @@ Once you sign up to Resmo, you can easily integrate your account with Snyk using
 * To temporarily pause the integration, click Disable.
 * To permanently uninstall it, click Delete. Note that this action cannot be undone.
 
+### FAQ
+
+* **Does the Synk Resmo integration require a certain Snyk pricing plan?**
+
+The Snyk API is available to customers on [Business and Enterprise plans](https://snyk.io/plans) and allows you to integrate with Snyk.
+
 ### Support
 
 If you have any questions about the Resmo Snyk integration, feel free to contact us via live chat or email us at contact@resmo.com.
