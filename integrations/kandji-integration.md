@@ -6,7 +6,7 @@ description: Guide for Resmo Kandji integration
 
 ## Resmo + Kandji Integration Fundamentals
 
-<figure><img src="../.gitbook/assets/Kandji-logo.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/kandji_logo_horiz_dark.png" alt=""><figcaption></figcaption></figure>
 
 Resmo integrates with Kandji to help you bolster your device security efforts by bringing visibility, security, and compliance into your environment.
 
