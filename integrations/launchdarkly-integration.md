@@ -10,7 +10,7 @@ description: Guide for Resmo LaunchDarkly integration
 
 Resmo connects with LaunchDarkly to improve the visibility, security, and compliance of your LaunchDarkly resources by collecting them on a single platform.
 
-### What does Resmo offer to Kandji users?
+### What does Resmo offer to LaunchDarkly users?
 
 * Collect your directory assets like members, feature flags, and projects from your LaunchDarkly account.
 * Query your LaunchDarkly members, feature flags, projects, and more.
