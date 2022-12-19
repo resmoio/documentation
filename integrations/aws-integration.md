@@ -29,7 +29,7 @@ Our application uses API to make the initial polling and receive existing resour
 
 ### Available resources
 
-Resmo AWS integration collects Autoscaling groups, IAM roles, DynamoDB tables, KMS keys, EC2 instances, and much more.
+Resmo AWS integration collects Autoscaling groups, IAM roles, DynamoDB tables, KMS keys, EC2 instances, and more.
 
 See the full list:
 
@@ -114,7 +114,7 @@ The installation steps in this section present a general route you'll follow. To
 {% hint style="info" %}
 If you are using AWS Organizations, please ensure;
 
-to apply the CloudFormation template to the management (root) account and both sub-accounts or create required policies and roles at the management (root) account and both sub-accounts.
+to apply the CloudFormation template to the management (root) account or create required policies and roles at the management (root) account. Resmo will understand that the account is the management account and discover other accounts in the organization.
 {% endhint %}
 
 3\. Create the stack by clicking `Create Stack` button.
@@ -124,6 +124,18 @@ to apply the CloudFormation template to the management (root) account and both s
 4\. After Stack completion, return to Resmo Integration Create Page, enter your AWS Account ID, and update Role Name and External ID if you update CloudFormation Stack parameters.
 
 5\. Create the integration.
+
+#### Install to Organizational Management Account
+
+After the above stack is completed in the management account of an organization, active accounts under the organization should be visible in the **Not-Available Accounts section** of select accounts.
+
+<figure><img src="../.gitbook/assets/Screen Shot 2022-12-19 at 12.39.38.png" alt=""><figcaption></figcaption></figure>
+
+&#x20;In order to connect Resmo to those accounts as well, you can click on the launch stack button, and it should direct you to Create Stack-Set Page in AWS Console. You can copy and paste the stack-set required information, template url, external ID, etc., from Resmo.
+
+<figure><img src="../.gitbook/assets/Screen Shot 2022-12-19 at 12.43.01.png" alt=""><figcaption></figcaption></figure>
+
+In step 4, you can select automatic deployment enabled so that if a new account is added to the organization, a stack will be run, and resources in the new account will be visible seamlessly. After stack instances are completed for your accounts, accounts will be listed in the **Available Accounts** section of the Resmo integration, and resources in those accounts will be visible within a few minutes.
 
 ### Manually Install Using AWS CLI
 
@@ -371,7 +383,7 @@ to apply the CloudFormation template to the management (root) account and both s
 
 #### 1. Uninstall Resmo through CloudFormation
 
-Delete CloudFormation Stack, this will delete resources that the stack has created.
+Delete CloudFormation Stack, and this will delete resources that the stack has created.
 
 #### 2. Manually delete the role and policy using AWS CLI
 
