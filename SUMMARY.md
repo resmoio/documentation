@@ -109,6 +109,7 @@
 * [Vercel Integration](integrations/vercel-integration.md)
 * [GoDaddy Integration](integrations/godaddy-integration.md)
 * [Kandji Integration](integrations/kandji-integration.md)
+* [LaunchDarkly Integration](integrations/launchdarkly-integration.md)
 
 ## Notifications
 
