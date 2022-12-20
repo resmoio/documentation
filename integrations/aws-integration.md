@@ -129,7 +129,7 @@ to apply the CloudFormation template to the management (root) account or create 
 
 After the above stack is completed in the management account of an organization, active accounts under the organization should be visible in the **Not-Available Accounts section** of select accounts.
 
-<figure><img src="../.gitbook/assets/Screen Shot 2022-12-19 at 12.39.38.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screen Shot 2022-12-20 at 09.38.36.png" alt=""><figcaption></figcaption></figure>
 
 &#x20;In order to connect Resmo to those accounts as well, you can click on the launch stack button, and it should direct you to Create Stack-Set Page in AWS Console. You can copy and paste the stack-set required information, template url, external ID, etc., from Resmo.
 
@@ -384,6 +384,14 @@ In step 4, you can select automatic deployment enabled so that if a new account 
 #### 1. Uninstall Resmo through CloudFormation
 
 Delete CloudFormation Stack, and this will delete resources that the stack has created.
+
+**Uninstall Organizational Integration**
+
+If StackSet is not used to connect other accounts in the organization, you can just delete the CloudFormation stack, and that is all. Otherwise, the order of clean-up should be as follows:
+
+1. Delete CloudFormation Stacks from StackSet in the organization management account; you can inspect their deletion from the **Stack Instances** tab of the StackSet. AWS will not allow the removal of StackSets if they contain Stack instances.
+2. Delete CloudFormation StackSet in the organization management account.
+3. Delete CloudFormation Stack (initially run to connect the management account to Resmo) in the organization management account.
 
 #### 2. Manually delete the role and policy using AWS CLI
 
