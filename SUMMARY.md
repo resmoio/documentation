@@ -12,6 +12,7 @@
 
 * [Query Your First Resources](guides/query-your-first-resources.md)
 * [Create Your First Rule](guides/create-your-first-rule.md)
+* [Custom Data Integration](guides/custom-data-integration.md)
 
 ## Resources
 
