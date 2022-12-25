@@ -36,7 +36,7 @@ Resmo uses API to do the initial polling and collect existing resources. Followi
 
 3\. Name your Kandji integration and optionally write a description.
 
-<figure><img src="../.gitbook/assets/name-integration.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/name-integration (1).png" alt=""><figcaption></figcaption></figure>
 
 4\. Go to your **Kandji Settings > Access.**
 

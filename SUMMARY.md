@@ -111,6 +111,7 @@
 * [GoDaddy Integration](integrations/godaddy-integration.md)
 * [Kandji Integration](integrations/kandji-integration.md)
 * [LaunchDarkly Integration](integrations/launchdarkly-integration.md)
+* [PlanetScale Integration](integrations/planetscale-integration.md)
 
 ## Notifications
 
