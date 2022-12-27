@@ -56,7 +56,7 @@ The Role should be 'Read Only' and select Multi-factor Authentication also for b
 
 6\. Login new created user and copy the user's API Key '**My API Key**' section, which can be accessible by clicking the User Icon from the top right of the page.
 
-<figure><img src="../.gitbook/assets/create-api-key.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/create-api-key (1).png" alt=""><figcaption></figcaption></figure>
 
 7\. Return to your Resmo JumpCloud integration page and paste the API Key in the related field. Then, click Save.
 
@@ -70,7 +70,7 @@ The Role should be 'Read Only' and select Multi-factor Authentication also for b
 2. Open the JumpCloud integration you wish to uninstall.
 3. From there, you have two options. You can choose to temporarily disable it by clicking the Disable button or permanently uninstall it by clicking the Delete button.
 
-<figure><img src="../.gitbook/assets/disable-delete (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/disable-delete (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Troubleshooting
 

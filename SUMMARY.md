@@ -112,6 +112,8 @@
 * [Kandji Integration](integrations/kandji-integration.md)
 * [LaunchDarkly Integration](integrations/launchdarkly-integration.md)
 * [PlanetScale Integration](integrations/planetscale-integration.md)
+* [Zoom Integration](integrations/zoom-integration.md)
+* [Jotform Integration](integrations/jotform-integration.md)
 
 ## Notifications
 

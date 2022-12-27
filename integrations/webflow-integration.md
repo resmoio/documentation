@@ -60,7 +60,7 @@ See the complete list:
 2. Click the Webflow integration you want to uninstall.
 3. To temporarily disable the integration, click the Disable button, or you can permanently remove it by clicking the Delete button.&#x20;
 
-<figure><img src="../.gitbook/assets/disable-delete.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/disable-delete (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Support
 
