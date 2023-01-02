@@ -114,6 +114,7 @@
 * [PlanetScale Integration](integrations/planetscale-integration.md)
 * [Zoom Integration](integrations/zoom-integration.md)
 * [Jotform Integration](integrations/jotform-integration.md)
+* [Auth0 Integration](integrations/auth0-integration.md)
 
 ## Notifications
 
