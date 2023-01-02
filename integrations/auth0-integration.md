@@ -87,7 +87,13 @@ _“Custom Domains” are only available on upgraded subscriptions; therefore, i
 
 ### How to uninstall
 
-1.
+1. Go to your applications page.
+2. Click on the “Machine to Machine” application you’ve created for Resmo.
+3. Under the settings click on “Delete this application”
+4. Write your application’s name to “Name” field and then click “Delete”
+5. Go to your Integration page on Resmo.
+6. Open the Auth0 integration you want to remove.
+7. Click delete button.
 
 ### Support
 
