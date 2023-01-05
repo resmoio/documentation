@@ -134,7 +134,8 @@
 
 * [User](users-and-permissions/user.md)
 * [User Roles](users-and-permissions/user-roles.md)
-* [Custom Roles and Policies](users-and-permissions/custom-roles-and-policies.md)
+* [RBAC (Role based access)](users-and-permissions/rbac-role-based-access/README.md)
+  * [Custom Roles and Policies](users-and-permissions/rbac-role-based-access/custom-roles-and-policies.md)
 * [SSO - Social Login](users-and-permissions/sso-social-login.md)
 
 ## Settings
