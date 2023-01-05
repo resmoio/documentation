@@ -132,9 +132,9 @@
 
 ## Users and Permissions
 
-* [Roles and Policies](users-and-permissions/roles-and-policies.md)
 * [User](users-and-permissions/user.md)
 * [User Roles](users-and-permissions/user-roles.md)
+* [Custom Roles and Policies](users-and-permissions/custom-roles-and-policies.md)
 * [SSO - Social Login](users-and-permissions/sso-social-login.md)
 
 ## Settings

@@ -1,4 +1,4 @@
-# Roles and Policies
+# Custom Roles and Policies
 
 ## Policies
 
@@ -98,7 +98,7 @@ You can create custom roles and policies with the enterprise plan, but accessing
 
 
     <figure><img src="../.gitbook/assets/policy-open-advanced-mode.png" alt=""><figcaption></figcaption></figure>
-5. Create your statements with JSON syntax. You can take a look at JSON policy JSON syntax from [here](roles-and-policies.md#policies-syntax-examples). Take a look at all services and actions from [here](https://docs.resmo.com/i/roles-and-policies/service-and-actions).
+5. Create your statements with JSON syntax. You can take a look at JSON policy JSON syntax from [here](custom-roles-and-policies.md#policies-syntax-examples). Take a look at all services and actions from [here](https://docs.resmo.com/i/roles-and-policies/service-and-actions).
 6. Click the Create button.
 
 ## Roles
