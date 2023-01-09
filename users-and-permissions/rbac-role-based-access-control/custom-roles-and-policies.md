@@ -68,25 +68,25 @@ You can create custom roles and policies with the enterprise plan, but accessing
 3.  Give a name to your custom policy.\
 
 
-    <figure><img src="../../.gitbook/assets/give-a-name-to-policy.png" alt=""><figcaption></figcaption></figure>
-4. Select Allow or Deny from the **Permission** section.
+    <figure><img src="../../.gitbook/assets/give-policy-name.png" alt=""><figcaption></figcaption></figure>
+4. Select Allow or Deny from the **Effect** section.
 5.  Select one or more services from the **Services** dropdown. This selection will fill the actions dropdown.\
 
 
-    <figure><img src="../../.gitbook/assets/select-policy-service.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/policy-select-service.png" alt=""><figcaption></figcaption></figure>
 6.  Select one or more actions from the **Actions** dropdown. \
 
 
-    <figure><img src="../../.gitbook/assets/select-policy-action.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/policy-select-action.png" alt=""><figcaption></figcaption></figure>
 7. You need to select allowed/denied types from the **Types** dropdown If you select type-dependent action. If you select an action without type dependency, you must give `*` or `*:*` as type.&#x20;
    1.  An action with type dependency\
 
 
-       <figure><img src="../../.gitbook/assets/action-with-type.png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../../.gitbook/assets/policy-select-resource.png" alt=""><figcaption></figcaption></figure>
    2.  An action without type dependency\
 
 
-       <figure><img src="../../.gitbook/assets/action-without-type.png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../../.gitbook/assets/policy-select-typless.png" alt=""><figcaption></figcaption></figure>
 8. Click the Create button.
 
 #### How to create a custom policy from JSON
@@ -97,7 +97,7 @@ You can create custom roles and policies with the enterprise plan, but accessing
 4.  Open Advanced Mode.\
 
 
-    <figure><img src="../../.gitbook/assets/policy-open-advanced-mode.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/policy-advanced-mode.png" alt=""><figcaption></figcaption></figure>
 5. Create your statements with JSON syntax. You can take a look at JSON policy JSON syntax from [here](custom-roles-and-policies.md#policies-syntax-examples). Take a look at all services and actions from [here](https://docs.resmo.com/i/roles-and-policies/service-and-actions).
 6. Click the Create button.
 
