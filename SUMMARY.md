@@ -117,6 +117,8 @@
 * [Auth0 Integration](integrations/auth0-integration.md)
 * [Wizer Integration](integrations/wizer-integration.md)
 * [Linear Integration](integrations/linear-integration.md)
+* [Figma Integration](integrations/figma-integration.md)
+* [Trello Integration](integrations/trello-integration.md)
 
 ## Notifications
 
