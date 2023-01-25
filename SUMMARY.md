@@ -119,6 +119,7 @@
 * [Linear Integration](integrations/linear-integration.md)
 * [Figma Integration](integrations/figma-integration.md)
 * [Trello Integration](integrations/trello-integration.md)
+* [CSV Integration](integrations/csv-integration.md)
 
 ## Notifications
 
