@@ -119,6 +119,7 @@
 * [Linear Integration](integrations/linear-integration.md)
 * [Figma Integration](integrations/figma-integration.md)
 * [Trello Integration](integrations/trello-integration.md)
+* [Mixpanel Integration](integrations/mixpanel-integration.md)
 * [Trivy Integration](integrations/trivy-integration.md)
 * [CSV Integration](integrations/csv-integration.md)
 
