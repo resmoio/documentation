@@ -122,6 +122,7 @@
 * [Mixpanel Integration](integrations/mixpanel-integration.md)
 * [Trivy Integration](integrations/trivy-integration.md)
 * [CSV Integration](integrations/csv-integration.md)
+* [DocuSign Integration](integrations/docusign-integration.md)
 
 ## Notifications
 
