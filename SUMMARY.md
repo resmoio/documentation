@@ -133,6 +133,7 @@
 * [Opsgenie Notification Channel](notifications/opsgenie-notification-channel.md)
 * [PagerDuty Notification Channel](notifications/pagerduty-notification-channel.md)
 * [Amazon SNS Notification Channel](notifications/amazon-sns-notification-channel.md)
+* [Parny Notification Channel](notifications/parny-notification-channel.md)
 
 ## Plugins
 
