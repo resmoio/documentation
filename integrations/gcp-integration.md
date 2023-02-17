@@ -136,7 +136,9 @@ You can follow the instructions to create a Workload Identity Provider with AWS 
    `iam.googleapis.com \`\
    `container.googleapis.com \`\
    `serviceusage.googleapis.com \`\
-   `monitoring.googleapis.com`
+   `monitoring.googleapis.com \`\
+   `iamcredentials.googleapis.com \`\
+   `sts.googleapis.com`
 
 #### `Enable Real Time Change Ingestion with PUB/SUB Model`
 
@@ -204,11 +206,14 @@ Don't forget to add destination permissions for the created topic. You can learn
 
 If you see `Not Ready` state for your integration after setup;
 
-1. Check your `attribute-condition of` identity provider \
+1. Check if your APIs are enabled for the related project.
+   1. iamcredentials.googleapis.com
+   2. sts.googleapis.com
+2. Check your `attribute-condition of` identity provider \
    \
    `attribute-condition`must be matched with the following condition `assertion.arn=="arn:aws:sts::512995177166:assumed-role/Resmo-GCP-DataCollectionRole/resmo-gcp-data-collection"`&#x20;
-2. Check your service account has `roles/iam.workloadIdentityUser`role for the related identity provider.
-3. Check your service account has the correct identity.\
+3. Check your service account has `roles/iam.workloadIdentityUser`role for the related identity provider.
+4. Check your service account has the correct identity.\
    \
    To impersonate a service account, grant your external identity the Workload Identity User role (`roles/iam.workloadIdentityUser`) on a service account with the roles required by your workload. You can learn more about identities [here](https://cloud.google.com/iam/docs/workload-identity-federation#impersonation).
 
