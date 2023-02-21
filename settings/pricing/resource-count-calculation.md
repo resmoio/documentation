@@ -6,7 +6,9 @@ The Professional pricing plan covers 20,000 resources. Once this limit is exceed
 
 The following resource types have different multipliers when calculating your resource count.
 
-### Resource Multiplier
+### Resource Multiplier (Tokenizing resources)
+
+A resource, like an Slack user or an S3 bucket counts as 1 resource unless otherwise specified. By multiplying the number of resources we charge, we reduce the number of resources we charge for default (comes with the integration - usually not created by the users like aws\_region) or more frequent resources.
 
 | **ResourceType**         | **Multiplier** |
 | ------------------------ | -------------- |
