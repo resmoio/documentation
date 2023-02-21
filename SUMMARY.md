@@ -152,3 +152,4 @@
 * [Accounts](settings/accounts.md)
 * [Billing Policy](settings/billing-policy.md)
 * [Pricing](settings/pricing.md)
+* [Resource Count Calculation](settings/resource-count-calculation.md)
