@@ -10,7 +10,7 @@ Resmo seamlessly integrates with the [Google Cloud Platform](https://cloud.googl
 
 ![](../.gitbook/assets/google-cloud.png)
 
-### What does Resmo offer Google Cloud Platform users? <a href="#what-does-opsgenie-offer-slack-users" id="what-does-opsgenie-offer-slack-users"></a>
+### What does Resmo offer to Google Cloud Platform users? <a href="#what-does-opsgenie-offer-slack-users" id="what-does-opsgenie-offer-slack-users"></a>
 
 * Collect all your GCP assets in place.
 * Ability to query your GCP roles, networks, Cloud functions, and 50+ other resources.

@@ -10,7 +10,7 @@ description: Integration guide for Resmo Kubernetes Integration.
 
 Resmo seamlessly integrates with [Kubernetes](https://kubernetes.io/) to ensure your resources stay secure and compliant.
 
-### What does Resmo offer Kubernetes users? <a href="#what-does-opsgenie-offer-slack-users" id="what-does-opsgenie-offer-slack-users"></a>
+### What does Resmo offer to Kubernetes users? <a href="#what-does-opsgenie-offer-slack-users" id="what-does-opsgenie-offer-slack-users"></a>
 
 * Collect and monitor all your Kubernetes resources in one place
 * Run automated audits with predefined or custom rules

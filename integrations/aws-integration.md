@@ -10,7 +10,7 @@ description: Integration guide for Resmo AWS Integration.
 
 Resmo integrates with [Amazon Web Services](https://aws.amazon.com/) to ensure that your cloud environment is secure and compliant.
 
-### What does Resmo offer Amazon Web Services users? <a href="#what-does-opsgenie-offer-slack-users" id="what-does-opsgenie-offer-slack-users"></a>
+### What does Resmo offer to Amazon Web Services users? <a href="#what-does-opsgenie-offer-slack-users" id="what-does-opsgenie-offer-slack-users"></a>
 
 * Collect all your AWS assets in place (really!)
 * Ability to query your AWS IAM roles, VPC security groups, Lambda functions, and 100+ other resources.

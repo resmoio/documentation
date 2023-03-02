@@ -4,16 +4,16 @@ description: Integration guide for Resmo Azure Integration.
 
 # Azure Integration
 
-Resmo seamlessly integrates with [Azure](https://portal.azure.com/) to ensure the security and compliance of your Azure environment.
-
 ## Resmo + Azure Integration Fundamentals
 
-![](../.gitbook/assets/azure-logo.png)
+<figure><img src="../.gitbook/assets/azure-logo.png" alt=""><figcaption></figcaption></figure>
 
-### What does Resmo offer Google Cloud Platform users? <a href="#what-does-opsgenie-offer-slack-users" id="what-does-opsgenie-offer-slack-users"></a>
+Resmo seamlessly integrates with [Azure](https://portal.azure.com/) to ensure the security and compliance of your Azure environment.
+
+### What does Resmo offer to Microsoft Azure users? <a href="#what-does-opsgenie-offer-slack-users" id="what-does-opsgenie-offer-slack-users"></a>
 
 * Collect all your Azure assets in place.
-* Ability to query your GCP networks, storage, virtual machines, and 50+ other resources.
+* Query your networks, storage, virtual machines, and 50+ other resources.
 * Set up rule notifications based on Azure resource configurations and their changes.
 * Set up custom or predefined rules for continuous security and compliance auditing.
 * Check your Azure security and compliance posture using the Azure Best Practices and compliance packs.&#x20;

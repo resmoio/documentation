@@ -68,7 +68,7 @@ Resmo uses API to do the initial polling and collect existing resources. Followi
 
 14. **Paste it to the Auth Token field** on the setup page.
 
-<figure><img src="../.gitbook/assets/tinybird-integration-token (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/tinybird-integration-token (2).png" alt=""><figcaption></figcaption></figure>
 
 15. Click **Create**.
 16. All set! Now you can start running queries on your Tinybird resources.

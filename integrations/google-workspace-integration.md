@@ -10,7 +10,7 @@ description: Guide for Resmo Google Workspace Integration
 
 Resmo integrates with Google Workspace to make sure your asset landscape is safe and compliant.
 
-### What does Resmo offer Google Workspace users? <a href="#what-does-opsgenie-offer-slack-users" id="what-does-opsgenie-offer-slack-users"></a>
+### What does Resmo offer to Google Workspace users? <a href="#what-does-opsgenie-offer-slack-users" id="what-does-opsgenie-offer-slack-users"></a>
 
 * Collect and visualize Google Workspace resources
 * Query assets like customers, domains, groups, users, tokens, and more

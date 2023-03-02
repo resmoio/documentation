@@ -10,7 +10,7 @@ description: Integration guide for Resmo GitHub Integration.
 
 Resmo integrates with [GitHub](https://github.com/) to make sure your GitHub environment is safe and compliant.
 
-### What does Resmo offer GitHub users? <a href="#what-does-opsgenie-offer-slack-users" id="what-does-opsgenie-offer-slack-users"></a>
+### What does Resmo offer to GitHub users? <a href="#what-does-opsgenie-offer-slack-users" id="what-does-opsgenie-offer-slack-users"></a>
 
 * Collect all your GitHub assets in place
 * Ability to query your GitHub users, repositories, issues, organization members and much more.
