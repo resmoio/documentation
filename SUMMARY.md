@@ -33,6 +33,13 @@
 * [Standard SQL Queries](queries/standard-sql-queries.md)
 * [Change SQL Queries](queries/change-sql-queries.md)
 
+## SaaS Discovery
+
+* [SaaS Discovery](saas-discovery/saas-discovery.md)
+* [Chrome Browser Extension](saas-discovery/chrome-browser-extension.md)
+* [SaaS Discovery Apps Dashboard](saas-discovery/saas-discovery-apps-dashboard.md)
+* [SaaS Discovery Employees Dashboard](saas-discovery/saas-discovery-employees-dashboard.md)
+
 ## Rules
 
 * [Rules](rules/rules.md)
@@ -124,6 +131,7 @@
 * [CSV Integration](integrations/csv-integration.md)
 * [DocuSign Integration](integrations/docusign-integration.md)
 * [Tinybird Integration](integrations/tinybird-integration.md)
+* [MonoSign Integration](integrations/monosign-integration.md)
 
 ## Notifications
 

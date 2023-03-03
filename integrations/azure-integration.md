@@ -6,7 +6,7 @@ description: Integration guide for Resmo Azure Integration.
 
 ## Resmo + Azure Integration Fundamentals
 
-<figure><img src="../.gitbook/assets/azure-logo.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/azure-logo (1).png" alt=""><figcaption></figcaption></figure>
 
 Resmo seamlessly integrates with [Azure](https://portal.azure.com/) to ensure the security and compliance of your Azure environment.
 

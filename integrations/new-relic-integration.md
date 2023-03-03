@@ -1,12 +1,12 @@
 ---
-description: Integration guide for Resmo New Relic integration.
+description: Integration guide for Resmo New Relic integration
 ---
 
 # New Relic Integration
 
 ## **Resmo + New Relic Integration Fundamentals**
 
-![](../.gitbook/assets/new-relic-logo.png)
+<figure><img src="../.gitbook/assets/newrelic-logo.png" alt=""><figcaption></figcaption></figure>
 
 Resmo integrates with New Relic to help keep your resources secure, compliant, and visible.
 
@@ -19,7 +19,7 @@ Resmo integrates with New Relic to help keep your resources secure, compliant, a
 
 ### How does the integration work?&#x20;
 
-Once you sign up to Resmo, you can easily integrate your account with New Relic using an API key. Resmo uses API to do the initial polling and collect existing resources. Then, we receive resource changes and updates in real-time by regular polling.
+Once you sign up to Resmo, you can easily integrate your account with New Relic using an API key. Resmo uses API to do the initial polling and collect existing resources. Then, we receive resource changes and updates in real-time through regular polling.
 
 ### Available resources&#x20;
 
@@ -48,7 +48,7 @@ _New Relic resources_
 2. Go to the Integrations page, click the Add Integration button, and select New Relic.&#x20;
 3. Name the integration and write a description (optional.)&#x20;
 
-![](../.gitbook/assets/newrelic-integration.png)
+<figure><img src="../.gitbook/assets/newrelic-resmo-integration.png" alt=""><figcaption></figcaption></figure>
 
 4\. Go to your New Relic account and open the API Keys page from the top-right account dropdown menu.
 
@@ -64,7 +64,7 @@ _New Relic resources_
 
 7\. Enter the user API key on the integration screen’s API key field.&#x20;
 
-![](../.gitbook/assets/enter-newrelic-api-key.png)
+<figure><img src="../.gitbook/assets/configuration-newrelic.png" alt=""><figcaption></figcaption></figure>
 
 8\. Next, select a Region from the dropdown menu (New Relic has two regions; USA (api.newrelic.com) or EU (api.eu.newrelic.com).)
 
@@ -75,8 +75,6 @@ _New Relic resources_
 1. Login to your Resmo account.&#x20;
 2. Navigate to the Integrations page and click New Relic.&#x20;
 3. Click the Delete button to uninstall or Disable to stop polling New Relic resources temporarily.
-
-![](../.gitbook/assets/deşete-disable-newrelic.png)
 
 ### Support
 
