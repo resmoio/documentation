@@ -12,6 +12,8 @@ It is recommended to add Google Workspace as a directory integration as well as 
 At least one method must be available for SaaS Discovery to operate.
 {% endhint %}
 
+{% embed url="https://youtu.be/wItzmz41VT0" %}
+
 ## How to configure SaaS Discovery
 
 1. Log in to your Resmo account and click **SaaS Discovery** from the navigation bar.
