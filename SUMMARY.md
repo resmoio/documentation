@@ -132,6 +132,8 @@
 * [DocuSign Integration](integrations/docusign-integration.md)
 * [Tinybird Integration](integrations/tinybird-integration.md)
 * [MonoSign Integration](integrations/monosign-integration.md)
+* [DigitalOcean Integration](integrations/digitalocean-integration.md)
+* [Sophos Integration](integrations/sophos-integration.md)
 
 ## Notifications
 
