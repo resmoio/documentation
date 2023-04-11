@@ -203,7 +203,7 @@ In step 4, you can select automatic deployment enabled so that if a new account 
 ```
 
 2\. Create a role with the name `resmo-data-collect`\
-``<mark style="color:red;">Note</mark>: Update \<EXTERNAL\_ID> with a proper secret of your choice, or you can use what Resmo has generated for you in Create Integration Page\
+<mark style="color:red;">Note</mark>: Update \<EXTERNAL\_ID> with a proper secret of your choice, or you can use what Resmo has generated for you in Create Integration Page\
 
 
 `aws iam create-role --role-name resmo-data-collect --assume-role-policy-document file://assume-role-policy.json`

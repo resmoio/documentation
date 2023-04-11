@@ -7,7 +7,7 @@ description: Overview of Resmo resource changes.
 Each resource has changes over time. They are created, updated or deleted. Customers can query these changes. They can use them in saved queries and rules.
 
 {% hint style="info" %}
-ie. _github\_repository_ resources has changes __ available at _github\_repository\_changes_ key __ while _jira\_user_ resources has changes available at _jira\_user\_changes_.
+ie. _github\_repository_ resources has changes available at _github\_repository\_changes_ key while _jira\_user_ resources has changes available at _jira\_user\_changes_.
 {% endhint %}
 
 Changes are powerful because they provide context on a resource's life cycle. Some use-cases:

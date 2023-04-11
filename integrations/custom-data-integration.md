@@ -41,7 +41,7 @@ _**Name**_ field is a unique identifier name across all of your group names. It 
 
 _**Table Name**_ field is a unique identifier resource name. You cannot create a new resource with the same name after being removed.
 
-_**Test Data** _ is a field you can put your payload to test your schema before creating it.
+_**Test Data**_ is a field you can put your payload to test your schema before creating it.
 
 _**Schema->**_ see below
 {% endhint %}
@@ -84,7 +84,7 @@ _**Name**_ field is a unique identifier name across all of your group names.
 
 _**Description**_ field is an optional field to set more details about the schema group.
 
-_**Tags** _ field is an optional field to set tags for your integration.
+_**Tags**_ field is an optional field to set tags for your integration.
 
 _**Ingest Key**_ is an authentication key for sending resource requests to Resmo.
 

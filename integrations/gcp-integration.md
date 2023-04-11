@@ -96,7 +96,7 @@ You can follow the instructions to create a Workload Identity Provider with AWS 
     `gcloud projects add-iam-policy-binding PROJECT_ID \`\
     `--member="serviceAccount:SERVICE_ACCOUNT_EMAIL" \`\
     `--role="roles/viewer"`\
-    ``
+
 
     ```bash
     gcloud projects add-iam-policy-binding PROJECT_ID \    
@@ -108,12 +108,12 @@ You can follow the instructions to create a Workload Identity Provider with AWS 
    `gcloud iam service-accounts add-iam-policy-binding SERVICE_ACCOUNT_EMAIL \`\
    `--role=roles/iam.workloadIdentityUser \`\
    `--member="MEMBER_EXPRESSION"`\
-   ``\
-   ``You can learn more about MEMBER\_EXPRESSION [here](https://cloud.google.com/iam/docs/workload-identity-federation#impersonation).
+   \
+   You can learn more about MEMBER\_EXPRESSION [here](https://cloud.google.com/iam/docs/workload-identity-federation#impersonation).
 7. `Enable Google Cloud Service API`\
-   ``\
-   ``**NOTE** You can only enable 20 services at a time\
-   ``\
+   \
+   **NOTE** You can only enable 20 services at a time\
+   \
    `gcloud services enable \` \
    `accesscontextmanager.googleapis.com \`\
    `apigateway.googleapis.com \`\
@@ -142,7 +142,7 @@ You can follow the instructions to create a Workload Identity Provider with AWS 
 
 #### `Enable Real Time Change Ingestion with PUB/SUB Model`
 
-**`Note:`**` ```` `**`Real Time Change Ingestion`**` ``is avaliable for enterprise plan only.`
+**`Note:`** **`Real Time Change Ingestion`**` ``is avaliable for enterprise plan only.`
 
 1. Create a PUB/SUB topic\
    \

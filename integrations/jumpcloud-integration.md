@@ -19,7 +19,7 @@ Resmo integrates with JumpCloud to help you keep your JumpCloud assets and confi
 
 ### How does the integration work?
 
-Resmo uses **** an API key created from your JumpCloud Admin page. Our application uses API to make the initial polling and receive existing resources. Then, we receive resource changes and updates in real-time through regular polling.
+Resmo uses an API key created from your JumpCloud Admin page. Our application uses API to make the initial polling and receive existing resources. Then, we receive resource changes and updates in real-time through regular polling.
 
 **Available resources**
 

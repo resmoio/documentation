@@ -48,9 +48,9 @@ You can follow the instructions to create a[ Service Principal](https://docs.mic
 \
 \>`az ad sp create-for-rbac --role Reader`
 
-``\
-``_Example Output:_\
-__`{` \
+\
+_Example Output:_\
+`{` \
 &#x20;`"appId": "###appId###",  // Client Id`\
 &#x20;`"displayName": "azure-cli-2022-04-13-14-04-21",`\
 &#x20;`"password": "#####",   // Client Secret`\
@@ -124,6 +124,6 @@ Changing `Tenant ID` is not allowed for Azure integration. If you want Resmo to 
 It may cause from two different scenario:
 
 * The created service principal app does not have right for fetching the related resource. Have a look at permissions of your Service Principal. Creating new integration and service principle may fix  the problem immediately.
-* The resource may not be in your default subscription, you can try adding other subscriptions to the created Service Principle with this command:[#for-giving-access-for-other-subscriptions-of-the-tenant-optional](azure-integration.md#for-giving-access-for-other-subscriptions-of-the-tenant-optional "mention")``
+* The resource may not be in your default subscription, you can try adding other subscriptions to the created Service Principle with this command:[#for-giving-access-for-other-subscriptions-of-the-tenant-optional](azure-integration.md#for-giving-access-for-other-subscriptions-of-the-tenant-optional "mention")
 
 </details>

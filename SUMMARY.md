@@ -23,9 +23,10 @@
 * [Basics](api/basics.md)
 * [Query API](api/query-api.md)
 
-## Resource Groups
+## Resource Tags
 
-* [Resource Groups](resource-groups/resource-groups.md)
+* [Tag Rules](resource-tags/resource-groups.md)
+* [Manual Tagging](resource-tags/manual-tagging.md)
 
 ## Queries
 

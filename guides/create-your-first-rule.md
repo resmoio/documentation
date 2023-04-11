@@ -10,7 +10,7 @@ This guide will show you how to create your first rule step-by-step.
 
 ### How to add a custom rule
 
-1. Open your Rules page on Resmo. You'll see a list of managed rules on this page. ****&#x20;
+1. Open your Rules page on Resmo. You'll see a list of managed rules on this page.&#x20;
 
 ![](../.gitbook/assets/rules-page.png)
 

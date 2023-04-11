@@ -68,7 +68,7 @@ Common use-cases for resource groups:&#x20;
 * accounts
 * teams
 
-Learn more about resource groups: [resource-groups.md](../resource-groups/resource-groups.md "mention")
+Learn more about resource groups: [resource-groups.md](../resource-tags/resource-groups.md "mention")
 
 ### Rule
 
