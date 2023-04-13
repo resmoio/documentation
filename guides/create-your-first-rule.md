@@ -38,7 +38,7 @@ Custom rules can be triggered by saved or managed queries. You can define their 
 1. Navigate to Settings>Notification Rules.
 
 {% hint style="info" %}
-Notification rules alert you about rule breaches through the channels of your choice**,** such as Slack or email. See [notification-rules.md](../notification-rules/notification-rules.md "mention") for details.
+Notification rules alert you about rule breaches through the channels of your choice**,** such as Slack or email. See [Broken link](broken-reference "mention") for details.
 {% endhint %}
 
 2\. Click Add Notification Rule.

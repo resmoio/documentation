@@ -18,6 +18,10 @@
 * [Resources](resources/resources.md)
 * [Resource Changes](resources/resource-changes.md)
 
+## Notebooks
+
+* [Notebooks](notebooks/notebooks.md)
+
 ## API
 
 * [Basics](api/basics.md)
@@ -56,9 +60,9 @@
 * [Packs](packs/packs.md)
 * [Pack Exports](packs/pack-exports.md)
 
-## Notification Rules
+## Alerts
 
-* [Notification Rules](notification-rules/notification-rules.md)
+* [Alerts](alerts/alerts.md)
 
 ## Variables
 
