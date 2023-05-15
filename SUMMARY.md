@@ -139,6 +139,7 @@
 * [MonoSign Integration](integrations/monosign-integration.md)
 * [DigitalOcean Integration](integrations/digitalocean-integration.md)
 * [Sophos Integration](integrations/sophos-integration.md)
+* [Firebase Integration](integrations/firebase-integration.md)
 
 ## Notifications
 

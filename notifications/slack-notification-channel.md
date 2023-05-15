@@ -17,7 +17,11 @@ Once you set up a Slack notification channel and add it to a notification rule, 
 3. Click on the Add Notification Channels button.
 4. Select Slack as your channel.
 
-![Slack notification channel setup page](../.gitbook/assets/slack-notification-channel-setup.png)
+<div align="left">
+
+<img src="../.gitbook/assets/slack-notification-channel-setup.png" alt="Slack notification channel setup page">
+
+</div>
 
 5\. Give a descriptive name to it (e.g., the integration you will use it for.)
 

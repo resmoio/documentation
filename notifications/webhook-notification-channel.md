@@ -16,7 +16,11 @@ Once you set up a webhook notification channel, you will be able to receive aler
 2. Navigate to Notification Channels from the Settings tab.
 3. Click Add New Notification Channels and select Webhook.
 
-![Webhook notification channel setup page](../.gitbook/assets/webhook-notification-channel-setup.png)
+<div align="left">
+
+<img src="../.gitbook/assets/webhook-notification-channel-setup.png" alt="Webhook notification channel setup page">
+
+</div>
 
 4\. Name the notification channel to remember it later.
 
