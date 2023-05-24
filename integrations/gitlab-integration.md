@@ -6,7 +6,7 @@ description: Integration guide for Resmo GitLab Integration.
 
 ## Resmo + GitLab Integration Fundamentals
 
-![](../.gitbook/assets/gitlab-logo-gray-rgb.png)
+<figure><img src="../.gitbook/assets/gitlab-logo-100.png" alt=""><figcaption></figcaption></figure>
 
 Resmo integrates with [GitLab](https://about.gitlab.com/) to ensure your GitLab environment's security and compliance.
 
@@ -16,7 +16,7 @@ Resmo integrates with [GitLab](https://about.gitlab.com/) to ensure your GitLab 
 * Query your GitLab issues, repositories, user, groups, and more
 * Assess your GitLab security posture against GitLab Best Practices packs
 * Set up rule notifications to get alerted on GitLab resource configurations
-* Cross-query your GitLab resources such as deployment with other tools like AWS EC2 and understand their relations.
+* Cross-query your GitLab resources, such as deployment, with other tools like AWS EC2 and understand their relations.
 
 ### How does the integration work?
 

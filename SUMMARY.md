@@ -140,6 +140,10 @@
 * [DigitalOcean Integration](integrations/digitalocean-integration.md)
 * [Sophos Integration](integrations/sophos-integration.md)
 * [Firebase Integration](integrations/firebase-integration.md)
+* [MySQL Integration](integrations/mysql-integration.md)
+* [PostgreSQL Integration](integrations/postgresql-integration.md)
+* [MongoDB Integration](integrations/mongodb-integration.md)
+* [ClickHouse Integration](integrations/clickhouse-integration.md)
 
 ## Notifications
 

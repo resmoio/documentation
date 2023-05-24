@@ -57,7 +57,7 @@ Labels help you query and refer to resources coming from this integration using 
 ### How to uninstall
 
 1. Go to your Integrations page and open the Firebase integration.
-2. Click the Connected Accounts tab and the connected account you want to remove.
+2. Click the Integrated Accounts tab and the connected account you want to remove.
 3. You can either disable the integration until you enable it back or delete it forever. Depending on your choice, click the related button (Disable / Delete) from the top right of the opening modal window.
 
 <figure><img src="../.gitbook/assets/firebase-configurations.png" alt=""><figcaption></figcaption></figure>
