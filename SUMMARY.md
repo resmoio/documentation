@@ -144,6 +144,7 @@
 * [PostgreSQL Integration](integrations/postgresql-integration.md)
 * [MongoDB Integration](integrations/mongodb-integration.md)
 * [ClickHouse Integration](integrations/clickhouse-integration.md)
+* [Help Scout Integration](integrations/help-scout-integration.md)
 
 ## Notifications
 
