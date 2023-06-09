@@ -145,6 +145,7 @@
 * [MongoDB Integration](integrations/mongodb-integration.md)
 * [ClickHouse Integration](integrations/clickhouse-integration.md)
 * [Help Scout Integration](integrations/help-scout-integration.md)
+* [Intercom Integration](integrations/intercom-integration.md)
 
 ## Notifications
 
