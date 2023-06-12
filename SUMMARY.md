@@ -157,6 +157,9 @@
 * [PagerDuty Notification Channel](notifications/pagerduty-notification-channel.md)
 * [Amazon SNS Notification Channel](notifications/amazon-sns-notification-channel.md)
 * [Parny Notification Channel](notifications/parny-notification-channel.md)
+* [Linear Notification Channel](notifications/linear-notification-channel.md)
+* [Jira Notification Channel](notifications/jira-notification-channel.md)
+* [Microsoft Teams Notification Channel](notifications/microsoft-teams-notification-channel.md)
 
 ## Plugins
 
