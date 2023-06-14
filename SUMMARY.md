@@ -146,6 +146,7 @@
 * [ClickHouse Integration](integrations/clickhouse-integration.md)
 * [Help Scout Integration](integrations/help-scout-integration.md)
 * [Intercom Integration](integrations/intercom-integration.md)
+* [Atlassian Access Integration](integrations/atlassian-access-integration.md)
 
 ## Notifications
 

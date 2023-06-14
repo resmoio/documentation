@@ -26,6 +26,16 @@ Resmo uses API to do the initial polling and collect existing resources. Followi
 * Webhook&#x20;
 
 {% hint style="info" %}
+⚠️ **Important Warning: Admin Privileges Required for Slack Integration**
+
+When setting up the Slack integration, please ensure that you are using an account with admin privileges. If you attempt to integrate Slack without admin privileges, certain fields and information will not be available. Notably, information regarding security features, such as whether "your organization has 2FA (Two-Factor Authentication)" enabled, will not be visible.
+
+To avoid missing crucial information and ensure a seamless integration process, logging in with an account with admin privileges is strongly recommended before initiating the Slack integration.
+
+If you have any questions or need assistance, please contact our support team.
+{% endhint %}
+
+{% hint style="info" %}
 Resmo **cannot read** direct messages or messages on channels. The required permissions allow access to basic information only.&#x20;
 
 The permissions are read-only within **Bot Token Scopes** (viewing basic information about channels, users, and user groups) and **User Token Scopes** (viewing basic information about public and private channels, workspace preferences, and users in a workspace).
