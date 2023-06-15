@@ -49,7 +49,7 @@ Resmo uses API to do the initial polling and collect existing resources. Followi
 
 6. Click on **"API"**.
 
-<figure><img src="../.gitbook/assets/api-keys.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/api-keys (1).png" alt=""><figcaption></figcaption></figure>
 
 7. On the API page, click on **"Keys"**.
 8. **Copy and paste the Base API URL** to the related field on the setup page.

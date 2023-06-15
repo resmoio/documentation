@@ -28,7 +28,7 @@ Resmo uses API to do the initial polling and collect existing resources. Followi
 1. Sign up or sign in to Resmo and navigate to the Integrations page.
 2. Click the Add Integration button and add Linear.
 
-<figure><img src="../.gitbook/assets/add-linear.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/add-linear (1).png" alt=""><figcaption></figcaption></figure>
 
 3\. Name your Linear integration and optionally write a description.
 

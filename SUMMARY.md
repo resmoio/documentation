@@ -147,6 +147,7 @@
 * [Help Scout Integration](integrations/help-scout-integration.md)
 * [Intercom Integration](integrations/intercom-integration.md)
 * [Atlassian Access Integration](integrations/atlassian-access-integration.md)
+* [Drata Integration](integrations/drata-integration.md)
 
 ## Notifications
 
