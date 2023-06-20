@@ -52,7 +52,7 @@ Resmo uses API to do the initial polling and collect existing resources. Followi
 
 7\. Generate and copy the API Token from your Terraform Cloud account.
 
-<figure><img src="../.gitbook/assets/create-api-token.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/create-api-token (1).png" alt=""><figcaption></figcaption></figure>
 
 8\. Paste it to the API Token field on the integration setup page on Resmo.
 

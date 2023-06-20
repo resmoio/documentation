@@ -148,6 +148,7 @@
 * [Intercom Integration](integrations/intercom-integration.md)
 * [Atlassian Access Integration](integrations/atlassian-access-integration.md)
 * [Drata Integration](integrations/drata-integration.md)
+* [Hetzner Cloud Integration](integrations/hetzner-cloud-integration.md)
 
 ## Notifications
 
