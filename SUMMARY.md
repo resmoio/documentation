@@ -149,6 +149,7 @@
 * [Atlassian Access Integration](integrations/atlassian-access-integration.md)
 * [Drata Integration](integrations/drata-integration.md)
 * [Hetzner Cloud Integration](integrations/hetzner-cloud-integration.md)
+* [Vanta Integration](integrations/vanta-integration.md)
 
 ## Notifications
 

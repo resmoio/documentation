@@ -56,7 +56,7 @@ Resmo uses API to do the initial polling and collect existing resources. Followi
 
 8\. Paste it to the API Token field on the integration setup page on Resmo.
 
-<figure><img src="../.gitbook/assets/paste-api.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/paste-api (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Click Create.
 2. All set! Now you can start running queries on your Terraform Cloud resources.
