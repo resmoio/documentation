@@ -22,12 +22,11 @@ Resmo easily integrates with AzureAD to secure and query your entire resource as
 
 Resmo connects with AzureAD through an OAuth flow. Then, it initiates polling and aggregating your existing resources. After the initial polling, Resmo performs polling at regular intervals to collect resource changes in real-time.
 
-| Available Resources  |
-| -------------------- |
-| AD Organization      |
-| AD Service Principle |
-| AD User              |
-| AD User Group        |
+{% embed url="https://docs.resmo.com/resources/azuread" %}
+
+{% hint style="info" %}
+**Tip:** Use [Audit Logs](../audit-logs/audit-logs.md) for comprehensive monitoring of all Azure Active Directory activities and system events.
+{% endhint %}
 
 ### Common queries and rules
 

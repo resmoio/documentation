@@ -33,6 +33,10 @@ See the full list:
 
 {% embed url="https://docs.resmo.com/resources/gsuite" %}
 
+{% hint style="info" %}
+**Tip:** Use [Audit Logs](../audit-logs/audit-logs.md) for comprehensive monitoring of all Google Workspace activities and system events.
+{% endhint %}
+
 ### Common queries and rules
 
 * List users per assigned role

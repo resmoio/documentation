@@ -38,6 +38,10 @@ See the full list:
 Opsgenie resources
 {% endembed %}
 
+{% hint style="info" %}
+**Tip:** Use [Audit Logs](../audit-logs/audit-logs.md) for comprehensive monitoring of all Opsgenie activities and system events.
+{% endhint %}
+
 ### Common queries and rules
 
 * List users who aren't participating in escalations.

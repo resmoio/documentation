@@ -23,6 +23,10 @@ Resmo uses API to do the initial polling and collect existing Atlassian Access r
 
 {% embed url="https://docs.resmo.com/resources/atlassianaccess" %}
 
+{% hint style="info" %}
+**Tip:** Use [Audit Logs](../audit-logs/audit-logs.md) for comprehensive monitoring of all Atlassian Access activities and system events.
+{% endhint %}
+
 ### Integration Walkthrough
 
 #### How to install

@@ -22,6 +22,10 @@
 
 * [Notebooks](notebooks/notebooks.md)
 
+## Audit Logs
+
+* [Audit Logs](audit-logs/audit-logs.md)
+
 ## API
 
 * [Basics](api/basics.md)

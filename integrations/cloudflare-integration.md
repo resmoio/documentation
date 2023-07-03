@@ -23,6 +23,10 @@ Once you sign up to Resmo, you can easily integrate your account with Cloudflare
 
 [Available Resources](https://docs.resmo.com/resources/cloudflare)
 
+{% hint style="info" %}
+**Tip:** You can monitor all activities and system events related to your Cloudflare account on [Audit Logs](../audit-logs/audit-logs.md).
+{% endhint %}
+
 ### Common queries and rules
 
 * See DNS record per zone

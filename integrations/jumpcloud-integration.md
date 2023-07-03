@@ -29,6 +29,10 @@ See the complete list:
 
 {% embed url="https://docs.resmo.com/resources/jumpcloud" %}
 
+{% hint style="info" %}
+**Tip:** Use [Audit Logs](../audit-logs/audit-logs.md) for comprehensive monitoring of all JumpCloud activities and system events.
+{% endhint %}
+
 ## Integration walkthrough
 
 ### How to install

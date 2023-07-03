@@ -24,6 +24,10 @@ Once you sign up for Resmo, you can easily integrate your account with Okta usin
 
 [Available Resources](https://docs.resmo.com/resources/okta)
 
+{% hint style="info" %}
+**Tip:** Use [Audit Logs](../audit-logs/audit-logs.md) for comprehensive monitoring of all Okta activities and system events.
+{% endhint %}
+
 ### Common queries and rules
 
 * List application groups
