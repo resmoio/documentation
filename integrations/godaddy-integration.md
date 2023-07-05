@@ -33,38 +33,30 @@ GoDaddy resources you can collect with Resmo include accounts, contacts, domains
 
 ### How to install
 
-1. Sign up or sign in to Resmo.
-2. Go to Integrations and add GoDaddy.
-
-<figure><img src="../.gitbook/assets/add-godaddy.png" alt=""><figcaption></figcaption></figure>
-
-3\. Name your GoDaddy integration and optionally write a description.
-
-<figure><img src="../.gitbook/assets/godaddy-resmo (1).png" alt=""><figcaption></figcaption></figure>
-
-4\. Go to your GoDaddy account and click on your account page. Copy your shopper ID under your username.
+1. Select GoDaddy on the Integrations page.
+2. Click the Add Integration button at the bottom right corner of the opening modal.
+3. Go to your GoDaddy account and click on your account page. Copy your shopper ID under your username.
 
 <figure><img src="../.gitbook/assets/godaddy-shopperid.png" alt=""><figcaption></figcaption></figure>
 
-5\. Paste it to the shopper ID field on the setup page.
+4. Paste it to the shopper ID field on the setup page.
 
 <figure><img src="../.gitbook/assets/paste-shopper-id.png" alt=""><figcaption></figcaption></figure>
 
-6\. Go to [API Keys](https://developer.godaddy.com/keys).
-
-7\. Click on "Create a new API Key."
+5. Go to [API Keys](https://developer.godaddy.com/keys).
+6. Click on "Create a new API Key."
 
 <figure><img src="../.gitbook/assets/api-key-management.png" alt=""><figcaption></figcaption></figure>
 
-8\. Make sure the selected environment is "Production," and then click "Next."
+7. Make sure the selected environment is "Production," and then click "Next."
 
 <figure><img src="../.gitbook/assets/select-production.png" alt=""><figcaption></figcaption></figure>
 
-9\. Copy the "Key" value from the page.
+8. Copy the "Key" value from the page.
 
 <figure><img src="../.gitbook/assets/api-key-and-api-secret-key.png" alt=""><figcaption></figcaption></figure>
 
-* Paste it to the API Key field on the setup page
+9. Paste it to the API Key field on the setup page.
 
 <figure><img src="../.gitbook/assets/paste-api-key.png" alt=""><figcaption></figcaption></figure>
 
@@ -78,9 +70,10 @@ GoDaddy resources you can collect with Resmo include accounts, contacts, domains
 
 ### How to uninstall
 
-1. Go to your Integrations page on Resmo.
-2. Click on the GoDaddy integration you want to uninstall.
-3. To temporarily pause it, click Disable from the top right and enable it back later. Or you can also permanently remove the integration by clicking on the Delete button.&#x20;
+1. Select GoDaddy on your Integrations page.
+2. Navigate to the Connected Integrations tab on the opening modal.
+3. Click on the GoDaddy integration you want to uninstall.
+4. To temporarily pause it, click Disable from the top right and enable it back later. Or you can also permanently remove the integration by clicking on the Delete button.&#x20;
 
 <figure><img src="../.gitbook/assets/delete-or-disable.png" alt=""><figcaption></figcaption></figure>
 

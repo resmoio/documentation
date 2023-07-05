@@ -39,22 +39,13 @@ Once you sign up to Resmo, you can easily integrate your account with Duo using 
 #### **How to Install**
 
 1. Login to your Resmo account and go to your Integrations page.
-
-![](<../.gitbook/assets/integrations (2).png>)
-
-2\. Then, select Duo integration to add it.
-
-3\. Name the integration and write a description (optional.)
-
-![](../.gitbook/assets/duo.png)
-
-4\. Go to your Duo account -> Duo Admin panel
-
-5\. Click Protect an Application and locate the entry for Admin API in the applications list.
+2. Then, select Duo integration and click the Add Integration button from the opening modal.
+3. Go to your Duo account -> Duo Admin panel on a new tab.
+4. Click Protect an Application and locate the entry for Admin API in the applications list.
 
 ![](../.gitbook/assets/duo-applications.png)
 
-6\. Click Protect to the far-right to configure the application and get your integration key, secret key, and API hostname with the required permissions.
+6\. Click Protect to configure the application and get your integration key, secret key, and API hostname with the required permissions.
 
 ![](../.gitbook/assets/duo-admin-api.png)
 
@@ -72,8 +63,9 @@ Once you sign up to Resmo, you can easily integrate your account with Duo using 
 
 #### **How to Uninstall**
 
-1. Go to Settings>Inetgrations and select the Duo integration you wish to delete.
-2. There are two options available:
+1. Go to Settings>Inetgrations-> Duo.
+2. Navigate to the Connected Integrations tab and select the one you want to remove.
+3. There are two options available:
 
 * For a temporary pause in the integration, click Disable. You can enable it later on whenever you want.
 * For permanent removal, click Delete. Note that you cannot undo a Delete action.

@@ -41,16 +41,8 @@ Resmo aggregates Fastly resources in real-time, including accounts, API Tokens, 
 ### How to install
 
 1. Log in to your Resmo account and go to your Integrations page.
-
-<figure><img src="../.gitbook/assets/resmo-fastly.png" alt=""><figcaption></figcaption></figure>
-
-2\. Click the Add Integration button from the top right. Then, select Fastly.
-
-<figure><img src="../.gitbook/assets/fastly-integration-config.png" alt=""><figcaption></figcaption></figure>
-
-3\. Name the integration and write a description (optional.)
-
-4\. Go to your Fastly account and create an API token from [https://manage.fastly.com/account/personal/tokens](https://manage.fastly.com/account/personal/tokens)
+2. Select Fastly and click the Add Integration button at the bottom right corner of the opening modal.
+3. Go to your Fastly account and create an API token from -> [https://manage.fastly.com/account/personal/tokens](https://manage.fastly.com/account/personal/tokens)
 
 <figure><img src="../.gitbook/assets/fastly-api-tokens.png" alt=""><figcaption></figcaption></figure>
 
@@ -66,8 +58,9 @@ Resmo aggregates Fastly resources in real-time, including accounts, API Tokens, 
 
 ### How to uninstall
 
-1. Navigate to your integrations page and click the Fastly integration you wish to remove.
-2. To temporarily pause the integration, hit the Disable button. Or, you may permanently uninstall it by clicking the Delete button from the top right.
+1. Navigate to your integrations page and click the Fastly integration.
+2. Navigate to the Connected Integrations tab and select the account you want to remove.
+3. To temporarily pause the integration, hit the Disable button. Or, you may permanently uninstall it by clicking the Delete button from the top right.
 
 ### Support
 

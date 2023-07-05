@@ -29,21 +29,14 @@ Resmo has an Azure DevOps application that you can install once you sign up for 
 
 ### How to install
 
-1. Sign up or sign in to Resmo.
-2. Go to your Integrations page and click the Add Integrations button.
-3. Find Azure DevOps from the list and click on it.
-
-<figure><img src="../.gitbook/assets/add-azuredevops (1).png" alt=""><figcaption></figcaption></figure>
-
-4\. From the opening screen, type a descriptive name for the integration and optionally a description.
-
-<figure><img src="../.gitbook/assets/azure-devops.png" alt=""><figcaption></figcaption></figure>
-
-5\. You'll be redirected to Azure DevOps. Accept permissions.
+1. Go to your Integrations page and select Azure DevOps.
+2. Click the Add Integration button at the bottom right corner of the opening modal.
+3. Click the Create button.
+4. You'll be redirected to Azure DevOps. Accept permissions.
 
 <figure><img src="../.gitbook/assets/azure-devops-integration.png" alt=""><figcaption></figcaption></figure>
 
-6\. You are ready! Now you can start querying your Azure DevOps resources!
+5. You are ready! Now you can start querying your Azure DevOps resources!
 
 #### About Access
 
@@ -56,8 +49,8 @@ If you want to revoke your OAuth tokens after deleting the integration. Navigate
 
 ### How to uninstall
 
-1. Log in to your Resmo account and navigate to your Integrations page.
-2. Click the Azure DevOps integration you wish to uninstall.
-3. On the opening window, you'll see two options on the top right; Disable and Delete. Disabling your integration makes Resmo pause all related polling until you enable it back again. Deleting, on the other hand, permanently removes it and cannot be undone.
+1. Go to Integrations -> Azure DevOps.
+2. From the Connected Integrations tab of the opening modal, click the Azure DevOps integration you wish to uninstall.
+3. You'll see two options on the top right; Disable and Delete. Disabling your integration makes Resmo pause all related polling until you enable it back again. Deleting, on the other hand, permanently removes it and cannot be undone.
 
 ### Support

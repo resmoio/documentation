@@ -31,7 +31,7 @@ Resmo uses Google Workspace Reports API to do the initial polling and collect ex
 
 * Business Standard pricing plan required at least one Google Workspace account to run this integration successfully.
 * We are not accessing your document's content. Google Drive integration only takes permission for audit logs and customer information.
-* Initially, this integration polls the last six months' audit logs, creates document resources and listens for document events.
+* Initially, this integration polls the last six months' audit logs, creates document resources, and listens for document events.
 {% endhint %}
 
 ## Integration walkthrough
@@ -39,17 +39,9 @@ Resmo uses Google Workspace Reports API to do the initial polling and collect ex
 ### How to install
 
 1. Log in to your Resmo account and go to the Integrations page.
-2. From there, click the Add Integration button.
-
-<figure><img src="../.gitbook/assets/add-integration.png" alt=""><figcaption></figcaption></figure>
-
-3\. Add Google Drive.
+2. From there, select Google Drive and click the Add Integration button from the bottom right corner of the opening modal.
 
 <figure><img src="../.gitbook/assets/add-google-drive.png" alt=""><figcaption></figcaption></figure>
-
-4\. Write a descriptive name for your Google Drive integration and, optionally, a description.
-
-<figure><img src="../.gitbook/assets/google-drive-resmo-integration.png" alt=""><figcaption></figcaption></figure>
 
 5\. Hit the Create button, and you'll be redirected to your Google Account. Accept permissions.
 
@@ -60,7 +52,7 @@ Resmo uses Google Workspace Reports API to do the initial polling and collect ex
 ### How to uninstall
 
 1. Go to your Integrations page on Resmo.
-2. Click the Google Drive integration you want to remove.
+2. Select Google Drive and go to the Integrated Accounts tab on the opening modal. Select the account you want to remove.
 3. For temporary disabling, click the **Disable** button from the top right. This action can be reversed later by enabling the integration back. Or you can permanently uninstall the integration by clicking the **Delete** button. This action cannot be undone.
 
 <figure><img src="../.gitbook/assets/googledrive-disable.png" alt=""><figcaption></figcaption></figure>

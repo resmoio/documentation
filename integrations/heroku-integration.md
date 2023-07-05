@@ -27,23 +27,13 @@ Resmo aggregates Heroku resources like teams, applications, and add-ons to help 
 
 {% embed url="https://docs.resmo.com/resources/heroku" %}
 
-### Common queries and rules
-
-(To be added)
-
 ## Integration Walkthrough
 
 ### How to install
 
 1. Login to your Resmo account and navigate to the Integrations page.
-
-![](<../.gitbook/assets/integrations (3).png>)
-
-2\. Select Heroku. Next, give a descriptive name to your Heroku integration.
-
-![](../.gitbook/assets/heroku-integration.png)
-
-3\. Optionally, you may add a description and tags. Then, hit the create button.
+2. Select Heroku and click Add Integration from the bottom right corner of the opening modal.
+3. Then, hit the Create button.
 
 * When choosing an access level, keep in mind that Heroku requires global scope for fetching team members.&#x20;
 
@@ -63,8 +53,9 @@ There are two options for Oauth token scopes: global and read. Resmo sets 'globa
 
 ### How to uninstall
 
-1. Navigate to your Integrations page and select the Heroku integration you wish to delete.
-2. To temporarily pause the integration click the Disable button. To remove it permanently, click the Delete button from the top right.
+1. Navigate to your Integrations page on Resmo and select Heroku.
+2. From the Connected Integrations tab on the opening modal, select the Heroku integration you wish to delete.
+3. To temporarily pause the integration click the Disable button. To remove it permanently, click the Delete button from the top right.
 
 {% hint style="info" %}
 #### Revoking Tokens

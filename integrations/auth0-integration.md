@@ -42,11 +42,10 @@ _“Custom Domains” are only available on upgraded subscriptions; therefore, i
 
 ### How to install
 
-1. Log in to your Resmo account and go to your Integrations page.
-2. Click the Add Integration button and add Auth0.
-3. Name your integration and optionally type a description.
-
-4\. Go to your applications page on Auth0
+1. Select Auth0 on the Integrations page of your Resmo account.
+2. Click the Add Integration button at the bottom right corner of the opening modal.
+3. Go to your Auth0 account on a new tab.
+4. Go to your applications page on Auth0.
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -91,9 +90,9 @@ _“Custom Domains” are only available on upgraded subscriptions; therefore, i
 2. Click on the “Machine to Machine” application you’ve created for Resmo.
 3. Under the settings click on “Delete this application”
 4. Write your application’s name to “Name” field and then click “Delete”
-5. Go to your Integration page on Resmo.
-6. Open the Auth0 integration you want to remove.
-7. Click delete button.
+5. Select Auth0 on your Integrations page on Resmo.
+6. Navigate to the Connected Integrations tab on the opening modal and select the account you want to remove.
+7. Click the Delete button to remove the integration permanently or Disable to enable back later.
 
 ### Support
 

@@ -34,26 +34,20 @@ PlanetScale resources you can collect with the integration include branch passwo
 
 ### How to install
 
-1. Sign up or sign in to Resmo and navigate to your Integrations page.
-2. Click **Add Integrations** and **Add PlanetScale**.
-
-<figure><img src="../.gitbook/assets/add-planetscale.png" alt=""><figcaption></figcaption></figure>
-
-3\. Give a descriptive name to your integration and, optionally, write a description.
-
-<figure><img src="../.gitbook/assets/name-integration.png" alt=""><figcaption></figcaption></figure>
-
-4\. You'll be redirected to PlanetScale. **Accept permissions**.
-
-5\. Your PlanetScale integration is all set! Now you can start querying your PlanetScale resources!
+1. Select PlanetScale on the Integrations page.
+2. Click the Add Integration button at the bottom right corner of the opening modal.
+3. Hit the Create button.
+4. You'll be redirected to PlanetScale. **Accept permissions**.
+5. Your PlanetScale integration is all set! Now you can start querying your PlanetScale resources.
 
 <figure><img src="../.gitbook/assets/query-planetscale-security.png" alt=""><figcaption></figcaption></figure>
 
 ### How to uninstall
 
-1. Go to your Integrations page on Resmo.
-2. Click the PlanetScale integration you want to uninstall.
-3. Click the **Disable** button from the top right to temporarily disable the integration. You can enable it back later. To permanently remove the integration, click the **Delete** button instead. Note that this action cannot be undone.
+1. Select PlanetScale on your Integrations page.
+2. Navigate to the Connected Integrations tab on the opening modal.
+3. Click the PlanetScale integration you want to uninstall.
+4. Click the **Disable** button from the top right to temporarily disable the integration. You can enable it back later. To permanently remove the integration, click the **Delete** button instead. Note that this action cannot be undone.
 
 
 

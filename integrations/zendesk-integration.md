@@ -29,33 +29,24 @@ Resmo has a Zendesk application that you can install once you sign up for a Resm
 
 ### How to install
 
-1. Sign up or sign in to Resmo. Then, navigate to your Integrations page.
-2. Click the Add Integration button.
-
-<figure><img src="../.gitbook/assets/add-integration (1) (2).png" alt=""><figcaption></figcaption></figure>
-
-3\. Add Zendesk.
-
-<figure><img src="../.gitbook/assets/add-zendesk.png" alt=""><figcaption></figcaption></figure>
-
-4\. Name your Zendesk integration and optionally write a description.
-
-<figure><img src="../.gitbook/assets/zendesk-integration.png" alt=""><figcaption></figcaption></figure>
-
-5\. On the Configuration section, type your Zendesk subdomain name into the related field.
+1. Select Zendesk on the Integrations page of your Resmo account.
+2. Click the Add Integration button at the bottom right corner of the opening modal.
+3. On the Configuration section, type your Zendesk subdomain name into the related field.
 
 <figure><img src="../.gitbook/assets/zendesk-integration-config.png" alt=""><figcaption></figcaption></figure>
 
-6\. You'll be redirected to Zendesk. Accept permissions.
-
-7\. Your Zendesk integration is ready! Now you can start querying your resources!
+4. Hit the Create button.
+5. You'll be redirected to Zendesk.&#x20;
+6. Accept the required permissions for the integrations.
+7. Your Zendesk integration is ready! Now you can start querying your resources!
 
 ### How to uninstall
 
-1. Go to your Integrations page on Resmo.
-2. Click the Zendesk integration you want to remove.
-3. To temporarily pause the integration, click the Disable button from the top right. You can always enable it back later.&#x20;
-4. The other option is permanent deletion. To uninstall your Zendesk integration permanently, you can click the Delete button.
+1. Select Zendesk on the Integrations page.
+2. Navigate to the Connected Integrations tab on the opening modal.
+3. Select the Zendesk integration you want to remove.
+4. To temporarily pause the integration, click the Disable button from the top right. You can always enable it back later.&#x20;
+5. The other option is permanent deletion. To uninstall your Zendesk integration permanently, you can click the Delete button.
 
 <figure><img src="../.gitbook/assets/delete-integration.png" alt=""><figcaption></figcaption></figure>
 

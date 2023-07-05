@@ -29,23 +29,15 @@ Resmo aggregates Snowflake resources such as databases, users, keys, tables, and
 
 {% embed url="https://docs.resmo.com/resources/snowflake" %}
 
-### Common queries and rules
-
-_(To be added)_
-
 ## Integration Walkthrough
 
 ### How to Install
 
-1. **Login to your Resmo account and navigate to Integrations. Then, add Snowflake.**
+1. **Login to your Resmo account and navigate to Integrations. Then, select Snowflake.**
 
-![](<../.gitbook/assets/integrations (2).png>)
+**2. Click the Add Integration button at the bottom right corner of the opening modal.**
 
-**2. Name the integration and write a description (optional.)**
-
-![](../.gitbook/assets/snowflake-integration.png)
-
-**3. Go to your Snowflake Account and Create Security Integration with the following properties.**
+**3. On a new tab, go to your Snowflake Account and Create Security Integration with the following properties.**
 
 ```bash
 create security integration INTEGRATION_NAME
@@ -63,7 +55,7 @@ oauth_issue_refresh_tokens = true;
 * Check your security integration by executing `desc security integration INTEGRATION_NAME;`
 * Get credentials for your security integration by executing `select SYSTEM$SHOW_OAUTH_CLIENT_SECRETS( 'INTEGRATION_NAME' );`. Enter the Client Id and Client Secret in the integration configuration screen.
 
-**4. Create a new user/role with required privileges.**
+**4. Create a new user/role with the required privileges.**
 
 ![](../.gitbook/assets/manage-privileges.png)
 
@@ -89,15 +81,15 @@ oauth_issue_refresh_tokens = true;
 
 ### How to Uninstall
 
-1. **Go to your Resmo Integrations page.**
+1. **Go to Integrations->Snowflake.**
 
-**2. Click the Snowflake integration you wish to remove.**
+**2. Navigate to the Connected Integrations tab on the modal and click the Snowflake integration you wish to remove.**
 
 ![](../.gitbook/assets/delete-disable.png)
 
-3\. You have two options. To temporarily pause the integration click the Disable button; to permanently uninstall it, click the Delete button.
+3\. You have two options. To temporarily pause the integration, click the Disable button; to permanently uninstall it, click the Delete button.
 
-4\. Optionally, you can remove your oAuth token after uninstalling the integration permanently. Follow instructions [here](https://docs.snowflake.com/en/user-guide/oauth-consent.html#revoking-delegated-authorizations).
+4\. Optionally, you can remove your oAuth token after uninstalling the integration permanently. Follow the instructions [here](https://docs.snowflake.com/en/user-guide/oauth-consent.html#revoking-delegated-authorizations).
 
 ### Support
 

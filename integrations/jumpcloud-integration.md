@@ -37,20 +37,10 @@ See the complete list:
 
 ### How to install
 
-1. Sign up or sign in to your Resmo account.
-2. Go to your Integrations page and click the Add Integration button.
-
-<figure><img src="../.gitbook/assets/add-integration (1).png" alt=""><figcaption></figcaption></figure>
-
-3\. Then, add JumpCloud.
-
-<figure><img src="../.gitbook/assets/add-jumpcloud.png" alt=""><figcaption></figcaption></figure>
-
-4\. Give a descriptive name to your integration and, optionally, a description.
-
-<figure><img src="../.gitbook/assets/jumpcloud-integration.png" alt=""><figcaption></figcaption></figure>
-
-5\. Go to your JumpCloud account and create a read-only admin user via **Settings** -> **Administrators** -> **Create a new administrator.**
+1. Select JumpCloud on the Integrations page on your Resmo account.
+2. Click the Add Integration button at the bottom right corner of the opening modal.
+3. Log in to your JumpCloud account on a new tab on your browser.
+4. Create a read-only admin user via **Settings** -> **Administrators** -> **Create a new administrator.**
 
 {% hint style="info" %}
 The Role should be 'Read Only' and select Multi-factor Authentication also for best practices!
@@ -58,20 +48,20 @@ The Role should be 'Read Only' and select Multi-factor Authentication also for b
 
 <figure><img src="../.gitbook/assets/administrators.png" alt=""><figcaption></figcaption></figure>
 
-6\. Login new created user and copy the user's API Key '**My API Key**' section, which can be accessible by clicking the User Icon from the top right of the page.
+4. Login new created user and copy the user's API Key '**My API Key**' section, which can be accessible by clicking the User Icon from the top right of the page.
 
 <figure><img src="../.gitbook/assets/create-api-key (1).png" alt=""><figcaption></figcaption></figure>
 
-7\. Return to your Resmo JumpCloud integration page and paste the API Key in the related field. Then, click Save.
+5. Return to your Resmo JumpCloud integration page and paste the API Key in the related field. Then, click Save.
 
 <figure><img src="../.gitbook/assets/enter-api-key.png" alt=""><figcaption></figcaption></figure>
 
-8\. You are now ready! Now you can start querying your JumpCloud resources!
+6. You are now ready! Now you can start querying your JumpCloud resources!
 
 ### How to uninstall
 
-1. Login to your Resmo account and navigate to the Integrations page.
-2. Open the JumpCloud integration you wish to uninstall.
+1. Select JumpCloud on your Integrations page.
+2. Navigate the Connected Integrations tab on the opening modal and select the JumpCloud integration you wish to uninstall.
 3. From there, you have two options. You can choose to temporarily disable it by clicking the Disable button or permanently uninstall it by clicking the Delete button.
 
 <figure><img src="../.gitbook/assets/disable-delete (1) (1).png" alt=""><figcaption></figcaption></figure>

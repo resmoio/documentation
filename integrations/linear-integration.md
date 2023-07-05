@@ -25,12 +25,8 @@ Resmo uses API to do the initial polling and collect existing resources. Followi
 
 ### How to install
 
-1. Sign up or sign in to Resmo and navigate to the Integrations page.
-2. Click the Add Integration button and add Linear.
-
-<figure><img src="../.gitbook/assets/add-linear (1).png" alt=""><figcaption></figcaption></figure>
-
-3\. Name your Linear integration and optionally write a description.
+1. Select Linear on the Integrations page of your Resmo account.
+2. Click the Add Integration button at the bottom right corner of the opening modal.
 
 <figure><img src="../.gitbook/assets/create-linear-resmo-integration.png" alt=""><figcaption></figcaption></figure>
 
@@ -44,9 +40,10 @@ Resmo uses API to do the initial polling and collect existing resources. Followi
 
 ### How to uninstall
 
-1. Go to your Integrations page on Resmo.
-2. Click the Linear integration you want to remove.
-3. You can either temporarily disable the integration or permanently delete it. Depending on your choice, click the related button (Disable / Delete) from the upper right corner, as seen in the image below.
+1. Select Linear on your Integrations page.
+2. Navigate to the Connected Integrations tab on the opening modal.
+3. Click the Linear integration you want to remove.
+4. You can either temporarily disable the integration or permanently delete it. Depending on your choice, click the related button (Disable / Delete) from the upper right corner, as seen in the image below.
 
 <figure><img src="../.gitbook/assets/disable-delete-linear.png" alt=""><figcaption></figcaption></figure>
 

@@ -29,30 +29,23 @@ Resmo uses API to do the initial polling and collect existing resources. Then, w
 
 ### How to install
 
-1. Sign up or sign in to Resmo and navigate to your Integrations page.
-2. Click the Add Integration button from the upper right corner.
-3. Add Trello.
-
-<figure><img src="../.gitbook/assets/add-trello.png" alt=""><figcaption></figcaption></figure>
-
-4\. Name your Trello integration and optionally type a description in the related field.
+1. Select Trello on the Integrations page.
+2. Click the Add Integration button at the bottom right corner of the opening modal.
 
 <figure><img src="../.gitbook/assets/trello-resmo-integration.png" alt=""><figcaption></figcaption></figure>
 
-5\. Hit the Create button.
-
-6\. You will be redirected to your Trello account.
-
-7\. Accept permissions.
-
-8\. Now, you can start querying your Trello resources.
+3. Hit the Create button.
+4. You will be redirected to your Trello account.
+5. Accept permissions.
+6. Now, you can start querying your Trello resources.
 
 ### How to uninstall
 
-1. Go to your Integrations page.
-2. Open the Trello integration you wish to remove.
-3. To **temporarily pause** it, click the Disable button from the top right. You can enable the integrations back later on.
-4. For **permanent deletion**, click the Delete button instead. This action cannot be undone.
+1. Select Trello on your Integrations page.
+2. Navigate to the Connected Integrations tab on the opening modal.
+3. Select the integration you want to remove.
+4. To **temporarily pause** it, click the Disable button from the top right. You can enable the integrations back later on.
+5. For **permanent deletion**, click the Delete button instead. This action cannot be undone.
 
 <figure><img src="../.gitbook/assets/delete-disable-buttons-trello.png" alt=""><figcaption></figcaption></figure>
 

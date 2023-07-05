@@ -29,12 +29,8 @@ Resmo uses API to do the initial polling and collect existing resources. Followi
 
 ### How to install
 
-1. Log in to your Resmo account, go to the Integrations page, and click the Add Integration button.
-2. Add Mixpanel.
-
-<figure><img src="../.gitbook/assets/add-mixpanel.png" alt=""><figcaption></figcaption></figure>
-
-3\. Name the integration and write a description (optional.)
+1. Select Mixpanel on the Integrations page.
+2. Click the Add Integration button at the bottom right corner of the opening modal.
 
 <figure><img src="../.gitbook/assets/name-integration (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -76,9 +72,10 @@ Resmo uses API to do the initial polling and collect existing resources. Followi
 
 ### How to uninstall
 
-1. Go to your Integrations page on Resmo.
-2. Click the Mixpanel integration you want to remove.
-3. To temporarily pause the integration, click the Disable button from the upper right corner. You can enable it back later on. For permanent deletion, click the Delete button instead. Note that this action cannot be undone.
+1. Select Mixpanel on your Integrations page.
+2. Navigate to the Connected Integrations tab on the opening modal.
+3. Click the Mixpanel integration you want to remove.
+4. To temporarily pause the integration, click the Disable button from the upper right corner. You can enable it back later on. For permanent deletion, click the Delete button instead. Note that this action cannot be undone.
 
 <figure><img src="../.gitbook/assets/disable-mixpanel-integration.png" alt=""><figcaption></figcaption></figure>
 

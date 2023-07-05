@@ -38,21 +38,18 @@ Resmo has a Bitbucket application that you can install once you sign up for a Re
 #### How to Install
 
 1. Login to your Resmo account and go to the Integrations page.
-2. Click the Add Integration button and select Bitbucket from the integrations list.
-3. Type a descriptive name for the integration and optionally a description.
-
-![](../.gitbook/assets/bitbucket.png)
-
-4\. You'll be redirected to Bitbucket; accept permissions.
+2. Find and select Bitbucket. Then, hit the Add Integration button at the bottom right corner of the opening modal.
+3. Click Create, and you'll be redirected to Bitbucket; accept permissions.
 
 ![](../.gitbook/assets/bitbucket-permissions.jpg)
 
-5\. Your Bitbucket integration is ready! Now you can start querying your resources!
+4. Your Bitbucket integration is ready! Now you can start querying your resources!
 
 #### How to Uninstall
 
-1. Navigate to Settings>Integrations and open the detail page of the integration you wish to uninstall.&#x20;
-2. You have two options. To temporarily pause the integration, click the Disable button. Or you can permanently remove the integration using the Delete button.
+1. Go to Integrations>Bitbucket.
+2. Click the Connected Integrations tab on the opening modal and select the Bitbucket account you want to remove.&#x20;
+3. You have two options. To temporarily pause the integration, click the Disable button. Or you can permanently remove the integration using the Delete button.
 
 ### Troubleshooting
 

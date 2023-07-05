@@ -71,38 +71,25 @@ The installation steps in this section present a general route you'll follow. To
 #### Integration steps on Resmo
 
 1. Login to Resmo and navigate to Integrations.
+2. Select AWS and click the Add Integration button from the bottom right corner of the opening modal window.
+3. To [install the integration using CloudFormation](aws-integration.md#install-using-cloudformation), hit the Launch Stack button. Or you can install it manually by clicking the Connect Manually button.&#x20;
 
-![](../.gitbook/assets/integrations.png)
-
-2\. Click the Add Integration button on the top right.
-
-![](<../.gitbook/assets/add-integration (1) (1) (1).png>)
-
-3\. Add the Amazon Web Services integration.
-
-4\. Give the integration a name and description.
-
-![](../.gitbook/assets/aws-integration.png)
-
-5\. Optionally, you can add tags to query and refer resources coming from this integration using these tags.
-
-6\. To [install the integration using CloudFormation](aws-integration.md#install-using-cloudformation), hit the Launch Stack button. Or you can install it manually by clicking the Connect Manually button.&#x20;
+{% hint style="info" %}
+If you are using AWS Organizations, please ensure you apply the template to the management (root) account and sub-accounts.
+{% endhint %}
 
 ![](<../.gitbook/assets/launch-stack (1).png>)
 
 **The following steps are for manual installation.**
 
-7\. Enter your 12-digit AWS account ID into the Account ID field.
-
-8\. Then, enter a Role Name (a valid IAM Role in your AWS account, which Resmo can assume to fetch resources).
+4. Enter your 12-digit AWS account ID into the Account ID field.
+5. Then, enter a Role Name (a valid IAM Role in your AWS account, which Resmo can assume to fetch resources).
 
 ![](../.gitbook/assets/manual.png)
 
-9\. Next, paste your External ID into the related field. (This step is required for extra authentication.)
-
-10\. Select either Yes or No depending on whether you will collect all the accounts under the organization. Note that the given role must be available in each account.
-
-11\. Hit the Create button, and your AWS integration is ready to roll.
+6. Next, paste your External ID into the related field. (This step is required for extra authentication.)
+7. Select either Yes or No, depending on whether you will collect all the accounts under the organization. Note that the given role must be available in each account.
+8. Hit the Create button, and your AWS integration is ready to roll.
 
 ### Install Using CloudFormation
 

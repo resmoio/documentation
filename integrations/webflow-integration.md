@@ -33,31 +33,19 @@ See the complete list:
 
 ### How to install
 
-1. Sign up or sign in to Resmo.
-2. Go to your Integrations page and click the Add Integration button.
-
-<figure><img src="../.gitbook/assets/add-integration (4).png" alt=""><figcaption></figcaption></figure>
-
-3\. Then, add Webflow.
-
-<figure><img src="../.gitbook/assets/add-webflow.png" alt=""><figcaption></figcaption></figure>
-
-4\. Give a descriptive name to your Webflow integration and, optionally, a description.
-
-<figure><img src="../.gitbook/assets/webflow-integration-screen.png" alt=""><figcaption></figcaption></figure>
-
-5\. Once you fill in the fields, hit the Create button.
-
-6\. You will be redirected to Webflow. Accept the required permissions.
+1. Select Webflow on the Integrations page of your Resmo account.
+2. Click the Add Integration button at the bottom right corner of the opening modal.
+3. Hit the Create button.
+4. You will be redirected to Webflow. Accept the required permissions.
 
 <figure><img src="../.gitbook/assets/webflow-permissions.png" alt=""><figcaption></figcaption></figure>
 
-7\. That's it! Now, your Resmo Webflow integration is all set. You can start collecting your resources and querying right away.&#x20;
+4. That's it! Now, your Resmo Webflow integration is all set. You can start collecting your resources and querying right away.&#x20;
 
 ### How to uninstall
 
-1. Login to your Resmo account and navigate to the Integrations page.
-2. Click the Webflow integration you want to uninstall.
+1. Select Webflow on your Integrations page.
+2. Open the Connected Integrations tab on the opening modal and select the Webflow integration you want to uninstall.
 3. To temporarily disable the integration, click the Disable button, or you can permanently remove it by clicking the Delete button.&#x20;
 
 <figure><img src="../.gitbook/assets/disable-delete (1).png" alt=""><figcaption></figcaption></figure>

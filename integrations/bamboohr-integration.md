@@ -36,34 +36,22 @@ Once you sign up to Resmo, you can easily integrate your account with BambooHR u
 
 ### How to install
 
-1. Sign in or sign up to Resmo.
-2. Go to your Integrations page and click the Add Integrations button from the top right.
-
-<figure><img src="../.gitbook/assets/add-integration (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-3\. Find BambooHR from the list and click on it.
-
-<figure><img src="../.gitbook/assets/add-bamboohr.png" alt=""><figcaption></figcaption></figure>
-
-4\. Name the integration and write a description (optional.)
-
-<figure><img src="../.gitbook/assets/bamboohr-integration.png" alt=""><figcaption></figcaption></figure>
-
-5\. Go to your BambooHR account and create an API Key by following the instructions from [https://documentation.bamboohr.com/docs#authentication](https://documentation.bamboohr.com/docs#authentication)
+1. Go to your Integrations page on Resmo and select BambooHR.
+2. Click the Add Integration button at the bottom right corner of the opening modal.
+3. On a new tab, go to your BambooHR account and create an API Key by following the instructions from [https://documentation.bamboohr.com/docs#authentication](https://documentation.bamboohr.com/docs#authentication)
 
 <figure><img src="../.gitbook/assets/bamboohr-api-key.png" alt=""><figcaption></figcaption></figure>
 
-6\. Enter the API Key on the integration screen’s API Koken field.
-
-7\. Enter the subdomain of your BambooHR account on the integration screen’s Subdomain field.
-
-8\. Hit the create button, and you are ready to run queries.
+4. Copy and paste the API Key on the integration screen’s API Token field.
+5. Enter the subdomain of your BambooHR account on the integration screen’s Subdomain field.
+6. Hit the Create button, and you are ready to run queries.
 
 ### How to uninstall
 
-1. Log in to your Resmo account and navigate to the Integrations page.
-2. From there, click the BambooHR integration you want to uninstall.
-3. To temporarily pause the integration, click the Disable button from the top right. To permanently remove it, click the Delete button.
+1. Go to Integrations -> BambooHR.
+2. From there, navigate to the Connected Integrations.&#x20;
+3. Select the BambooHR integration you want to uninstall.
+4. To temporarily pause the integration, click the Disable button from the top right. To permanently remove it, click the Delete button.
 
 ### Support
 

@@ -64,13 +64,10 @@ _Slack resources_
 
 #### How to install&#x20;
 
-1. Sign up or log in to your Resmo account.&#x20;
-2. Navigate to the Integrations page. Then, click the Add Integration button and select Slack. &#x20;
-3. Type a descriptive name for the integration and, optionally a description.&#x20;
-
-![](<../.gitbook/assets/slack-integration (1).png>)
-
-4\. You’ll be redirected to Slack. **Accept the permissions**.&#x20;
+1. Navigate to the Integrations page. Find and select Slack. &#x20;
+2. Click the Add Integration button from the bottom right corner of the opening modal.
+3. Hit the Create button.
+4. You’ll be redirected to Slack. **Accept the permissions**.&#x20;
 
 You can review the required permissions from the same page.
 
@@ -80,8 +77,7 @@ You can review the required permissions from the same page.
 
 #### How to uninstall&#x20;
 
-1. Navigate to Settings>Integrations and select the Slack integration you wish to remove.
-2. To temporarily pause the integration, click the Disable button; to permanently uninstall it, click the delete button.
+To delete the integration, open the Slack integration from Integrations>Slack. Go to the Connected Integrations tab from the opening modal and select the one you want to remove or disable.
 
 ![](../.gitbook/assets/slack-delete.png)
 

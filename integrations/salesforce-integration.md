@@ -29,17 +29,9 @@ Once you sign up to Resmo, you can easily integrate your account with Salesforce
 
 ### How to install
 
-1. Sign up or sign in to Resmo. Then, navigate to your Integrations page.
-2. Click the Add Integration button from the top right.
-3. Then, add Salesforce.
-
-<figure><img src="../.gitbook/assets/add-salesforce.png" alt=""><figcaption></figcaption></figure>
-
-4\. Give a descriptive name to your Salesforce integration, and optionally a description.
-
-<figure><img src="../.gitbook/assets/salesforce-resmo.png" alt=""><figcaption></figcaption></figure>
-
-5\. Go to your **Salesforce Account** and **Create a Connected App** by following the steps below:
+1. Select Salesforce on the Integrations page of your Resmo account.
+2. Click the Add Integration button at the bottom right corner of the opening modal.
+3. Go to your **Salesforce Account** and **Create a Connected App** by following the steps below:
 
 * Click on Setup -> Apps -> App Manager -> New Connected App
 
@@ -56,21 +48,18 @@ Once you sign up to Resmo, you can easily integrate your account with Salesforce
   * Perform requests at any time (refresh\_token, offline\_access)
 * Click Save.
 
-6\. **Copy the Consumer Key** from your Connect App.
+4. **Copy the Consumer Key** from your Connect App.
 
 <figure><img src="../.gitbook/assets/connected-app-key (1).png" alt=""><figcaption></figcaption></figure>
 
-* &#x20;Paste it to the Client Id in the integration configuration screen.
+5. Paste it to the Client Id in the integration configuration screen.
 
 <figure><img src="../.gitbook/assets/salesforce-integration-config.png" alt=""><figcaption></figcaption></figure>
 
-7\. **Copy the Consumer Secret** from your Connect App and paste it to the Client Secret in the integration configuration screen.
-
-8\. Enter your **Salesforce Instance Url** to the Instance Url field in the integration configuration screen.
-
-9\. Hit the Create button, and you'll be redirected to Salesforce. Accept permissions.
-
-10\. You are ready to run queries.
+6. **Copy the Consumer Secret** from your Connect App and paste it to the Client Secret in the integration configuration screen.
+7. Enter your **Salesforce Instance Url** to the Instance Url field in the integration configuration screen.
+8. Hit the Create button, and you'll be redirected to Salesforce. Accept permissions.
+9. You are ready to run queries.
 
 {% hint style="info" %}
 Please ensure that your refresh token policy is set as **`Refresh token is valid until revoked`** in your Salesforce Connected App.
@@ -78,11 +67,12 @@ Please ensure that your refresh token policy is set as **`Refresh token is valid
 
 ### How to uninstall
 
-1. To uninstall your Resmo Salesforce integration, go to your Integrations page and click open the Salesforce integration you wish to remove.
+1. To uninstall your Resmo Salesforce integration, go to your Integrations page and select Salesforce.
+2. On the opening modal window, navigate to the Connected Integrations tab and select the integrated Salesforce account you want to remove.
 
 There are two options you may follow. One is to temporarily disable the integration so that you can enable it back later. The other is to remove it permanently.&#x20;
 
-2\. Depending on your choice, click either Disable or Delete from the top right of the integration configuration screen.
+3. Depending on your choice, click either Disable or Delete from the top right of the integration configuration screen.
 
 <figure><img src="../.gitbook/assets/salesforce-disable.png" alt=""><figcaption></figcaption></figure>
 

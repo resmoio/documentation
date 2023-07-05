@@ -30,14 +30,11 @@ Resmo uses API to do the initial polling and collect existing resources. Followi
 
 ### How to install
 
-1. Sign in to your Resmo account, go to the integrations page, and click Add Integration.
-2. Add MonoSign.
+1. Select MonoSign on the Integrations page.
+2. Click the Add Integration button at the bottom right corner of the opening modal.
+3. Log in to your MonoSign account on a new tab.
 
 <figure><img src="../.gitbook/assets/add-monosign.png" alt=""><figcaption></figcaption></figure>
-
-3. Type a descriptive name for the integration and optionally, a description.
-
-<figure><img src="../.gitbook/assets/monosign-resmo.png" alt=""><figcaption></figcaption></figure>
 
 4. Go to the **MonoSign management page**.
 
@@ -49,7 +46,7 @@ Resmo uses API to do the initial polling and collect existing resources. Followi
 
 6. Click on **"API"**.
 
-<figure><img src="../.gitbook/assets/api-keys (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/api-keys.png" alt=""><figcaption></figcaption></figure>
 
 7. On the API page, click on **"Keys"**.
 8. **Copy and paste the Base API URL** to the related field on the setup page.
@@ -63,8 +60,10 @@ Resmo uses API to do the initial polling and collect existing resources. Followi
 
 ### How to uninstall
 
-1. Open the Integrations page on your Resmo account and click the MonoSign integration you want to remove.
-2. To temporarily pause Resmo from collecting your MonoSign resources, click the Disable button from the top right. For permanent deletion, click the Delete button instead. Disabling can be undone, while deletion cannot.
+1. Select MonoSign on your Integrations page.
+2. Navigate to the Connected Integrations tab on the opening modal.
+3. Click the MonoSign integration you want to uninstall.
+4. To temporarily pause Resmo from collecting your MonoSign resources, click the Disable button from the top right. For permanent deletion, click the Delete button instead. Disabling can be undone, while deletion cannot.
 
 <figure><img src="../.gitbook/assets/delete-disable-monosign-integration.png" alt=""><figcaption></figcaption></figure>
 

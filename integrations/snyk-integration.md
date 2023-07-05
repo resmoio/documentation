@@ -33,15 +33,10 @@ Once you sign up to Resmo, you can easily integrate your account with Snyk using
 #### **How to Install**
 
 1. Login to your Resmo account.
-2. Navigate to Integrations. Then, click Add Integration and select Snyk.
+2. Navigate to Integrations and select Synk.
+3. Click the Add Integration button from the bottom right corner of the opening modal.
 
-![](<../.gitbook/assets/integrations (2).png>)
-
-3\. Name your integration and write a description (optional.)
-
-![](../.gitbook/assets/snyk.png)
-
-4\.  Go to your Snyk account and create an API token from your Account Settings -> General -> Auth Token field if you have not created it already.
+4\.  Then, go to your Snyk account and create an API token from your Account Settings -> General -> Auth Token field if you have not created it already.
 
 ![](../.gitbook/assets/snyk-auth-token.png)
 
@@ -53,8 +48,8 @@ Once you sign up to Resmo, you can easily integrate your account with Snyk using
 
 **How to Uninstall**
 
-1. Go to Settings>Integrations on your Resmo account.&#x20;
-2. Then, select the Snyk integration you want to remove. You have two options;
+1. Go to Settings->Integrations-> Synk.
+2. Navigate to the Connected Integrations tab and select the Snyk integration you want to remove. You have two options;
 
 * To temporarily pause the integration, click Disable.
 * To permanently uninstall it, click Delete. Note that this action cannot be undone.

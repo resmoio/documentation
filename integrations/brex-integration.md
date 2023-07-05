@@ -30,24 +30,14 @@ Resmo uses API to do the initial polling and collect existing resources. Followi
 
 ### How to install
 
-1. Sign up or sign in to your Resmo account.
-2. Go to your Integrations page and click the Add Integration button.
-
-<figure><img src="../.gitbook/assets/add-new-integration.png" alt=""><figcaption></figcaption></figure>
-
-3\. Add Brex.
-
-<figure><img src="../.gitbook/assets/add-brex.png" alt=""><figcaption></figcaption></figure>
-
-4\. Name your Brex integrations and optionally write a description.
-
-<figure><img src="../.gitbook/assets/brex-integration.png" alt=""><figcaption></figcaption></figure>
-
-5\. Go to **Create Token** under the **Developer -> Settings** page.
+1. Select Brex on your Integrations page on Resmo.
+2. Click the Add Integration button at the bottom right corner of the opening modal.
+3. Log in to your Brex account on a new tab on your browser.
+4. Go to **Create Token** under the **Developer -> Settings** page.
 
 <figure><img src="../.gitbook/assets/brex-api-token.jpg" alt=""><figcaption></figcaption></figure>
 
-6\. Create and copy the Read-only Auth Token from your Brex account. Required scopes:
+5. Create and copy the Read-only Auth Token from your Brex account. Required scopes:
 
 {% hint style="info" %}
 * Users Read
@@ -58,18 +48,17 @@ Resmo uses API to do the initial polling and collect existing resources. Followi
 
 <figure><img src="../.gitbook/assets/token-scopes.png" alt=""><figcaption></figcaption></figure>
 
-7\. Paste it to the API Token field on the setup page.
+6. Paste it to the API Token field on the setup page.
 
 <figure><img src="../.gitbook/assets/API.png" alt=""><figcaption></figcaption></figure>
 
-8\. Hit the Create button.
-
-9\. That's it! Now you can start querying your Brex resources.
+7. Hit the Create button.
+8. That's it! Now you can start querying your Brex resources.
 
 ### How to uninstall
 
-1. Log in to your Resmo account and navigate to the Integrations page.
-2. Click the Brex integration you wish to remove.
+1. Select Brex on your Integrations page.
+2. Navigate to the Connected Integrations tab on the opening modal and select the Brex integration you wish to remove.
 3. To temporarily pause your Brex integration, click the Disable button. You can also permanently uninstall it by clicking the Delete button.&#x20;
 
 <figure><img src="../.gitbook/assets/disable-delete-integration.png" alt=""><figcaption></figcaption></figure>

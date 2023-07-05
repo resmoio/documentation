@@ -42,19 +42,16 @@ Resmo connects with AzureAD through an OAuth flow. Then, it initiates polling an
 
 1. Sign up or sign in to Resmo.
 2. Navigate to Integrations and select Azure Active Directory.
-3. Enter a descriptive name for your integration.
-
-![](../.gitbook/assets/azuread.png)
-
-4\. You'll be redirected to Azure. Accept permissions.
-
-5\. Your integration is ready! Now you can start querying your Azure Active Directory resources!
+3. Click the Add Integration button from the bottom right corner of the opening modal.
+4. Click Create.
+5. You'll be redirected to Azure. Accept permissions.
+6. Your integration is ready! Now you can start querying your Azure Active Directory resources!
 
 #### How to Uninstall
 
 1. Log in to your Resmo account.
-2. Go to Settings>Integrations from the navigation bar.
-3. Select the Azure Active Directory integration you wish to uninstall.
+2. Go to your Integrations page and select Azure AD.
+3. Go to the Connected Integrations tab from the opening modal and select the one you want to remove or disable.
 
 ![](../.gitbook/assets/azuread-integration-delete.png)
 

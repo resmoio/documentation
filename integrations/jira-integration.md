@@ -46,12 +46,10 @@ Jira resources
 #### How to install&#x20;
 
 1. Create or sign in to your Resmo account.&#x20;
-2. Navigate to the Integrations page and click Add Integration > Jira.&#x20;
-3. Give a descriptive name to the integration and click Create.
-
-![](<../.gitbook/assets/jira-integration (1).png>)
-
-4\. You’ll be redirected to your Atlassian account; accept permissions.
+2. Navigate to the Integrations page and select Jira.&#x20;
+3. Click the Add Integration button from the bottom right corner of the opening modal.
+4. Hit the Create button.
+5. You’ll be redirected to your Atlassian account; accept permissions.
 
 ![](../.gitbook/assets/jira-permissions.png)
 
@@ -61,10 +59,11 @@ Jira resources
 
 1. Log in to your Resmo account.&#x20;
 2. Go to Integrations and select Jira.&#x20;
-3. Click Delete to uninstall or Disable to pause the integration.
-4. Optionally, you can remove your OAuth token after uninstalling the integration permanently. Follow instructions [here](https://developer.atlassian.com/cloud/confluence/oauth-2-3lo-apps/#site-scoped-grants-limitations).
+3. Go to the Connected Integrations tab from the opening modal and select the one you want to remove or disable.
+4. Click Delete to uninstall or Disable to pause the integration.
+5. Optionally, you can remove your OAuth token after uninstalling the integration permanently. Follow the instructions [here](https://developer.atlassian.com/cloud/confluence/oauth-2-3lo-apps/#site-scoped-grants-limitations).
 
-If you uninstall Resmo from your Jira account, we don’t remove the integration by our side, so you will still be able to monitor and query your resources.
+If you uninstall Resmo from your Jira account, we don’t remove the integration on our side, so you will still be able to monitor and query your resources.
 
 #### Revoking Tokens
 

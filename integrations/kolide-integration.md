@@ -31,22 +31,17 @@ Resmo consolidates Kolide resources in one place, including devices, identities,
 
 ### How to install
 
-1. Sign up or sign in to your Resmo account.
-2. Navigate to your Integrations page and click the Add Integration button from the top right corner.
-3. Add Kolide. Give a name to your Kolide integration, and optionally a description.
-
-<figure><img src="../.gitbook/assets/kolide-integration.png" alt=""><figcaption></figcaption></figure>
-
-4\. Go to your Kolide account and create an API Key from Kolide [Settings Page](https://k2.kolide.com/x/settings/admin/api).
-
-5\. Fill the form with API Key and click Save.
-
-6\. You are now ready! Now you can start querying your Kolide resources!
+1. Go to your Integrations page and select Kolide.
+2. Click the Add Integration button at the bottom right corner of the opening modal.
+3. Open a new tab on your browser and go to your Kolide account.
+4. Create an API Key from Kolide [Settings Page](https://k2.kolide.com/x/settings/admin/api). Then, copy it.
+5. Fill the form with your copied Kolide API Key and click Create.
+6. You are now ready! Now you can start querying your Kolide resources!
 
 ### How to uninstall
 
-1. Login to your Resmo account and go to your Integrations page.
-2. Click the Kolide integration you wish to remove.
+1. Go to Integrations -> Kolide.
+2. From the Connected Integrations tab on the opening modal, select the Kolide integration you wish to remove.
 3. You can temporarily disable or permanently delete your integration from the top right buttons (Disable - Delete.)&#x20;
 
 <figure><img src="../.gitbook/assets/kolide-config.png" alt=""><figcaption></figcaption></figure>

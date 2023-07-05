@@ -50,32 +50,24 @@ See the complete list:
 
 ### How to install
 
-1. Sign up or sign in to Resmo and go to your Integrations page.
-2. Click the Add Integration button.
-3. Add Tenable.
-
-<figure><img src="../.gitbook/assets/add-tenable.png" alt=""><figcaption></figcaption></figure>
-
-4\. Name the integration, and optionally write a description.
-
-<figure><img src="../.gitbook/assets/tenable-integration.png" alt=""><figcaption></figcaption></figure>
-
-5\. Go to your Tenable account. Navigate to My Account -> API Keys -> Generate. Then, copy your generated API key.
+1. Select Tenable on the Integrations page of your Resmo account.
+2. Click the Add Integration button at the bottom right corner of the opening modal.
+3. Go to your Tenable account on a new tab on your browser.&#x20;
+4. Navigate to My Account -> API Keys -> Generate. Then, copy your generated API key.
 
 <figure><img src="../.gitbook/assets/tenable-api-key.png" alt=""><figcaption></figcaption></figure>
 
-6\. Enter your access key on the integration screen’s Access Key field.
+5. Enter your access key on the integration screen’s Access Key field.
 
 <figure><img src="../.gitbook/assets/tenable-integration-configuration (1).png" alt=""><figcaption></figcaption></figure>
 
-7\. Enter your secret key on the integration screen’s Secret Key field.
-
-8\. Hit the create button, and you are ready to run queries.
+6. Enter your secret key on the integration screen’s Secret Key field.
+7. Hit the create button, and you are ready to run queries.
 
 ### How to uninstall
 
-1. Login to your Resmo account.
-2. Go to the integrations page and open the Tenable integration you want to uninstall.
+1. Select Tenable on your Integrations page.
+2. Open the Connected Integrations tab on the opening modal and select the integrated account you want to remove.
 3. To temporarily pause the integration, hit the Disable button; you can always enable it back later on.&#x20;
 4. For permanent uninstallation, click the Delete button. Note that this action cannot be undone.
 

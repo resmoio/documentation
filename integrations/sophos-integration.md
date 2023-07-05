@@ -39,33 +39,31 @@ Once you sign up to Resmo, you can easily integrate your account with Sophos usi
 
 ### How to install
 
-1. Go to your Integrations page on Resmo and click Add Integration.
-2. Add Sophos.
+1. Select Sophos on the Integrations page of your Resmo account.
+2. Click the Add Integration button at the bottom right corner of the opening modal.
 
 <figure><img src="../.gitbook/assets/add-sophos.png" alt=""><figcaption></figcaption></figure>
 
-3. Name the integration, and write a description (optional.)&#x20;
-
-<figure><img src="../.gitbook/assets/sophos-resmo-integration-config.png" alt=""><figcaption></figcaption></figure>
-
-4. Sign in to **Sophos Central Partner**, click '**Settings & Policies**', then click the "**API Credentials**" link.&#x20;
+3. Sign in to **Sophos Central Partner** on a new tab, click '**Settings & Policies**', then click the "**API Credentials**" link.&#x20;
 
 <figure><img src="../.gitbook/assets/api-credentials-sophos.png" alt=""><figcaption></figcaption></figure>
 
-5. Add a new set of credentials with at least read only role and click 'Copy' to note down the client ID and client secret.&#x20;
+4. Add a new set of credentials with at least read only role and click 'Copy' to note down the client ID and client secret.&#x20;
 
 <figure><img src="../.gitbook/assets/api-credentials-summary.png" alt=""><figcaption></figcaption></figure>
 
-6. Enter the client ID and client secret on the integration screen's respective fields.&#x20;
+5. Enter the client ID and client secret on the integration screen's respective fields.&#x20;
 
 <figure><img src="../.gitbook/assets/edit-api.png" alt=""><figcaption></figcaption></figure>
 
-7. Hit the create button, and you are ready to run queries.
+6. Hit the Create button, and you are ready to run queries.
 
 ### How to uninstall
 
-1. Go to the Integrations page and open the Sophos integration you want to uninstall.
-2. To temporarily pause the integration, click the **Disable** button from the top right. This way, you can enable it back later. For permanent deletion, click the **Delete** button instead. Note that this action cannot be undone.
+1. Select Sophos on your Integrations page.
+2. Navigate to the Connected Integrations tab on the opening modal.
+3. Click the Sophos integration you want to uninstall.
+4. To temporarily pause the integration, click the **Disable** button from the top right. This way, you can enable it back later. For permanent deletion, click the **Delete** button instead. Note that this action cannot be undone.
 
 <figure><img src="../.gitbook/assets/delete-disable-sophos-integration.png" alt=""><figcaption></figcaption></figure>
 

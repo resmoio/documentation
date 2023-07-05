@@ -33,25 +33,17 @@ Resmo consolidates Sentry resources in a single asset inventory, including Integ
 
 ### How to install
 
-1. Sign up or sign in to your Resmo account.
-2. Go to your **Integrations page** and click the **Add Integration** button.
-3. Add Sentry from the integrations list.
-
-<figure><img src="../.gitbook/assets/select-sentry.png" alt=""><figcaption></figcaption></figure>
-
-4\. Name your Sentry integration and optionally write a description.
-
-<figure><img src="../.gitbook/assets/sentry-integration.png" alt=""><figcaption></figcaption></figure>
-
-5\. Go to **Auth Tokens** under the **Sentry Account Details** page.
+1. Select Sentry on the Integrations page on Resmo.
+2. Open your Sentry account on a new tab on your browser.
+3. Go to **Auth Tokens** under the **Sentry Account Details** page.
 
 <figure><img src="../.gitbook/assets/go-to-user-settings.jpg" alt=""><figcaption></figcaption></figure>
 
-6\. Create a new Auth Token.
+4. Create a new Auth Token.
 
 <figure><img src="../.gitbook/assets/create-new-token.png" alt=""><figcaption></figcaption></figure>
 
-7\. Copy the **Read-only Auth Token** from your Sentry account. Required scopes:
+5. Copy the **Read-only Auth Token** from your Sentry account. Required scopes:
 
 ```html
 (project:read, team:read, org:integrations, org:read, member:read, event:read)
@@ -59,14 +51,13 @@ Resmo consolidates Sentry resources in a single asset inventory, including Integ
 
 <figure><img src="../.gitbook/assets/sentry-token-scopes.png" alt=""><figcaption></figcaption></figure>
 
-8\. Paste it to the Auth Token field on the setup page.
-
-9\. Hit the **Create** button, and your integration is all set! Now you can start running queries on your Sentry resources.
+6. Paste it to the Auth Token field on the setup page.
+7. Hit the **Create** button, and your integration is all set! Now you can start running queries on your Sentry resources.
 
 ### How to uninstall
 
-1. Log in to your Resmo account.&#x20;
-2. Navigate to the Integrations page and click the Sentry integration you wish to remove.
+1. Select Sentry on your Integrations page.
+2. Navigate to the Connected Integrations tab on the modal and click the Sentry integration you wish to remove.
 3. To temporarily pause your Sentry integration, click the **Disable** button. For permanent uninstallation, click the **Delete** button.
 
 <figure><img src="../.gitbook/assets/disable-button.png" alt=""><figcaption></figcaption></figure>

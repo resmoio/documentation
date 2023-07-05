@@ -37,13 +37,10 @@ Resources you can collect with your Jotform integration include:
 
 ### How to install
 
-1. Log in to your Resmo account and go to your Integrations page.
-2. Click the Add Integration button and add Jotform.
-3. Name your integration and optionally type a description.
-
-<figure><img src="../.gitbook/assets/resmo-jotform-integration.png" alt=""><figcaption></figcaption></figure>
-
-4\. Go to your Jotform account and create an API token from the User Settings-> API -> API Keys section if you haven't created it already.
+1. Select Jotform on the Integrations page of your Resmo account.
+2. Click the Add Integration button at the bottom right corner of the opening modal.
+3. Go to your Jotform account on a new tab.
+4. Create an API token from the User Settings-> API -> API Keys section if you haven't created it already.
 
 <figure><img src="../.gitbook/assets/create-api-key.png" alt=""><figcaption></figcaption></figure>
 
@@ -53,9 +50,10 @@ Resources you can collect with your Jotform integration include:
 
 ### How to uninstall
 
-1. Go to your Integration page on Resmo.
-2. Open the Jotform integration you want to remove.
-3. You can temporarily disable the integration by clicking the Disable button from the top right or permanently uninstall it by clicking the Delete button.
+1. Select Jotform on your Integrations page.
+2. Navigate to the Connected Integrations tab on the opening modal.
+3. Click the Jotform integration you want to remove.
+4. You can temporarily disable the integration by clicking the Disable button from the top right or permanently uninstall it by clicking the Delete button.
 
 ### Support
 

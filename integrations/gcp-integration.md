@@ -4,11 +4,11 @@ description: Integration guide for Resmo GCP Integration.
 
 # GCP Integration
 
-Resmo seamlessly integrates with the [Google Cloud Platform](https://cloud.google.com/) to ensure the security and compliance of your GCP environment.
-
 ## Resmo + GCP Integration Fundamentals
 
 ![](../.gitbook/assets/google-cloud.png)
+
+Resmo seamlessly integrates with the [Google Cloud Platform](https://cloud.google.com/) to ensure the security and compliance of your GCP environment.
 
 ### What does Resmo offer to Google Cloud Platform users? <a href="#what-does-opsgenie-offer-slack-users" id="what-does-opsgenie-offer-slack-users"></a>
 
@@ -29,30 +29,7 @@ Resmo has a GCP integration that you can install securely once you sign up for a
 
 Resmo GCP integration collects AppEngine, API Gateway, Compute, IAM, and much more.
 
-| Available GCP Resources |
-| ----------------------- |
-| AppEngine Application   |
-| AppEngine Service       |
-| AppEngine Version       |
-| Cloud Storage Bucket    |
-| Compute Disk            |
-| Compute Health Check    |
-| Compute Project         |
-| Compute Snapshot        |
-| Compute SSL Policy      |
-| GCP Function            |
-| IAM Policy              |
-| IAM Role                |
-| IAM Service Account     |
-| IAM Service Account Key |
-| KMS Crypto Key          |
-| KMS Keyring             |
-| Logging Metric          |
-| Logging Sink            |
-| PUB/SUB Subscription    |
-| PUB/SUB Topic           |
-
-_These are only some of the resource types for GCP._
+{% embed url="https://docs.resmo.com/resources/gcp" %}
 
 ### Integration Walkthrough
 
@@ -164,39 +141,42 @@ You can follow the instructions to create a Workload Identity Provider with AWS 
 
 Don't forget to add destination permissions for the created topic. You can learn about it [here](https://cloud.google.com/logging/docs/export/configure\_export\_v2#dest-auth).
 
-#### How to install&#x20;
+### How to install&#x20;
 
 1. Sign up or log in to your Resmo account.&#x20;
-2. Go to the Integrations page, click on Add Integration, and select GCP.
-3. Name the integration and write a description (optional.)&#x20;
+2. Go to the Integrations page and select GCP.
+3. Click the **Add Integration** button from the bottom right corner of the opening modal.
 
-![](../.gitbook/assets/resmo-gcp-integration.jpg)
+4\. Enter your **GCP project ID** into the Project ID field.
 
-4\. Enter your GCP project ID into the Project ID field.
+5\. Enter the full name of the Identity Provider into the **GCP Target Resource** field. (The full resource name of the identity provider without a https: prefix)
 
-5\. Enter your full name of the Identity Provider into the GCP Target Resource field.
+* List your identity pools\
+  `gcloud iam workload-identity-pools list --location="global"`
+* List your identity pool providers
 
-1. List your identity pools\
-   `gcloud iam workload-identity-pools list --location="global"`
-2.  List your identity pool providers
-
-    `gcloud iam workload-identity-pools providers list --workload-identity-pool="my-workload-identity-pool" --location="global"`
+`gcloud iam workload-identity-pools providers list --workload-identity-pool="my-workload-identity-pool" --location="global"`
 
 ![](../.gitbook/assets/resmo-gcp-integration-configuration.jpg)
 
-6\. Copy your provider name, and paste it to the GCP Target Resource field with the below format.\
-`//iam.googleapis.com/<provider-name>`
+* Copy your provider name, and paste it to the GCP Target Resource field with the below format.\
+  `//iam.googleapis.com/<provider-name>`
 
 7\. Enter your Service Account Email into the Service Account Email field.
 
-8\. Hit the create button, and you are ready to run queries.&#x20;
+{% hint style="info" %}
+Service Account Email that you attached to your Workload Identity Pool.
+{% endhint %}
+
+8\. Hit the **Create** button, and you are ready to run queries.&#x20;
 
 #### How to uninstall&#x20;
 
 1. Login to your Resmo account.&#x20;
 2. Navigate to the Integrations page and click your GCP integration.
-3. Click the Delete button to uninstall or Disable to stop polling GCP resources temporarily.
-4. Delete your Workload Identity Pool, Service Account (PUB/SUB, Log Router if you enable real-time change ingestion) GCP resources.
+3. Click the Connected Integrations tab and select the account you want to remove.
+4. Click the Delete button to uninstall or Disable to stop polling GCP resources temporarily.
+5. Delete your Workload Identity Pool, Service Account (PUB/SUB, Log Router if you enable real-time change ingestion) GCP resources.
 
 ### FAQ
 

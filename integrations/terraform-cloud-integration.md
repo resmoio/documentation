@@ -29,42 +29,33 @@ Resmo uses API to do the initial polling and collect existing resources. Followi
 
 ### How to install
 
-1. Log in to your Resmo account and go to your Integrations page.
-2. Click Add Integration.
-
-<figure><img src="../.gitbook/assets/add-new-integration (1).png" alt=""><figcaption></figcaption></figure>
-
-3\. Add Terraform Cloud.
-
-<figure><img src="../.gitbook/assets/add-terraform.png" alt=""><figcaption></figcaption></figure>
-
-4\. Name your Terraform Cloud integration and optionally write a description.
-
-<figure><img src="../.gitbook/assets/terraform-cloud-resmo.png" alt=""><figcaption></figcaption></figure>
-
-5\. Go to your Terraform User Settings page.
+1. Select Terraform on the Integrations page.
+2. Click the Add Integration button at the bottom right corner of the opening modal.
+3. Log in to your Terraform account on a new tab.
+4. Go to your Terraform User Settings page.
 
 <figure><img src="../.gitbook/assets/go-to-user-settings.png" alt=""><figcaption></figcaption></figure>
 
-6\. Go to the Tokens page under your user settings page.
+5. Go to the Tokens page under your user settings page.
 
 <figure><img src="../.gitbook/assets/go-to-tokens.png" alt=""><figcaption></figcaption></figure>
 
-7\. Generate and copy the API Token from your Terraform Cloud account.
+6. Generate and copy the API Token from your Terraform Cloud account.
 
 <figure><img src="../.gitbook/assets/create-api-token (1).png" alt=""><figcaption></figcaption></figure>
 
-8\. Paste it to the API Token field on the integration setup page on Resmo.
+7. Paste it to the API Token field on the integration setup page on Resmo.
 
-<figure><img src="../.gitbook/assets/paste-api (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/paste-api.png" alt=""><figcaption></figcaption></figure>
 
-1. Click Create.
-2. All set! Now you can start running queries on your Terraform Cloud resources.
+8. Click Create.
+9. All set! Now you can start running queries on your Terraform Cloud resources.
 
 ### How to uninstall
 
-1. Navigate to your Integrations page on Resmo.
-2. Click the Terraform integrations you want to remove.
+1. Go to Integrations -> Terraform.
+2. Navigate to the Connected Integrations tab on the opening modal.
+3. Click the Terraform integrations you want to remove.
 
 {% hint style="info" %}
 You can either **disable** the integration **temporarily** or **delete** it **permanently**. Disabled integrations can be enabled back, while a deletion cannot be undone.&#x20;

@@ -29,23 +29,21 @@ Resmo uses API to do the initial polling and collect existing resources. Followi
 
 ### How to install
 
-1. Sign up or sign in to Resmo.&#x20;
-2. Navigate to the Integrations page and click the Add Integration button.
-3. Add DigitalOcean.
+1. Select DigitalOcean on the Integrations page of your Resmo account.
+2. Click the Add Integration button at the bottom right corner of the opening modal.
+3. Hit the Create button.
 
 <figure><img src="../.gitbook/assets/add-digitalocean.png" alt=""><figcaption></figcaption></figure>
 
-4. Type a descriptive name for the integration and optionally a description.&#x20;
-
-<figure><img src="../.gitbook/assets/digitalocean-resmo-integration.png" alt=""><figcaption></figcaption></figure>
-
-5. You'll be redirected to DigitalOcean. Accept permissions.&#x20;
-6. You are ready! Now you can start querying your DigitalOcean resources!
+4. You'll be redirected to DigitalOcean. Accept permissions.&#x20;
+5. You are ready! Now you can start querying your DigitalOcean resources!
 
 ### How to uninstall
 
-1. Go to your Integrations page and click the DigitalOcean integration you want to remove.
-2. To temporarily disable the integration, click the **Disable** button from the top right. You can enable it back later on. For permanent deletion, click the Delete button instead. This action cannot be undone.
+1. Select DigitalOcean on your Integrations page.
+2. Navigate to the Connected Integrations tab on the opening modal.
+3. Click the DigitalOcean integration you want to uninstall.
+4. To temporarily disable the integration, click the **Disable** button from the top right. You can enable it back later on. For permanent deletion, click the Delete button instead. This action cannot be undone.
 
 <figure><img src="../.gitbook/assets/disable-delete-digitalocean.png" alt=""><figcaption></figcaption></figure>
 

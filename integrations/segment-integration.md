@@ -29,16 +29,10 @@ Resmo uses an API key created from the Segment Admin page. Our application uses 
 
 ### How to install
 
-1. Sign in to your Resmo account and navigate to the Integrations page.
-2. Click the Add Integration button and Add Segment.
-
-<figure><img src="../.gitbook/assets/add-segment-integration.png" alt=""><figcaption></figcaption></figure>
-
-3\. Type a descriptive name for your Segment integration and optionally a description.
-
-<figure><img src="../.gitbook/assets/segment-resmo.png" alt=""><figcaption></figcaption></figure>
-
-4\. On your Segment workspace, go to Settings -> Workspace Settings -> Access Management -> Tokens and create a new token.
+1. Select Segment on the Integrations page of your Resmo account.
+2. Click the Add Integration button at the bottom right corner of the opening modal.
+3. Open your Segment account on a new tab on your browser.
+4. On your Segment workspace, go to Settings -> Workspace Settings -> Access Management -> Tokens and create a new token.
 
 <figure><img src="../.gitbook/assets/access-management.png" alt=""><figcaption></figcaption></figure>
 
@@ -54,8 +48,9 @@ Resmo uses an API key created from the Segment Admin page. Our application uses 
 
 ### How to uninstall
 
-1. Go to your Integrations page and click the Segment integration you want to uninstall.
-2. There are two options you can follow. One is to temporarily pause the integration through the **Disable** button from the top right, which can be enabled back later.&#x20;
+1. Go to your Integrations page and click the Segment integration.
+2. Open the Connected Integrations tab on the modal and select the account you want to remove.
+3. There are two options you can follow. One is to temporarily pause the integration through the **Disable** button from the top right, which can be enabled back later.&#x20;
 
 * The other is to permanently remove it by clicking the **Delete** button, which cannot be undone.&#x20;
 

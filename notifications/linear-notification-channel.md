@@ -13,7 +13,7 @@ By configuring a Linear notification channel, Resmo asks you to specify a Linear
 1. Go to Settings and click on Notification Channels.
 2. Add Linear.
 
-<figure><img src="../.gitbook/assets/add-linear.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/add-linear (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Select a team and a project.
 

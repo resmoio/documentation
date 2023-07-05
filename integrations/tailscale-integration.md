@@ -35,37 +35,27 @@ API keys can also be revoked before their expiration dates.
 
 ### How to install
 
-1. Sign in to your Resmo account and go to the **Integrations page**.
-2. Click the **Add Integration** button.
-
-<figure><img src="../.gitbook/assets/add-integration.png" alt=""><figcaption></figcaption></figure>
-
-3\. Add Tailscale.
-
-<figure><img src="../.gitbook/assets/add-tailscale.png" alt=""><figcaption></figcaption></figure>
-
-4\. Type a descriptive name for the integration and, optionally, a description.
-
-<figure><img src="../.gitbook/assets/resmo-tailscale.png" alt=""><figcaption></figcaption></figure>
-
-5\. Go to [Personel Settings -> Keys](https://login.tailscale.com/admin/settings/keys) on your Tailscale account.
+1. Select Tailscale on the Integrations page.
+2. Click the Add Integration button at the bottom right corner of the opening modal.
+3. Log in to your Tailscale account on a new tab.
+4. Go to [Personel Settings -> Keys](https://login.tailscale.com/admin/settings/keys) on your Tailscale account.
 
 <figure><img src="../.gitbook/assets/personal-settings.png" alt=""><figcaption></figcaption></figure>
 
-6\. **Create and copy the API Key** from your Tailscale account by clicking the "Generate API Key..." button under the API keys.
+5. **Create and copy the API Key** from your Tailscale account by clicking the "Generate API Key..." button under the API keys.
 
 <figure><img src="../.gitbook/assets/generate-api-key.png" alt=""><figcaption></figcaption></figure>
 
-7\. Paste it into the API Key field on the Resmo Tailscale integration setup page.
-
-8\. Click **Create**.
-
-9\. All set! Now you can start running queries on your Tailscale resources.
+6. Paste it into the API Key field on the Resmo Tailscale integration setup page.
+7. Click **Create**.
+8. All set! Now you can start running queries on your Tailscale resources.
 
 ### How to uninstall
 
-1. Navigate to your Integrations page and click the Tailscale integration you want to uninstall.
-2. You have two options:
+1. Select Tailscale on your Integrations page.
+2. Navigate to the Connected Integrations tab on the opening modal.
+3. Click the Tailscale integration you want to uninstall.
+4. You have two options:
 
 * To **temporarily pause** your Tailscale integration, click the **Disable button** from the top right of your integration Edit page. You can enable the integration back later.
 * To **permanently remove** the integration, click the **Delete button**. This action cannot be undone.

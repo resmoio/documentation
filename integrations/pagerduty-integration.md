@@ -47,43 +47,33 @@ See the full list:
 
 #### How to install
 
-1. Sign up or sign in to Resmo.
-2. Navigate to Integrations from the navigation bar.
-3. Click the Add Integration button from the top right corner.
-
-![](<../.gitbook/assets/add-integration (2).png>)
-
-4\. Select PagerDuty.
-
-5\. Name the integration and give it a description.
-
-![](../.gitbook/assets/pagerduty-integrations.png)
-
-6\. Optionally, add tags to the integration.
-
-7\. Go to your PagerDuty account and navigate to the API Access Keys page.
+1. Navigate to the Integrations page on Resmo and select PagerDuty.
+2. Click the Add Integration button from the bottom right corner of the opening modal.
+3. Hit the Create button.
+4. Go to your PagerDuty account and navigate to the API Access Keys page.
 
 ![](../.gitbook/assets/pagerduty-api-access-keys.png)
 
-8\. Then, create a new API key with Read-only permission.
+6. Then, create a new API key with Read-only permission.
 
 ![](<../.gitbook/assets/pagerduty-create-api-key (1).png>)
 
-9\. Next, copy the created API key and go back to the Resmo PagerDuty integration screen.
+7. Next, copy the created API key and go back to the Resmo PagerDuty integration screen.
 
 ![](../.gitbook/assets/pagerduty-new-api-key.png)
 
-10\. Paste the copied API key into the API Key field on the integration screen.
+8. Paste the copied API key into the API Key field on the integration screen.
 
 ![](../.gitbook/assets/api-key-field.png)
 
-11\. Click Create, and your integration is all set!
+9. Click Create, and your integration is all set!
 
 #### How to uninstall
 
-1. Navigate to Settings>Integrations.
+1. Navigate to Integrations.
 2. Click the PagerDuty integration.
-3. Disable it to enable later or click delete to remove the integration permanently.
+3. Go to the Connected Integrations tab from the opening modal and select the one you want to remove or disable.
+4. Disable it to enable later or click Delete to remove the integration permanently.
 
 ![](../.gitbook/assets/pagerduty-disable-delete-buttons.png)
 

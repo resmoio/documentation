@@ -29,24 +29,20 @@ Resmo uses Personal Access Token created from Flyio Web UI. Our application uses
 
 ### How to install
 
-1. Sign up or sign in to Resmo. Then, navigate to your Integrations page.
-2. From there, click the Add Integration button.
-3. Add Flyio from the list.&#x20;
-4. Give a descriptive name to your Flyio integration and optionally a description and tags.
-
-<figure><img src="../.gitbook/assets/flyio-integration.png" alt=""><figcaption></figcaption></figure>
-
-4\. Create a personal access token from Flyio [Personal Access Tokens Page](https://fly.io/user/personal\_access\_tokens)
-
-5\. Fill the form with Personal Access Token and click Save.
-
-6\. You are all set! Now you can start querying your Flyio resources!
+1. Select Flyio on your Integrations page on Resmo.
+2. Click the Add Integration button at the bottom right corner of the opening modal.
+3. Open your Flyio account on a new tab on your browser.
+4. Create a personal access token from Flyio [Personal Access Tokens Page](https://fly.io/user/personal\_access\_tokens)
+5. Paste the Personal Access Token in the related field on your integration screen on Resmo.
+6. Hit the Create button.
+7. You are all set! Now you can start querying your Flyio resources!
 
 ### How to uninstall
 
-1. Login to your Resmo account and go to your Integrations page.
-2. Click the Flyio integration you wish to uninstall.
-3. There are two options; to temporarily pause the integration, click the Disable button. To permanently remove it, click the Delete button.
+1. Select Flyio on your Integrations page.
+2. Navigate to the Connected Integrations tab on the opening modal.
+3. Click on the Flyio integration you want to remove.
+4. There are two options; to temporarily pause the integration, click the Disable button. To permanently remove it, click the Delete button.
 
 <figure><img src="../.gitbook/assets/flyio-config.png" alt=""><figcaption></figcaption></figure>
 

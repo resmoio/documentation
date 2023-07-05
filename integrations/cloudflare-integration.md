@@ -43,16 +43,8 @@ Once you sign up to Resmo, you can easily integrate your account with Cloudflare
 #### How to Install
 
 1. Login to your Resmo account and navigate to the Integrations page.
-
-![](<../.gitbook/assets/settings-integrations (2).jpg>)
-
-2\. Click the Add Integration button and select Cloudflare.
-
-3\. Name your integration and write a description (optional.)
-
-![](<../.gitbook/assets/cloudflare (1).png>)
-
-4\. Go to your Cloudflare account and create _read_ access granted API token from your user profile for the following sources:
+2. Find and select Cloudflare. Click the Add Integration button from the bottom right corner of the opening modal.
+3. Go to your Cloudflare account and create _read_ access granted API token from your user profile for the following sources:
 
 * Account > Account Settings
 * Zone > DNS
@@ -69,17 +61,18 @@ Cloudflare API tokens are generated from the User Profile>API Tokens page. The t
 
 ![](../.gitbook/assets/read-all-resources.png)
 
-5\. Enter the user API token on the integration screen’s API token field.
+4. Enter the user API token on the integration screen’s API token field.
 
 ![](../.gitbook/assets/cloudflare.png)
 
-6\. Hit the create button, and you are ready to run queries.
+5. Hit the create button, and you are ready to run queries.
 
 #### How to Uninstall
 
 1. Login to your Resmo account and navigate to the Integrations page.
-2. Select the Cloudflare integration you wish to remove.
-3. To temporarily pause the integration click the Disable button from the top right. Or, you may permanently uninstall it by clicking the Delete button.
+2. Select Cloudflare and click the Connected Integrations tab on the modal.
+3. Then, select the Cloudflare integration you want to remove.
+4. To temporarily pause the integration click the Disable button from the top right. Or, you may permanently uninstall it by clicking the Delete button.
 
 ![](../.gitbook/assets/cloudflare-integration-disable.png)
 

@@ -42,13 +42,9 @@ Once you sign up for Resmo, you can easily integrate your account with Okta usin
 
 #### How to Install
 
-1. Log in to your Resmo account and navigate to Integrations.
-2. &#x20;Click the Add Integration button. Then, select Okta.
-3. Name the integration and write a description (optional.)
-
-![](../.gitbook/assets/okta.png)
-
-4\. Sign in to your Okta organization as a user with administrator privileges.
+1. Log in to your Resmo account and navigate to Integrations>Okta.
+2. Click the Add Integration button from the opening modal.
+3. On a new tab, sign in to your Okta organization as a user with administrator privileges.
 
 * In Okta, API tokens have the same permissions as the user who creates them, and if the user permissions change, the API token permissions also change. It is, therefore, good practice to create a service account to use when you create API tokens so that you can assign the token the specific privilege level needed.
 * For integrating with Resmo, either Read Only Administrator or Super Administrator must be used. If Read Only Administrator is used, Resmo will not reach the following resources:
@@ -56,26 +52,26 @@ Once you sign up for Resmo, you can easily integrate your account with Okta usin
   * Features
 * Access Policies and Profile Enrollment Policies are provided by Okta Identity Engine. Resmo will check if the policy type is available in your account. Otherwise, they will not be collected.
 
-5\. Access the API page: In the Admin Console, select API from the Security menu and then select the Tokens tab. Click Create Token.
+4. Access the API page: In the Admin Console, select API from the Security menu and then select the Tokens tab. Click Create Token.
 
 ![](../.gitbook/assets/create-token.jpg)
 
-6\. Copy the created API key.
+5. Copy the created API key.
 
 ![](../.gitbook/assets/api-token.jpg)
 
-7\. Enter the copied API token on the integration screen’s API token field.
+6. Enter the copied API token on the integration screen’s API token field.
 
 ![](../.gitbook/assets/okta-resmo.png)
 
-8\. Enter your Okta Domain on the integration screen’s Okta domain field.
-
-9\. Hit the create button, and you are ready to run queries.
+7. Enter your Okta Domain on the integration screen’s Okta domain field.
+8. Hit the create button, and you are ready to run queries.
 
 #### How to Uninstall
 
-1. Open your Integrations page and click the Okta integration you wish to uninstall.
-2. There are two paths you may take:&#x20;
+1. Go to Integrations>Okta.&#x20;
+2. Navigate to the Connected Integrations tab on the opening modal and select the account you want to remove.
+3. There are two paths you may take:&#x20;
 
 * To temporarily pause the integration, click the Disable button.
 * To permanently remove it, click Delete.&#x20;

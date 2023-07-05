@@ -29,18 +29,13 @@ This way, you can ensure vulnerabilities are not only caught in build-time and a
 
 ### How to install
 
-1. Log in to your Resmo account and go to the Integrations page.
-2. Click the Add Integration button from the upper right and Add Trivy.
-
-<figure><img src="../.gitbook/assets/add-trivy.png" alt=""><figcaption></figcaption></figure>
-
-3\. Name your integration and optionally write a description.
+1. Select Trivy on the Integrations page.
+2. Click the Add Integration button at the bottom right corner of the opening modal.
 
 <figure><img src="../.gitbook/assets/configure-integration.png" alt=""><figcaption></figcaption></figure>
 
-4\. Then, you must enter your Ingest Key to the related field.&#x20;
-
-5\. Below, you can find a detailed guide on how you can install Trivy.
+3. Then, you must enter your Ingest Key to the related field.&#x20;
+4. Below, you can find a detailed guide on how you can install Trivy.
 
 ### 1. Preparing your SBOM <a href="#1.-preparing-your-sbom" id="1.-preparing-your-sbom"></a>
 
@@ -190,8 +185,10 @@ We’ve prepared several examples on Github so that you can have a better idea o
 
 ### How to uninstall
 
-1. Go to your Integrations page on Resmo and click your Trivy integration.
-2. To temporarily disable the integration, click the Disable button from the top right. This way, you can enable it later on. For permanent deletion, click the Delete button instead. This action cannot be undone.
+1. Select Trivy on your Integrations page.
+2. Navigate to the Connected Integrations tab on the opening modal.
+3. Click the Trivy integration you want to remove.
+4. To temporarily disable the integration, click the Disable button from the top right. This way, you can enable it later on. For permanent deletion, click the Delete button instead. This action cannot be undone.
 
 ### Support
 

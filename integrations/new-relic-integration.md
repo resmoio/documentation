@@ -44,13 +44,9 @@ _New Relic resources_
 
 #### How to install&#x20;
 
-1. Sign up or log in to your Resmo account.&#x20;
-2. Go to the Integrations page, click the Add Integration button, and select New Relic.&#x20;
-3. Name the integration and write a description (optional.)&#x20;
-
-<figure><img src="../.gitbook/assets/newrelic-resmo-integration.png" alt=""><figcaption></figcaption></figure>
-
-4\. Go to your New Relic account and open the API Keys page from the top-right account dropdown menu.
+1. Go to the Integrations page on your Resmo account and select New Relic.&#x20;
+2. Click the Add Integration button from the bottom right corner of the opening modal.
+3. Go to your New Relic account and open the API Keys page from the top-right account dropdown menu.
 
 ![](<../.gitbook/assets/newrelic-api-keys (1).png>)
 
@@ -74,7 +70,8 @@ _New Relic resources_
 
 1. Login to your Resmo account.&#x20;
 2. Navigate to the Integrations page and click New Relic.&#x20;
-3. Click the Delete button to uninstall or Disable to stop polling New Relic resources temporarily.
+3. Go to the Connected Integrations tab from the opening modal and select the one you want to remove or disable.
+4. Click the Delete button to uninstall or Disable to stop polling New Relic resources temporarily.
 
 ### Support
 

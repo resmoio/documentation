@@ -35,25 +35,21 @@ Resources you can collect with the integration include the following:
 
 ### How to install
 
-1. Sign up or sign in to Resmo and navigate to your Integrations page.
-2. Click the Add Integration button and add Zoom.
-3. Name your Zoom integration, and optionally, write a description.&#x20;
-
-<figure><img src="../.gitbook/assets/zoom-integration.png" alt=""><figcaption></figcaption></figure>
-
-4\. Hit the Create button.
-
-5\. You will be redirected to your Zoom account. Allow the required permissions.
+1. Select Zoom on the Integrations page.
+2. Click the Add Integration button at the bottom right corner of the opening modal.
+3. Hit the Create button.
+4. You will be redirected to your Zoom account. Allow the required permissions.
 
 <figure><img src="../.gitbook/assets/allow-permissions.png" alt=""><figcaption></figcaption></figure>
 
-6\. That's it. Now you can start querying your Zoom resources.
+5. That's it. Now you can start querying your Zoom resources.
 
 ### How to uninstall
 
-1. Go to your Integrations page on Resmo.
-2. Click the Zoom integration you want to remove.
-3. For temporary disabling, click the Disable button from the top right. You can enable your integration back later on. For permanent removal, click the Delete button instead. Note that deletion cannot be undone.
+1. Select Zoom on your Integrations page.
+2. Navigate to the Connected Integrations tab on the opening modal.
+3. Click the Zoom integration you want to remove.
+4. For temporary disabling, click the Disable button from the top right. You can enable your integration back later on. For permanent removal, click the Delete button instead. Note that deletion cannot be undone.
 
 <figure><img src="../.gitbook/assets/disable-delete.png" alt=""><figcaption></figcaption></figure>
 

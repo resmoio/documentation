@@ -29,10 +29,8 @@ Once you sign up to Resmo, you can easily integrate your account with Figma usin
 
 ### How to install
 
-1. Sign up or sign in to Resmo.
-2. Go to your Integrations page and click the Add Integration button.
-3. Add Figma.
-4. Name your Figma integration and write a description (optional.)
+1. Select Figma on the Integrations page of your Resmo account.
+2. Click the Add Integration button at the bottom right corner of the opening modal.
 
 <figure><img src="../.gitbook/assets/figma-integration-configuration.png" alt=""><figcaption></figcaption></figure>
 
@@ -50,9 +48,10 @@ Once you sign up to Resmo, you can easily integrate your account with Figma usin
 
 ### How to uninstall
 
-1. Go to your Integrations page and click the Figma integration you want to uninstall.
-2. To **temporarily pause** the integration, click the Disable button from the upper right corner. You can enable it back later on.
-3. To **permanently remove** it, click the Delete button. This action cannot be undone.
+1. Select Figma on your Integrations page.
+2. Navigate to the Connected Integrations tab on the opening modal.
+3. To **temporarily pause** the integration, click the Disable button from the upper right corner. You can enable it back later on.
+4. To **permanently remove** it, click the Delete button. This action cannot be undone.
 
 <figure><img src="../.gitbook/assets/disable-delete-figma-integration.png" alt=""><figcaption></figcaption></figure>
 

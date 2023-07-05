@@ -48,7 +48,7 @@ Currently, Vanta's capability to generate API tokens is exclusively available to
 
 6. Copy the generated API Token and return to the Resmo integration screen.
 
-<figure><img src="../.gitbook/assets/paste-api.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/paste-api (1).png" alt=""><figcaption></figcaption></figure>
 
 7. Paste it into the related field and hit the Create button. Your integration will be fully ready in a few seconds.
 

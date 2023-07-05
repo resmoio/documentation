@@ -30,23 +30,22 @@ Resmo uses API to do the initial polling and collect existing resources. Followi
 
 ### How to install
 
-1. Sign up or sign in to Resmo and navigate to the Integrations page.
-2. Click the Add Integration button and add DocuSign.
-
-<figure><img src="../.gitbook/assets/add-docusign.png" alt=""><figcaption></figcaption></figure>
-
-3. Type a descriptive name for the integration and, optionally, a description.
+1. Select DocuSign on the Integrations page.
+2. Click the Add Integration button at the bottom right corner of the opening modal.
 
 <figure><img src="../.gitbook/assets/resmo-docusign-integration.png" alt=""><figcaption></figcaption></figure>
 
+3. Hit the Create button.
 4. You'll be redirected to DocuSign. Accept permissions.
 5. Your DocuSign integration is ready! Now you can start querying your resources!
 
 ### How to uninstall
 
-1. Go to your Integrations page on Resmo and click the DocuSign integration you want to remove.
-2. For temporary disabling, click the Disable button from the upper right corner. This will pause the integration until the next time you enable it back.&#x20;
-3. Or, you can permanently remove it by clicking the Delete button instead. Note that this action cannot be undone.
+1. Select DocuSign on your Integrations page.
+2. Navigate to the Connected Integrations tab on the opening modal.
+3. Click the DocuSign integration you want to remove.
+4. For temporary disabling, click the Disable button from the upper right corner. This will pause the integration until the next time you enable it back.&#x20;
+5. Or, you can permanently remove it by clicking the Delete button instead. Note that this action cannot be undone.
 
 ### Support
 

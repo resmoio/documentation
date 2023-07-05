@@ -38,12 +38,9 @@ Resmo operates the resource receiving and regular data-update collection process
 #### How to Install
 
 1. Login to your Resmo account and go to your Integrations page.
-2. Click the Add Integration button from the top right and select Confluence.
-3. Give a descriptive name to the integration and click Create.
-
-![](../.gitbook/assets/confluence.png)
-
-4\. You’ll be redirected to your Atlassian account; accept permissions.
+2. Find and select Confluence. Hit the Add Integration button from the bottom right corner of the opening modal.
+3. Click Create.
+4. You’ll be redirected to your Atlassian account; accept permissions.
 
 ![](../.gitbook/assets/confluence-permissions.png)
 
@@ -52,6 +49,6 @@ Resmo operates the resource receiving and regular data-update collection process
 #### How to Uninstall
 
 1. Navigate to your Integrations page on Resmo
-2. Click the Confluence integration you wish to uninstall
+2. Select Confluence. On the Connected Integrations tab of the opening modal, click the Confluence integration you wish to uninstall.
 3. The Disable button on the top right temporarily disables the integration. To permanently uninstall it, click the Delete button.
-4. Optionally, you can remove your oAuth token after uninstalling the integration permanently. Follow instructions [here](https://developer.atlassian.com/cloud/confluence/oauth-2-3lo-apps/#site-scoped-grants-limitations).
+4. Optionally, you can remove your OAuth token after uninstalling the integration permanently. Follow instructions [here](https://developer.atlassian.com/cloud/confluence/oauth-2-3lo-apps/#site-scoped-grants-limitations).

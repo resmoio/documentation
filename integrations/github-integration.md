@@ -51,13 +51,9 @@ GitHub Resources
 ### How to install
 
 1. Create or log in to your Resmo account.
-2. Go to the integrations page, select add, and then select GitHub.
+2. Go to the integrations page, find, and select GitHub.
 
-![](../.gitbook/assets/select-github.png)
-
-3\. Type the integration name and click the Install GitHub button.
-
-![](<../.gitbook/assets/github-integration (2).png>)
+3\. Click the Add Integration button from the bottom right corner of the opening modal.
 
 4\. You'll be redirected to GitHub. Accept permissions.
 
@@ -70,6 +66,8 @@ GitHub Resources
 * **If you uninstall GitHub App on GitHub**, we don't delete the integration on our side, so you can continue seeing your resources and query them.&#x20;
   * Coming Soon: We are working on adding a mark to show you that you deleted the integration and it is not receiving updates anymore.
 * **If you uninstall GitHub App on Resmo,** you need to go to your GitHub account and delete the Resmo app. The automatic deletion is coming soon.
+
+To delete the integration, open the GitHub integration from Integrations>GitHub. Go to the Connected Integrations tab from the opening modal and select the one you want to remove or disable.
 
 ## FAQ
 

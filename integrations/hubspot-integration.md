@@ -30,22 +30,17 @@ Resmo has a Hubspot application that you can install once you sign up for a Resm
 ### How to install
 
 1. Log in to your Resmo account and go to your Integrations page.
-2. Click the Add Integration button and add Hubspot from the list.
-
-<figure><img src="../.gitbook/assets/add-integration (5).png" alt=""><figcaption></figcaption></figure>
-
-3\. Type a descriptive name for the integration and optionally a description.
-
-<figure><img src="../.gitbook/assets/hubspot-resmo-integration.png" alt=""><figcaption></figcaption></figure>
-
-4\. You'll be redirected to Hubspot. Accept permissions.
-
-5\. You are ready! Now you can start querying your Hubspot resources!
+2. Find and select Hubspot.
+3. Click the Add Integration button from the bottom right corner of the opening modal.
+4. Hit the Create button.
+5. You'll be redirected to Hubspot. Accept permissions.
+6. You are ready! Now you can start querying your Hubspot resources!
 
 ### How to uninstall
 
-1. On your Resmo account, navigate to the Integrations page.
-2. Open the Hubspot integration. To temporarily pause it, click the Disable button, or you may permanently remove it by clicking the Delete button.
+1. On your Resmo account, navigate to the Integrations page and select Hubspot.
+2. Navigate to the Connected Integrations tab and select the Hubspot integration you want to remove.&#x20;
+3. To temporarily pause it, click the Disable button, or you may permanently remove it by clicking the Delete button.
 
 ### Support
 

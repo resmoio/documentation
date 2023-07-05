@@ -38,16 +38,9 @@ Once you sign up to Resmo, you can easily integrate your account with Datadog us
 ### **How to Install**
 
 1. Login to your Resmo account and navigate to Integrations.
-
-![](<../.gitbook/assets/integrations (2).png>)
-
-2\. Click Add Integration and select Datadog.
-
-3\. Write a descriptive name and optionally a description.
-
-![](../.gitbook/assets/datadog.png)
-
-4\. Then, go to your Datadog account and create a new organization API key and a user Application key.
+2. Find and select Datadog.
+3. Click Add Integration from the bottom right corner of the opening modal.
+4. Then, go to your Datadog account and create a new organization API key and a user Application key.
 
 * **Step 1:** Go to Organization Settings>Application Keys on Datadog.
 
@@ -73,8 +66,9 @@ Once you sign up to Resmo, you can easily integrate your account with Datadog us
 
 ### **How to Uninstall**
 
-1. Go to Settings>Integrations and select the Datadog integration you wish to uninstall.
-2. You have two options;
+1. Go to Integrations>Datadog.&#x20;
+2. Navigate to the Connected Integrations tab on the opening modal and select the Datadog integration you wish to uninstall.
+3. You have two options;
    1. To temporarily pause the integration, click the Disable button.
    2. To permanently remove the integration, click the Delete button.
 

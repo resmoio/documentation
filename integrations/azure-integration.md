@@ -73,11 +73,9 @@ _Example Output:_\
 **How to install**&#x20;
 
 1. Sign up or log in to your Resmo account.&#x20;
-2. Go to the Integrations page, click on Add Integration, and select Azure.
-3. Name the integration and write a description (optional.)
+2. Go to the Integrations page and select Azure.
+3. Click the Add Integration button from the bottom right corner of the opening modal.
 4. Fill configuration fields with the created Service Principal in [#setup-your-azure-account](azure-integration.md#setup-your-azure-account "mention")
-
-![](../.gitbook/assets/azure-integration.png)
 
 5\. Hit the create button, and you are ready to run queries.&#x20;
 
@@ -85,8 +83,9 @@ _Example Output:_\
 
 1. Login to your Resmo account.&#x20;
 2. Navigate to the Integrations page and click your Azure integration.
-3. Click the Delete button to uninstall or Disable to stop polling Azure resources temporarily.
-4. (Optional) Delete the created Service Principal from App Registrations on your Azure Portal.
+3. Go to the Connected Integrations tab from the opening modal and select the one you want to remove.
+4. Click the Delete button to uninstall or Disable to stop polling Azure resources temporarily.
+5. (Optional) Delete the created Service Principal from App Registrations on your Azure Portal.
 
 ### FAQ
 

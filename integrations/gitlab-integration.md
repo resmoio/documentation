@@ -47,30 +47,22 @@ See the full list:
 #### How to install
 
 1. Sign up for or sign in to your Resmo account.
-2. Navigate to the Integrations page. Then, click the Add Integration button.
-
-![](<../.gitbook/assets/integrations (2).png>)
-
-3\. Next, hit the Add button for GitLab.
-
-4\. Name the integration. Optionally, you may fill in the Description and Tags fields as well.
-
-![](../.gitbook/assets/gitlab-integration.png)
-
-5\. Click the Create button.&#x20;
-
-6\. You will be redirected to GitLab. Accept permissions.
+2. Navigate to the Integrations page and select GitLab.
+3. Click the Add Integration button from the bottom right corner of the opening modal.
+4. Click the Create button.&#x20;
+5. You will be redirected to GitLab. Accept permissions.
 
 ![](<../.gitbook/assets/gitlab-permissions (1).png>)
 
-7\. Your integration is all set! Now you can start exploring and querying your GitLab resources.
+6\. Your integration is all set! Now you can start exploring and querying your GitLab resources.
 
 #### How to uninstall
 
 1. Log in to your Resmo account.
-2. Go to Settings>Integrations from the navigation bar.
-3. Then, select the integration you wish to uninstall.
-4. To temporarily pause your GitLab integration, click Disable from the top right. To permanently remove it, click Delete.
+2. Go to the Integrations page and select GitLab.
+3. Then, navigate to the Connected Integrations tab on the opening modal.
+4. Click the GitLab integration you want to uninstall.
+5. To temporarily pause your GitLab integration, click Disable from the top right. To permanently remove it, click Delete.
 
 ![](../.gitbook/assets/gitlab-disable-delete-buttons.jpg)
 

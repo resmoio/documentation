@@ -29,47 +29,34 @@ Resmo uses API to do the initial polling and collect existing resources. Followi
 
 ### How to install
 
-1. Sign up or sign in to Resmo. Then, navigate to your Integrations page.
-2. Click the Add Integration button.
-
-<figure><img src="../.gitbook/assets/add-integration-button.png" alt=""><figcaption></figcaption></figure>
-
-3\. Add SonarCloud.
-
-<figure><img src="../.gitbook/assets/add-sonarcloud.png" alt=""><figcaption></figcaption></figure>
-
-4\. Type a descriptive name for the integration and optionally a description.
-
-<figure><img src="../.gitbook/assets/sonarcloud-resmo-integration.png" alt=""><figcaption></figcaption></figure>
-
-5\. Go to Security page under the SonarCloud My Account page.
+1. Select SonarCloud on the Integrations page of your Resmo account.
+2. Click the Add Integration button at the bottom right corner of the opening modal.
+3. Log in to your SonarCloud account on a new tab on your browser.
+4. Go to Security page under the SonarCloud My Account page.
 
 <figure><img src="../.gitbook/assets/sonarcloud-security.jpg" alt=""><figcaption></figcaption></figure>
 
-6\. Generate and copy the Auth Token from your SonarCloud account.
+5. Generate and copy the Auth Token from your SonarCloud account.
 
 <figure><img src="../.gitbook/assets/generate-token.jpg" alt=""><figcaption></figcaption></figure>
 
-7\. Paste it to the Auth Token field on the setup page on Resmo.
+6. Paste it to the Auth Token field on the setup page on Resmo.
 
 <figure><img src="../.gitbook/assets/configuration.png" alt=""><figcaption></figcaption></figure>
 
-8\. Go to organizations page under the SonarCloud My Account page.
+7. Go to organizations page under the SonarCloud My Account page.
 
 <figure><img src="../.gitbook/assets/organizations-page.jpg" alt=""><figcaption></figcaption></figure>
 
-9\. Copy the desired organization key from your SonarCloud organizations.
-
-10\. Paste it to the Organization Key field on the setup page.
-
-11\. Hit the Create button.
-
-12\. All set! Now you can start running queries on your SonarCloud resources.
+8. Copy the desired organization key from your SonarCloud organizations.
+9. Paste it to the Organization Key field on the setup page.
+10. Hit the Create button.
+11. All set! Now you can start running queries on your SonarCloud resources.
 
 ### How to uninstall
 
-1. Login to your Resmo account and go to the Integrations page.
-2. Click the SonarCloud integration you want to uninstall.
+1. Select SonarCloud on the Integrations page.
+2. Open the Connected Integrations tab on the modal and select the integrated SonarCloud account you want to remove.
 3. To temporarily pause your SonarCloud integration, click the Disable button form the top right. Or, you can permanently remove it by clicking the Delete button.
 
 <figure><img src="../.gitbook/assets/delete-disable-integration.png" alt=""><figcaption></figcaption></figure>

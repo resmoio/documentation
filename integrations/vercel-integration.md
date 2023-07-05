@@ -33,16 +33,10 @@ Resources you can collect with your Resmo Vercel integration include domains, ch
 
 ### How to install
 
-1. Sign up or sign in to Resmo and go to the Integrations page.
-2. Click the Add Integration button and add Vercel.
-
-<figure><img src="../.gitbook/assets/add-vercel.png" alt=""><figcaption></figcaption></figure>
-
-3\. Name the integration and optionally add a description.
-
-<figure><img src="../.gitbook/assets/vercel-resmo.png" alt=""><figcaption></figcaption></figure>
-
-4\. Go to the [Tokens Page](https://vercel.com/account/tokens) on your Vercel account. This page can be found by clicking your avatar and then clicking on Settings.
+1. Select Vercel on the Intagrations page.
+2. Click the Add Integration button at the bottom right corner of the opening modal.
+3. Log in to your Vercel account on a new tab.
+4. Go to the [Tokens Page](https://vercel.com/account/tokens) on your Vercel account. This page can be found by clicking your avatar and then clicking on Settings.
 
 <figure><img src="../.gitbook/assets/account-settings.png" alt=""><figcaption></figcaption></figure>
 
@@ -70,8 +64,10 @@ Resources you can collect with your Resmo Vercel integration include domains, ch
 
 ### How to uninstall
 
-1. Navigate to your Integrations page and click the Vercel integration you want to remove.
-2. To temporarily pause the integration, click the Disable button. This way, you'll be able to enable it back later. To permanently uninstall it, click the Delete button. This action cannot be undone.
+1. Select Vercel on your Integrations page.
+2. Navigate to the Connected Integrations tab on the opening modal.
+3. Click the Vercel integration you want to uninstall.
+4. To temporarily pause the integration, click the Disable button. This way, you'll be able to enable it back later. To permanently uninstall it, click the Delete button. This action cannot be undone.
 
 <figure><img src="../.gitbook/assets/delete-disable-buttons (1).png" alt=""><figcaption></figcaption></figure>
 

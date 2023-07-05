@@ -51,16 +51,9 @@ See the full list:
 
 ### How to install
 
-1. Sign up or sign in to your Resmo account.&#x20;
-2. Go to your Integrations page and click the **Add Integration** button.
-
-<figure><img src="../.gitbook/assets/add-integration (4).png" alt=""><figcaption></figcaption></figure>
-
-3\. Name your integration and optionally write a description.
-
-<figure><img src="../.gitbook/assets/qualys-integration.png" alt=""><figcaption></figcaption></figure>
-
-4\. Enter your **user credentials** (username and password) into the required fields.
+1. Select Qualys on the Integrations page on your Resmo account.
+2. Click the Add Integration button at the bottom right corner of the opening modal.
+3. Enter your **user credentials** (username and password) into the required fields.
 
 <figure><img src="../.gitbook/assets/integration-configuration.png" alt=""><figcaption></figcaption></figure>
 
@@ -70,8 +63,8 @@ See the full list:
 
 ### How to uninstall
 
-1. Log in to your Resmo account and navigate to the Integrations page.
-2. Click the Qualys integration you wish to uninstall.
+1. Select Qualys on your Integrations page.
+2. From the Connected Integrations tab on the opening modal, click the Qualys integration you wish to uninstall.
 3. To temporarily disable your Qualys integration, click the Disable button, or you can permanently remove it by clicking the Delete button.
 
 <figure><img src="../.gitbook/assets/qualys-disable-delete-options.png" alt=""><figcaption></figcaption></figure>

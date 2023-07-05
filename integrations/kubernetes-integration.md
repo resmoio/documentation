@@ -29,20 +29,7 @@ Resmo Kubernetes Integration collects resources by establishing a trust relation
 
 Resmo Kubernetes integration aggregates deployments, jobs, pods, cluster roles, services, and more.
 
-| Kubernetes Resources |
-| -------------------- |
-| Cluster Role         |
-| Cluster Role Binding |
-| Cron Job             |
-| Daemonset            |
-| Deployment           |
-| Job                  |
-| Namespace            |
-| Pod                  |
-| Replicaset           |
-| Role                 |
-| Role Binding         |
-| Service              |
+{% embed url="https://docs.resmo.com/resources/kubernetes" %}
 
 ### Common queries and rules
 
@@ -256,25 +243,14 @@ roleRef:
   name: resmo-data-collector-role
 ```
 
-2\. Sign up for or sign in to your Resmo account.
+&#x20;2\. Log in to your Resmo account and navigate to the Integrations page.
 
-3\. Go to your Integrations page from the navigation bar.
-
-![](<../.gitbook/assets/integrations (1).png>)
-
-4\. Click the Add Integration button and select Kubernetes.
-
-5\. Name the integration. Optionally add a description and tags.
-
-![](../.gitbook/assets/kubernetes-integrations.png)
-
-6\. Paste your Ingest Key into the related field. (Ingest Key is used as a secret for authentication.)
-
-7\. Hit the Create button, and you can start querying your Kubernetes resources!
+3. Select Kubernetes and click the Add Integration button from the bottom right corner of the opening modal.
+4. Paste your Ingest Key into the related field. (Ingest Key is used as a secret for authentication.)
+5. Hit the Create button, and you can start querying your Kubernetes resources!
 
 #### How to uninstall
 
 1. Log in to your Resmo account.
-2. Navigate to Settings>Integrations and select the Kubernetes integration you wish to uninstall.
+2. Navigate to Integrations and select Kubernetes. Go to the Connected Integrations tab from the opening modal and select the one you want to remove.
 3. To temporarily pause the integration, click Disable. To remove it permanently, click Delete.
-

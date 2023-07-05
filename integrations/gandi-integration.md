@@ -37,9 +37,7 @@ Once you sign up to Resmo, you can easily integrate your account with Gandi usin
 #### **How to Install**
 
 1. Log in to your Resmo account and go to Settings>Integrations. Then, select Gandi.
-2. Name the integration and write a description (optional.)
-
-![](../.gitbook/assets/gandi.png)
+2. Click the Add Integration button at the bottom right corner of the opening modal.
 
 3\. Go to your Gandi account and create an API token from your User Settings -> Login and Security Options -> Password & Access Restrictions tab if you have not created it already.
 
@@ -59,6 +57,12 @@ There are two options:
 
 * To temporarily pause your Gandi integration, click the Disable button.
 * To permanently uninstall it, click the Delete button.
+
+Go to Integrations -> Gandi.
+
+Navigate to the Connected Integrations tab on the opening modal.
+
+Click the integration you want to remove, then either the Disable or Delete button based on your choice.
 
 ### Support
 

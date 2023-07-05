@@ -29,12 +29,9 @@ Resmo uses API to do the initial polling and collect existing resources. Followi
 
 ### How to install
 
-1. Log in to your Resmo account and navigate to Integrations.
-2. Click **Add Integration** from the upper right. Then, find and **Add Tinybird**.
-
-<figure><img src="../.gitbook/assets/add-tinybird.png" alt=""><figcaption></figcaption></figure>
-
-3. Type a descriptive name for the integration and optionally a description.
+1. Select Tinybird on the Integrations page.
+2. Click the Add Integration button at the bottom right corner of the opening modal.
+3. Log in to your Tinybird account on a new tab.
 
 <figure><img src="../.gitbook/assets/tinybird-integration.png" alt=""><figcaption></figcaption></figure>
 
@@ -75,9 +72,10 @@ Resmo uses API to do the initial polling and collect existing resources. Followi
 
 ### How to uninstall
 
-1. Go to your Integrations page on Resmo.
-2. Click the Tinybird integration you want to uninstall.
-3. See the **Disable** and **Delete** buttons in the upper right corner. Disabling an integration pauses data polling until you enable it back. Deleting an integration, on the other hand, cannot be undone.
+1. Select Tinybird on your Integrations page.
+2. Navigate to the Connected Integrations tab on the opening modal.
+3. Click the Tinybird integration you want to uninstall.
+4. See the **Disable** and **Delete** buttons in the upper right corner. Disabling an integration pauses data polling until you enable it back. Deleting an integration, on the other hand, cannot be undone.
 
 ### Support
 

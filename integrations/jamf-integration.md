@@ -45,28 +45,21 @@ Resmo Jamf integration aggregates resources, including account groups, computers
 
 #### How to Install
 
-1. Create or login to your Resmo account.
-2. Navigate to Integrations. Then, add Jamf.
-3. Name your integration, and write a description (optional.)
-
-![](../.gitbook/assets/jamf.png)
-
-4\. Go to your Jamf Pro User Accounts & Groups under System Settings on your Jamf Account.
-
-5\. Create a new user with the required privileges.
-
-6\. Go to the Resmo integration page and fill in the username and password fields with the created user credentials.
+1. Go to your Integrations page on Resmo and select Jamf.
+2. Click the Add Integration button from the bottom right corner of the opening modal.
+3. On a new tab, go to your Jamf Pro User Accounts & Groups under System Settings on your Jamf Account.
+4. Create a new user with the required privileges.
+5. Go to the Resmo integration page and fill in the username and password fields with the created user credentials.
 
 ![](../.gitbook/assets/jamf-configuration-fields.png)
 
-7\. Enter the server name of your Jamf account. For example, if your Jamf server URL is _resmo.jamfcloud.com_, your server name must be _"resmo"_.
-
-8\. Hit the create button, and you are ready to run queries.
+6. Enter the server name of your Jamf account. For example, if your Jamf server URL is _resmo.jamfcloud.com_, your server name must be _"resmo"_.
+7. Hit the create button, and you are ready to run queries.
 
 #### How to Uninstall
 
 1. Go to the Integrations page on your Resmo account.&#x20;
-2. Then, select the Jamf integration you wish to uninstall.
+2. Select the Jamf integrations and navigate to the Connected Integrations tab.
 3. There are two courses of action you might take:
 
 * To temporarily pause your Jamf integration, click the Disable button on. You can always enable it later to allow the integration to continue collecting resources.

@@ -50,12 +50,10 @@ See the full list:
 ### How to install
 
 1. Create or log in to your Resmo account.
-2. Go to your Integrations page. Then, add Google Workspace.
-3. Type the integration name and click the Create button.
+2. Go to your Integrations page and select Google Workspace.
+3. Click the Add Integration button from the bottom right corner of the opening modal.
 
-![](../.gitbook/assets/google-workspace-integration.png)
-
-4\. You'll be redirected to the Google consent screen. You need to select all permissions and click the Continue button.
+4\. Once you click the Create button, you'll be redirected to the Google consent screen. You need to select all permissions and click the Continue button.
 
 ![Google Workspace consent screen](<../.gitbook/assets/Screen Shot 2022-06-21 at 14.49.20.png>)
 

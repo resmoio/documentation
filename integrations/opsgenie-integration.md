@@ -54,32 +54,19 @@ Opsgenie resources
 #### How to install
 
 1. Sign up or sign in to your Resmo account.
-2. Go to your Integrations page from the navigation bar.
-3. Click on the Add Integration button at the top right corner.
-
-![](<../.gitbook/assets/add-integration (2).png>)
-
-4\. Find Opsgenie, then click Add.
-
-5\. Give a descriptive name to your integration
-
-![](../.gitbook/assets/opsgenie-integration.png)
-
-6\. Optionally, you may add a description and tags to identify it better.
-
-7\. Go to your Opsgenie account and copy a Configuration & Read-Only API key.&#x20;
-
-8\. Then, select an endpoint. Since Opsgenie has two regions, it should be either USA or the EU.
-
-9\. Lastly, click Create, and your integration is all set!
+2. Go to your Integrations page and select Opsgenie.
+3. Click the Add Integration button from the bottom right corner of the opening modal.
+4. Go to your Opsgenie account and copy a Configuration & Read-Only API key.&#x20;
+5. Then, select an endpoint. Since Opsgenie has two regions, it should be either USA or the EU.
+6. Lastly, click Create, and your integration is all set!
 
 #### How to uninstall
 
 1. Log in to your Resmo account.
-2. Navigate to Settings>Integrations.
-3. Click on the Opsgenie integration you wish to uninstall.
+2. Navigate to Integrations and select Opsgenie.
+3. Go to the Connected Integrations tab from the opening modal and select the one you want to remove or disable.
 4. You may disable it to pause the integration and enable it when you need it back.
-5. Or, click the Delete button to permanently remove the integration.&#x20;
+5. Or, click the Delete button to remove the integration permanently.&#x20;
 
 ![](../.gitbook/assets/delete-and-disable-buttons.jpg)
 
