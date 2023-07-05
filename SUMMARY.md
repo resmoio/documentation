@@ -154,6 +154,9 @@
 * [Drata Integration](integrations/drata-integration.md)
 * [Hetzner Cloud Integration](integrations/hetzner-cloud-integration.md)
 * [Vanta Integration](integrations/vanta-integration.md)
+* [Microsoft Intune Integration](integrations/microsoft-intune-integration.md)
+* [Microsoft Defender Integration](integrations/microsoft-defender-integration.md)
+* [Microsoft 365 Integration](integrations/microsoft-365-integration.md)
 
 ## Notifications
 

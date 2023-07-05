@@ -51,7 +51,7 @@ Resmo uses API to do the initial polling and collect existing Atlassian Access r
 
 7. Go back to your Atlassian Access account. From Settings > API Keys.
 
-<figure><img src="../.gitbook/assets/api-keys (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/api-keys.png" alt=""><figcaption></figcaption></figure>
 
 8. Click the Create API Key button and copy it to your clipboard.
 
