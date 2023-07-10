@@ -8,7 +8,7 @@ description: Guide for Resmo Microsoft 365 integration
 
 <figure><img src="../.gitbook/assets/logo_microsoft365.webp" alt=""><figcaption></figcaption></figure>
 
-Resmo provides tools for comprehensive email activity analysis, efficient file access tracking, and detailed assessment of meeting and application usage. Furthermore, it enables robust security monitoring, ensuring a safe and productive Microsoft 365 environment for your organization.
+Resmo's Microsoft integration provides comprehensive email activity analysis, efficient file access tracking, and detailed assessment of meeting and application usage. Furthermore, it enables robust security monitoring, ensuring a safe and productive Microsoft 365 environment for your organization.
 
 ### What does Resmo offer to Microsoft 365 users?
 
@@ -20,7 +20,17 @@ Resmo provides tools for comprehensive email activity analysis, efficient file a
 
 ### How does the integration work?
 
-Resmo uses API to do the initial polling and collect existing Microsoft 365 resources. Following the initial polling, it receives updates and changes in real-time through webhook and regular polling.
+Currently, the Microsoft 365 integration supports the [Audit Logs](broken-reference) feature only. Upon successfully integrating the system, you gain the ability to conveniently access and review system activities associated with your Microsoft 365 account through the dedicated Audit Logs page.
+
+This allows you to collect and analyze activity logs from various Microsoft services such as OneNote, SharePoint, Exchange, and Outlook.
+
+{% hint style="info" %}
+Resmo has **native integrations** with certain Microsoft 365 tools; you can set them up to leverage more features like [asset inventory](../resources/resources.md), [data querying](broken-reference), [security rules](../rules/rules.md), [alerts](../alerts/alerts.md), and [dashboards](../dashboards/dashboards.md).
+
+* [Microsoft Teams](microsoft-teams-integration.md)
+* [Intune](microsoft-intune-integration.md)
+* [Defender](microsoft-defender-integration.md)
+{% endhint %}
 
 **Available resources**
 
@@ -36,7 +46,7 @@ Resmo uses API to do the initial polling and collect existing Microsoft 365 reso
 <figure><img src="../.gitbook/assets/add-microsoft-365.png" alt=""><figcaption></figcaption></figure>
 
 3. Allow the required permissions for the integrations.
-4. Your integration will be ready.
+4. Your integration will be ready. Now, you can monitor the system activities through your Audit Logs page.
 
 #### How to uninstall
 
