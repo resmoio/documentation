@@ -69,6 +69,18 @@ If you do not give permission **View audit reports for your G Suite domain** or 
 
 You will be informed about the resources that are not eligible to be accessed by Resmo due to missing permissions on the integration page.
 
+### How to grant domain-wide delegation access to your organization
+
+Resmo needs domain-wide delegation access to collect users' gmail settings in your organization. Yo can grant domain-wide delegation access for Resmo using following below steps. Visit official documentation for more [information](https://support.google.com/a/answer/162106).&#x20;
+
+* Go to [https://admin.google.com](https://admin.google.com/)
+* Go to **Security** > **Access and data control** > **API Controls**
+* Click **Manage Domain Wide Delegation**.
+* Click **Add new** and enter \
+  **Cliend Id**: `109597776999965244120`\
+  **Oauth Scopes**: [`https://www.googleapis.com/auth/gmail.settings.basic`](https://www.googleapis.com/auth/gmail.settings.basic)
+* Click **Authorize**
+
 ### How to uninstall
 
 * **If you remove access to Resmo on Google Security**, we don't delete the integration on our side, so you can continue seeing your resources and query them.&#x20;
