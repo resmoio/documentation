@@ -85,7 +85,7 @@ oauth_issue_refresh_tokens = true;
 
 **2. Navigate to the Connected Integrations tab on the modal and click the Snowflake integration you wish to remove.**
 
-![](../.gitbook/assets/delete-disable.png)
+![](<../.gitbook/assets/delete-disable (1).png>)
 
 3\. You have two options. To temporarily pause the integration, click the Disable button; to permanently uninstall it, click the Delete button.
 

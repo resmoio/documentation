@@ -457,7 +457,7 @@ In step 4, you can select automatic deployment enabled so that if a new account 
 
 ### How to uninstall
 
-![](<../.gitbook/assets/delete-disable (1).png>)
+![](<../.gitbook/assets/delete-disable (1) (1).png>)
 
 * Login to your Resmo account.&#x20;
 * Navigate to the Integrations page and click your AWS integration.

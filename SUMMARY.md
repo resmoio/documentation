@@ -157,6 +157,7 @@
 * [Microsoft Intune Integration](integrations/microsoft-intune-integration.md)
 * [Microsoft Defender Integration](integrations/microsoft-defender-integration.md)
 * [Microsoft 365 Integration](integrations/microsoft-365-integration.md)
+* [NPM Integration](integrations/npm-integration.md)
 
 ## Notifications
 
