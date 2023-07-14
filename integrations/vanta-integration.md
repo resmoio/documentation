@@ -59,7 +59,7 @@ Currently, Vanta's capability to generate API tokens is exclusively available to
 3. Click on the account you want to remove.
 4. You can either disable the integration temporarily and enable it back later or delete it permanently. Based on your choice, click the related button (Disable/Delete)from the top right.
 
-<figure><img src="../.gitbook/assets/disable-integration.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/disable-integration (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Support
 

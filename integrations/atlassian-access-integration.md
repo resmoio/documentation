@@ -71,7 +71,7 @@ You should see a confirmation message indicating that the integration is complet
 2. Navigate to the Connected Integrations tab and select the account you want to remove.
 3. You can either disable it temporarily or delete it permanently. Depending on your choice, click the Disable/Delete button from the top right.
 
-<figure><img src="../.gitbook/assets/disable-integration (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/disable-integration (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Support
 
