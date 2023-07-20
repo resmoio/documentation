@@ -44,4 +44,4 @@ Resmo has a Hubspot application that you can install once you sign up for a Resm
 
 ### Support
 
-Still have questions about the Resmo Hubspot integration, feel free to contact us via live chat or email us at contact@remso.com.
+Still have questions about the Resmo Hubspot integration, feel free to contact us via live chat or email us at contact@resmo.com.
