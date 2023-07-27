@@ -1,8 +1,9 @@
 # Table of contents
 
+* [Welcome!](README.md)
+
 ## Getting Started
 
-* [Introduction](README.md)
 * [Quick Start Guide](getting-started/quick-start-guide.md)
 * [Resources documentation (auto-generated)](https://docs.resmo.com/resources)
 * [Glossary](getting-started/glossary.md)
