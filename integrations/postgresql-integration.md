@@ -22,7 +22,7 @@ Then, we process them on the server. You can use the database agent as a binary 
 
 **Available resources:**
 
-{% embed url="https://docs.resmo.com/resources/postgresql" %}
+{% embed url="https://resources.resmo.com/postgresql" %}
 
 ### Integration Walkthrough
 
@@ -69,7 +69,3 @@ Then, we process them on the server. You can use the database agent as a binary 
 Note that account removal cannot be undone; you would need to integrate again. Instead, you can choose to disable an integration until you enable it back.
 
 <figure><img src="../.gitbook/assets/uninstall-postgresql.png" alt=""><figcaption></figcaption></figure>
-
-### Support
-
-Contact us via live chat or email us at contact@resmo.com for support requests and troubleshooting.

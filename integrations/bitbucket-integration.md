@@ -22,7 +22,7 @@ Resmo seamlessly integrates with Bitbucket to secure your resources and mitigate
 
 Resmo has a Bitbucket application that you can install once you sign up for a Resmo account. Our application uses API to make the initial polling and receive existing resources. Then, we receive resource changes and updates in real-time by regular polling.
 
-[Available Resources](https://docs.resmo.com/resources/bitbucket)
+{% embed url="https://resources.resmo.com/bitbucket" %}
 
 ### Common queries and rules
 
@@ -50,7 +50,3 @@ Resmo has a Bitbucket application that you can install once you sign up for a Re
 1. Go to Integrations>Bitbucket.
 2. Click the Connected Integrations tab on the opening modal and select the Bitbucket account you want to remove.&#x20;
 3. You have two options. To temporarily pause the integration, click the Disable button. Or you can permanently remove the integration using the Delete button.
-
-### Troubleshooting
-
-If you have any questions or troubles with the integration, feel free to contact us via live chat on our website or email us at contact@resmo.com.

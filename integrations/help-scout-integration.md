@@ -20,7 +20,7 @@ Resmo uses API to do the initial polling and collect existing resources. Followi
 
 **Available resources**
 
-{% embed url="https://docs.resmo.com/resources/helpscout" %}
+{% embed url="https://resources.resmo.com/helpscout" %}
 
 ### Integration Walkthrough
 
@@ -58,7 +58,3 @@ Resmo uses API to do the initial polling and collect existing resources. Followi
 Open the Help Scout integration from Integrations>Help Scout to delete the integration. Go to the Connected Integrations tab from the opening modal and select the one you want to remove or disable.&#x20;
 
 Disabled integrations can be enabled later, while deletion cannot be undone.
-
-### Support
-
-Contact us via live chat or email us at contact@resmo.com for queries and troubleshooting.

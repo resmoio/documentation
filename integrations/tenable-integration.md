@@ -44,7 +44,7 @@ Resmo collects a wide range of Tenable resources for visibility, including asset
 
 See the complete list:
 
-{% embed url="https://docs.resmo.com/resources/tenable" %}
+{% embed url="https://resources.resmo.com/tenable" %}
 
 ## Integration walkthrough
 
@@ -72,7 +72,3 @@ See the complete list:
 4. For permanent uninstallation, click the Delete button. Note that this action cannot be undone.
 
 <figure><img src="../.gitbook/assets/tenable-disable (2).png" alt=""><figcaption></figcaption></figure>
-
-### Support
-
-For troubleshooting or further inquires, please get in touch with us via live chat or email us contact@resmo.com.

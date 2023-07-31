@@ -23,7 +23,7 @@ Resmo uses API to do the initial polling and collect existing resources. Followi
 
 #### Available resources
 
-{% embed url="https://docs.resmo.com/resources/terraformcloud" %}
+{% embed url="https://resources.resmo.com/terraformcloud" %}
 
 ## Integration walkthrough
 
@@ -64,7 +64,3 @@ You can either **disable** the integration **temporarily** or **delete** it **pe
 3\. Depending on your choice, click the Disable or Delete button from the top right of the integration's configuration page.
 
 <figure><img src="../.gitbook/assets/terraform-disable-delete.png" alt=""><figcaption></figcaption></figure>
-
-### Support
-
-Contact us via live chat or email us at contact@resmo.com for support requests and troubleshooting; our team will assist as soon as possible.

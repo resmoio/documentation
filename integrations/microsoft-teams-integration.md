@@ -23,7 +23,7 @@ Resmo uses API to do the initial polling and collect existing resources. Followi
 
 #### Available resources
 
-{% embed url="https://docs.resmo.com/resources/msteams" %}
+{% embed url="https://resources.resmo.com/msteams" %}
 
 ## Integration walkthrough
 
@@ -50,7 +50,3 @@ Resmo uses API to do the initial polling and collect existing resources. Followi
 2. To temporarily pause the integration, click the Disable button, or you can permanently remove it by clicking the Delete button.
 
 <figure><img src="../.gitbook/assets/msteams-disable.png" alt=""><figcaption></figcaption></figure>
-
-### Support
-
-For further support and troubleshooting, please contact our team via live chat or email us at contact@resmo.com.&#x20;

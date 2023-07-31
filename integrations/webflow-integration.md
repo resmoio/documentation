@@ -27,7 +27,7 @@ Resmo aggregates Webflow resources, including domains, access groups, and webhoo
 
 See the complete list:
 
-{% embed url="https://docs.resmo.com/resources/webflow" %}
+{% embed url="https://resources.resmo.com/webflow" %}
 
 ## Integration walkthrough
 
@@ -49,7 +49,3 @@ See the complete list:
 3. To temporarily disable the integration, click the Disable button, or you can permanently remove it by clicking the Delete button.&#x20;
 
 <figure><img src="../.gitbook/assets/disable-delete (1).png" alt=""><figcaption></figcaption></figure>
-
-### Support
-
-For further inquiries or to report any issues, please get in touch with us via live chat or email us at [contact@resmo.com](mailto:contact@resmo.com).

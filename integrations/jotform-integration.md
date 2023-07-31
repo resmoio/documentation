@@ -23,11 +23,7 @@ Once you sign up and log in to Resmo, you can easily connect your Jotform accoun
 
 #### Available resources
 
-Resources you can collect with your Jotform integration include:
-
-* Sub-users (account users)
-* Form
-* Report
+{% embed url="https://resources.resmo.com/jotform" %}
 
 {% hint style="info" %}
 "Sub-users" are only available on Jotform Enterprise; therefore, in order to collect them on Resmo, you must be a Jotform Enterprise subscriber.
@@ -54,7 +50,3 @@ Resources you can collect with your Jotform integration include:
 2. Navigate to the Connected Integrations tab on the opening modal.
 3. Click the Jotform integration you want to remove.
 4. You can temporarily disable the integration by clicking the Disable button from the top right or permanently uninstall it by clicking the Delete button.
-
-### Support
-
-Contact us via live chat or email us at contact@resmo.com for troubleshooting or support requests about your Jotform integration.

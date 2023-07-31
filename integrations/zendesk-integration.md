@@ -23,7 +23,7 @@ Resmo has a Zendesk application that you can install once you sign up for a Resm
 
 #### Available resources
 
-{% embed url="https://docs.resmo.com/resources/zendesk" %}
+{% embed url="https://resources.resmo.com/zendesk" %}
 
 ## Integration walkthrough
 
@@ -49,7 +49,3 @@ Resmo has a Zendesk application that you can install once you sign up for a Resm
 5. The other option is permanent deletion. To uninstall your Zendesk integration permanently, you can click the Delete button.
 
 <figure><img src="../.gitbook/assets/delete-integration.png" alt=""><figcaption></figcaption></figure>
-
-### Support
-
-Contact our team for further queries or troubleshooting about your Zendesk integration via live chat or email us at contact@resmo.com.

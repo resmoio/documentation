@@ -202,6 +202,3 @@ $ curl --request DELETE \
 
 * If there is no resource with ID (+ groupKey) information, then it will be ignored.
 
-### Troubleshooting
-
-Having trouble creating your custom data integration? Feel free to contact us via live chat or email us at contact@resmo.com.

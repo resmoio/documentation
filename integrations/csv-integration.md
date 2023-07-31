@@ -33,6 +33,8 @@ Existing CSV integrations can be edited.&#x20;
 * Uploading a new CSV file will override the previous data. Therefore, the previous data will be deleted and replaced with the new one.
 {% endhint %}
 
+{% embed url="https://resources.resmo.com/csv" %}
+
 ## Integration walkthrough
 
 ### How to install
@@ -81,7 +83,3 @@ Make sure to select the correct group and resource name. Otherwise, the data for
 3. As another option, you may choose to update the CSV file you uploaded. Note that the new file will override the existing one. The existing resources in the CSV file will therefore be replaced with the new ones.
 
 <figure><img src="../.gitbook/assets/delete-disable-csv-integration.png" alt=""><figcaption></figcaption></figure>
-
-### Support
-
-Still have questions about the CSV integration? Feel free to contact us via live chat or email us at contact@resmo.com, and our team will be in touch in no time.

@@ -23,7 +23,7 @@ Resmo uses an API key created from the Segment Admin page. Our application uses 
 
 #### Available resources
 
-{% embed url="https://docs.resmo.com/resources/segment" %}
+{% embed url="https://resources.resmo.com/segment" %}
 
 ## Integration walkthrough
 
@@ -55,8 +55,3 @@ Resmo uses an API key created from the Segment Admin page. Our application uses 
 * The other is to permanently remove it by clicking the **Delete** button, which cannot be undone.&#x20;
 
 <figure><img src="../.gitbook/assets/disable-delete-segment.png" alt=""><figcaption></figcaption></figure>
-
-### Support
-
-You can reach out to our team for support requests or troubleshooting related to your Segment integration via live chat or email at contact@resmo.com.
-

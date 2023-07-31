@@ -27,7 +27,7 @@ Resmo consolidates Sentry resources in a single asset inventory, including Integ
 
 **See the full list:**
 
-{% embed url="https://docs.resmo.com/resources/sentry" %}
+{% embed url="https://resources.resmo.com/sentry" %}
 
 ## Integration walkthrough
 
@@ -61,8 +61,4 @@ Resmo consolidates Sentry resources in a single asset inventory, including Integ
 3. To temporarily pause your Sentry integration, click the **Disable** button. For permanent uninstallation, click the **Delete** button.
 
 <figure><img src="../.gitbook/assets/disable-button.png" alt=""><figcaption></figcaption></figure>
-
-### Support
-
-Contact us via live chat or email us at contact@resmo.com for issues or further questions.
 

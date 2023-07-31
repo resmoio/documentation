@@ -23,7 +23,7 @@ Resmo uses API to do the initial polling and collect existing resources. Followi
 
 #### Available resources
 
-{% embed url="https://docs.resmo.com/resources/lastpass" %}
+{% embed url="https://resources.resmo.com/lastpass" %}
 
 ## Integration walkthrough
 
@@ -56,7 +56,3 @@ Resmo uses API to do the initial polling and collect existing resources. Followi
 3. To temporarily pause the integration, click the Disable button from the top right. For permanent removal, click the Delete button.
 
 <figure><img src="../.gitbook/assets/lastpass-disable.png" alt=""><figcaption></figcaption></figure>
-
-### Support
-
-Reach out to our team for support and troubleshooting requests via live chat or email us at contact@resmo.com.

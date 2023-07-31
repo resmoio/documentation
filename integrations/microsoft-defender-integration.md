@@ -24,7 +24,7 @@ Resmo uses API to do the initial polling and collect existing Microsoft Defender
 
 **Available resources**
 
-{% embed url="https://docs.resmo.com/resources/defender" %}
+{% embed url="https://resources.resmo.com/defender" %}
 
 ### Integration Walkthrough
 
@@ -46,7 +46,3 @@ Resmo uses API to do the initial polling and collect existing Microsoft Defender
 4. You can either disable the integration temporarily and enable it back later or delete it permanently. Based on your choice, click the related button (Disable/Delete)from the top right.
 
 <figure><img src="../.gitbook/assets/disable-defender.png" alt=""><figcaption></figcaption></figure>
-
-### Support
-
-For further troubleshooting and support requests, contact us via live chat or email us at contact@resmo.com.

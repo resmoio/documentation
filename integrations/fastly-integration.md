@@ -34,7 +34,7 @@ Resmo uses API to do the initial polling and collect existing resources. Then, w
 
 Resmo aggregates Fastly resources in real-time, including accounts, API Tokens, and services, allowing you to query and secure your cyber assets.
 
-{% embed url="https://docs.resmo.com/resources/fastly" %}
+{% embed url="https://resources.resmo.com/fastly" %}
 
 ## Integration Walkthrough
 
@@ -61,7 +61,3 @@ Resmo aggregates Fastly resources in real-time, including accounts, API Tokens, 
 1. Navigate to your integrations page and click the Fastly integration.
 2. Navigate to the Connected Integrations tab and select the account you want to remove.
 3. To temporarily pause the integration, hit the Disable button. Or, you may permanently uninstall it by clicking the Delete button from the top right.
-
-### Support
-
-For further questions about your Resmo Fastly integration or troubleshooting, contact us via live chat or email us at contact@resmo.com.

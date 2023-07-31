@@ -27,7 +27,7 @@ Resources you can collect with your Resmo Vercel integration include domains, ch
 
 **See the complete list:**
 
-{% embed url="https://docs.resmo.com/resources/vercel" %}
+{% embed url="https://resources.resmo.com/vercel" %}
 
 ## Integration walkthrough
 
@@ -70,7 +70,3 @@ Resources you can collect with your Resmo Vercel integration include domains, ch
 4. To temporarily pause the integration, click the Disable button. This way, you'll be able to enable it back later. To permanently uninstall it, click the Delete button. This action cannot be undone.
 
 <figure><img src="../.gitbook/assets/delete-disable-buttons (1).png" alt=""><figcaption></figcaption></figure>
-
-### Support
-
-Contact us via live chat or email us at contact@resmo.com for troubleshooting or support requests.

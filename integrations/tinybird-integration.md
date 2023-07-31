@@ -23,7 +23,7 @@ Resmo uses API to do the initial polling and collect existing resources. Followi
 
 #### Available resources
 
-{% embed url="https://docs.resmo.com/resources/tinybird" %}
+{% embed url="https://resources.resmo.com/tinybird" %}
 
 ## Integration walkthrough
 
@@ -76,7 +76,3 @@ Resmo uses API to do the initial polling and collect existing resources. Followi
 2. Navigate to the Connected Integrations tab on the opening modal.
 3. Click the Tinybird integration you want to uninstall.
 4. See the **Disable** and **Delete** buttons in the upper right corner. Disabling an integration pauses data polling until you enable it back. Deleting an integration, on the other hand, cannot be undone.
-
-### Support
-
-Contact us via live chat or email us at contact@resmo.com for support requests or troubleshooting.

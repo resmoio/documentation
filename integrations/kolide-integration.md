@@ -25,7 +25,7 @@ Resmo uses API keys created from the Kolide Admin page. Our application uses API
 
 Resmo consolidates Kolide resources in one place, including devices, identities, checks, and more.
 
-{% embed url="https://docs.resmo.com/resources/kolide" %}
+{% embed url="https://resources.resmo.com/kolide" %}
 
 ## Integration Walkthrough
 
@@ -45,7 +45,3 @@ Resmo consolidates Kolide resources in one place, including devices, identities,
 3. You can temporarily disable or permanently delete your integration from the top right buttons (Disable - Delete.)&#x20;
 
 <figure><img src="../.gitbook/assets/kolide-config.png" alt=""><figcaption></figcaption></figure>
-
-### Support
-
-If you still have any questions about your Resmo Kolide integration, contact us via live chat or email us at contact@resmo.com.

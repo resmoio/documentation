@@ -22,7 +22,7 @@ Resmo uses API to do the initial polling and collect existing Drata resources. F
 
 **Available resources**
 
-{% embed url="https://docs.resmo.com/resources/drata" %}
+{% embed url="https://resources.resmo.com/drata" %}
 
 ### Integration Walkthrough
 
@@ -56,7 +56,3 @@ Resmo uses API to do the initial polling and collect existing Drata resources. F
 4. You can either Disable it temporarily or Delete it permanently. Depending on your choice, click the Disable/Delete button from the top right.
 
 <figure><img src="../.gitbook/assets/drata-disable.png" alt=""><figcaption></figcaption></figure>
-
-### Support
-
-Contact us via live chat or email us at contact@resmo.com for further questions and troubleshooting.

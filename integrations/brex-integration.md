@@ -24,7 +24,7 @@ Resmo uses API to do the initial polling and collect existing resources. Followi
 
 #### Available resources
 
-{% embed url="https://docs.resmo.com/resources/brex" %}
+{% embed url="https://resources.resmo.com/brex" %}
 
 ## Integration walkthrough
 
@@ -62,8 +62,4 @@ Resmo uses API to do the initial polling and collect existing resources. Followi
 3. To temporarily pause your Brex integration, click the Disable button. You can also permanently uninstall it by clicking the Delete button.&#x20;
 
 <figure><img src="../.gitbook/assets/disable-delete-integration.png" alt=""><figcaption></figcaption></figure>
-
-### Support
-
-Still have questions? Feel free to contact us via live chat or email us at contact@resmo.com.
 

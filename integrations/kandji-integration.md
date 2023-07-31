@@ -23,7 +23,7 @@ Resmo uses API to do the initial polling and collect existing resources. Followi
 
 #### Available resources
 
-{% embed url="https://docs.resmo.com/resources/kandji" %}
+{% embed url="https://resources.resmo.com/kandji" %}
 
 ## Integration walkthrough
 
@@ -80,7 +80,3 @@ Resmo uses API to do the initial polling and collect existing resources. Followi
 4. To temporarily disable it, click the **Disable** button from the top right. To permanently uninstall it, click the **Delete** button instead. Note that the disabling action can be undone later while deletion cannot be undone.
 
 <figure><img src="../.gitbook/assets/kandji-disable.jpg" alt=""><figcaption></figcaption></figure>
-
-### Support
-
-Still have questions about your Kandji integration? Contact our team via live chat or email us at contact@resmo.com.&#x20;

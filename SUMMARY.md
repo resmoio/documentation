@@ -7,6 +7,7 @@
 * [Quick Start Guide](getting-started/quick-start-guide.md)
 * [Glossary](getting-started/glossary.md)
 * [FAQ](getting-started/faq.md)
+* [Support](getting-started/support.md)
 * [Resources documentation (automated)](https://resources.resmo.com/)
 
 ## Guides

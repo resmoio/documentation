@@ -21,7 +21,7 @@ Resmo employs APIs to execute initial polling and gather pre-existing NPM resour
 
 #### Available resources
 
-{% embed url="https://docs.resmo.com/resources/npm" %}
+{% embed url="https://resources.resmo.com/npm" %}
 
 ### Integration Walkthrough
 
@@ -61,7 +61,3 @@ Resmo employs APIs to execute initial polling and gather pre-existing NPM resour
 4. Click the related button (Disable/Delete)from the top right depending on your choice.
 
 <figure><img src="../.gitbook/assets/delete-disable.png" alt=""><figcaption></figcaption></figure>
-
-### Support
-
-Contact us via live chat or email us at contact@resmo.com for troubleshooting and support requests.

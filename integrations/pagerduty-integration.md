@@ -33,7 +33,7 @@ Resmo PagerDuty integration aggregates resources such as add-ons, business servi
 
 See the full list:
 
-{% embed url="https://docs.resmo.com/resources/pagerduty" %}
+{% embed url="https://resources.resmo.com/pagerduty" %}
 
 ### Common queries and rules
 
@@ -76,7 +76,3 @@ See the full list:
 4. Disable it to enable later or click Delete to remove the integration permanently.
 
 ![](../.gitbook/assets/pagerduty-disable-delete-buttons.png)
-
-### Support
-
-For further questions and issues, please contact us via live chat or email us at contact@resmo.com.

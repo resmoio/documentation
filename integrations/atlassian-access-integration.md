@@ -21,7 +21,7 @@ Resmo uses API to do the initial polling and collect existing Atlassian Access r
 
 **Available resources**
 
-{% embed url="https://docs.resmo.com/resources/atlassianaccess" %}
+{% embed url="https://resources.resmo.com/atlassianaccess" %}
 
 {% hint style="info" %}
 **Tip:** Use [Audit Logs](../audit-logs/audit-logs.md) for comprehensive monitoring of all Atlassian Access activities and system events.
@@ -72,7 +72,3 @@ You should see a confirmation message indicating that the integration is complet
 3. You can either disable it temporarily or delete it permanently. Depending on your choice, click the Disable/Delete button from the top right.
 
 <figure><img src="../.gitbook/assets/disable-integration (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-### Support
-
-For further questions or support requests, please contact us via live chat or email us at contact@resmo.com.

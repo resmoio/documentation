@@ -29,7 +29,9 @@ API keys can also be revoked before their expiration dates.
 
 #### Available resources
 
-{% embed url="https://docs.resmo.com/resources/tailscale" %}
+
+
+{% embed url="https://resources.resmo.com/tailscale" %}
 
 ## Integration walkthrough
 
@@ -61,7 +63,3 @@ API keys can also be revoked before their expiration dates.
 * To **permanently remove** the integration, click the **Delete button**. This action cannot be undone.
 
 <figure><img src="../.gitbook/assets/disable-delete-buttons.png" alt=""><figcaption></figcaption></figure>
-
-### Support
-
-Contact our team for troubleshooting via live chat or email us at contact@resmo.com, and we'll get in touch as soon as possible.

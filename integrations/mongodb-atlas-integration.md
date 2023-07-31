@@ -16,26 +16,18 @@ Resmo seamlessly integrates with MongoDB Atlas to keep all your resources fully 
 * Query assets using managed or custom SQL queries
 * Set up predefined or custom rules to run automated audits
 * Get real-time alerts on rule violations
-* Detect changes to configurations, rules, and resources with historic data
+* Detect changes to configurations, rules, and resources with historical data
 
 ### How does the integration work?
 
-Resmo connects with your MongoDB organizations through API Key (Public Key and Private Key) and requests an Organization Read-Only permission to start the initial polling of your existing resources. We continue polling at regular intervals to receive the resource updates.
+Resmo connects with your MongoDB organizations through API Key (Public Key and Private Key) and requests an Organization Read-Only permission to start the initial polling of your existing resources. We continue polling at regular intervals to receive resource updates.
 
-| Available Resources |
-| ------------------- |
-| Alert Configuration |
-| API Key             |
-| Cluster             |
-| Organization        |
-| Organization Key    |
-| Project             |
-| Root                |
+{% embed url="https://resources.resmo.com/mongodbatlas" %}
 
 ### Common queries and rules
 
 * Observe cluster counts per project for an organization
-* List users per organizations
+* List users per organization
 * List users per teams
 * Identify owners of projects
 * See owners of organizations
@@ -71,7 +63,3 @@ Resmo connects with your MongoDB organizations through API Key (Public Key and P
 ![](../.gitbook/assets/mongodb-delete-disable-buttons.png)
 
 3\. To temporarily pause the integration click the Disable button, or you may permanently remove the integration by clicking the Delete button at the top right.
-
-### Support
-
-Still have questions about the MongoDB integration or Resmo? You can contact us via the live chat on our website or email us at contact@resmo.com.

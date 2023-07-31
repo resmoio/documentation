@@ -26,7 +26,7 @@ Resmo has an Azure integration that you can install securely once you sign up fo
 
 Resmo Azure integration collects Network, Compute, Storage, and much more.
 
-{% embed url="https://docs.resmo.com/resources/azure" %}
+{% embed url="https://resources.resmo.com/azure" %}
 
 ### Common queries and rules
 

@@ -11,7 +11,7 @@ Resmo collects Hetzner resource configuration data like firewalls, servers, netw
 ### What does Resmo offer to Hetzner Cloud users?
 
 * Query your Hetzner Cloud configuration data, such as details about your server specifications, IP addresses, location, and associated teams and projects.
-* Set up automated security rules to continuously assess your resources and configurations to catch and avoid vulnerabilities in time.
+* Set up automated security rules to continuously assess your resources and configurations to quickly catch and avoid vulnerabilities.
 * Get alerts on critical changes, such as when load balancers are created, modified, or deleted.
 
 ### How does the integration work?
@@ -20,7 +20,7 @@ Resmo uses API to do the initial polling and collect existing Hetzner Cloud reso
 
 **Available resources**
 
-{% embed url="https://docs.resmo.com/resources/hetznercloud" %}
+{% embed url="https://resources.resmo.com/hetznercloud" %}
 
 ### Integration Walkthrough
 
@@ -57,7 +57,3 @@ Resmo uses API to do the initial polling and collect existing Hetzner Cloud reso
 3. Select the integration you want to remove. You can either disable temporarily (disabled integrations can be enabled back later on) or delete permanently which cannot be undone.
 
 <figure><img src="../.gitbook/assets/disable-hetzner.png" alt=""><figcaption></figcaption></figure>
-
-### Support
-
-Still have questions about your Hetzner integration? Contact us via live chat or email us at contact@resmo.com.

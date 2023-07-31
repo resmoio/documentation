@@ -22,11 +22,7 @@ Resmo integrates with Snyk to ensure your Snyk environment is safe and compliant
 
 Once you sign up to Resmo, you can easily integrate your account with Snyk using an API key. Resmo uses API to do the initial polling and collect existing resources. Then, we receive resource changes and updates in real-time by regular polling.
 
-[Available Resources](https://docs.resmo.com/resources/snyk)
-
-### Common queries and rules
-
-(To be added)
+{% embed url="https://resources.resmo.com/snyk" %}
 
 ### Integration Walkthrough
 
@@ -59,7 +55,3 @@ Once you sign up to Resmo, you can easily integrate your account with Snyk using
 * **Does the Synk Resmo integration require a certain Snyk pricing plan?**
 
 The Snyk API is available to customers on [Business and Enterprise plans](https://snyk.io/plans) and allows you to integrate with Snyk.
-
-### Support
-
-If you have any questions about the Resmo Snyk integration, feel free to contact us via live chat or email us at contact@resmo.com.

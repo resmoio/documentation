@@ -29,9 +29,7 @@ Resmo Jira integration collects Jira resources, including projects, users, group
 
 See the complete list:&#x20;
 
-{% embed url="https://docs.resmo.com/resources/jira" %}
-Jira resources
-{% endembed %}
+{% embed url="https://resources.resmo.com/jira" %}
 
 ### Common queries and rules&#x20;
 
@@ -68,7 +66,3 @@ If you uninstall Resmo from your Jira account, we don’t remove the integration
 #### Revoking Tokens
 
 If you want to revoke your OAuth tokens after deleting the integration. Follow the steps [here](https://developer.atlassian.com/cloud/confluence/oauth-2-3lo-apps/#site-scoped-grants-limitations).
-
-### Support
-
-For further queries and issues, contact us via live chat or email us at contact@resmo.com.

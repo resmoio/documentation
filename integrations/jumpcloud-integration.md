@@ -27,7 +27,7 @@ Available resources you can collect with Remso include directories, applications
 
 See the complete list:
 
-{% embed url="https://docs.resmo.com/resources/jumpcloud" %}
+{% embed url="https://resources.resmo.com/jumpcloud" %}
 
 {% hint style="info" %}
 **Tip:** Use [Audit Logs](../audit-logs/audit-logs.md) for comprehensive monitoring of all JumpCloud activities and system events.
@@ -65,7 +65,3 @@ The Role should be 'Read Only' and select Multi-factor Authentication also for b
 3. From there, you have two options. You can choose to temporarily disable it by clicking the Disable button or permanently uninstall it by clicking the Delete button.
 
 <figure><img src="../.gitbook/assets/disable-delete (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-### Troubleshooting
-
-If you still have questions or issues about the Resmo JumpCloud integration, contact our team via live chat or email us at [contact@resmo.com](mailto:contact@resmo.com).

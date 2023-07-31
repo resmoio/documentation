@@ -29,7 +29,7 @@ Resmo Kubernetes Integration collects resources by establishing a trust relation
 
 Resmo Kubernetes integration aggregates deployments, jobs, pods, cluster roles, services, and more.
 
-{% embed url="https://docs.resmo.com/resources/kubernetes" %}
+{% embed url="https://resources.resmo.com/kubernetes" %}
 
 ### Common queries and rules
 

@@ -22,7 +22,7 @@ Resmo helps make your Duo resources visible, secure, and compliant.
 
 Once you sign up to Resmo, you can easily integrate your account with Duo using an API Hostname, API integration key, and API secret key. Resmo uses API to do the initial polling and collect existing resources. Then, we receive resource changes and updates in real-time by regular polling.
 
-[Available Resources](https://docs.resmo.com/resources/duo)
+{% embed url="https://resources.resmo.com/duo" %}
 
 #### Required permissions for integration:
 

@@ -45,7 +45,7 @@ Resmo aggregates Qualys resources, including users, compliance scans, host asset
 
 See the full list:
 
-{% embed url="https://docs.resmo.com/resources/qualys" %}
+{% embed url="https://resources.resmo.com/qualys" %}
 
 ## Integration walkthrough
 
@@ -68,7 +68,3 @@ See the full list:
 3. To temporarily disable your Qualys integration, click the Disable button, or you can permanently remove it by clicking the Delete button.
 
 <figure><img src="../.gitbook/assets/qualys-disable-delete-options.png" alt=""><figcaption></figcaption></figure>
-
-### Support
-
-If you have further questions or issues with your Qualys integration, feel free to contact us via live chat or email us at contact@resmo.com.

@@ -28,7 +28,7 @@ Once you integrate Firebase with Resmo using your Firebase Admin SDK Credential 
 
 #### Available resources
 
-{% embed url="https://docs.resmo.com/resources/firebase" %}
+{% embed url="https://resources.resmo.com/firebase" %}
 
 ## Integration walkthrough
 
@@ -61,7 +61,3 @@ Labels help you query and refer to resources coming from this integration using 
 3. You can either disable the integration until you enable it back or delete it forever. Depending on your choice, click the related button (Disable / Delete) from the top right of the opening modal window.
 
 <figure><img src="../.gitbook/assets/firebase-configurations.png" alt=""><figcaption></figcaption></figure>
-
-### Support
-
-Still have questions? Contact us for support requests or troubleshooting via live chat or email us at contact@resmo.com.

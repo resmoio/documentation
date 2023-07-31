@@ -23,7 +23,7 @@ Resmo uses API to do the initial polling and collect existing resources. Followi
 
 #### Available resources
 
-{% embed url="https://docs.resmo.com/resources/wizer" %}
+{% embed url="https://resources.resmo.com/wizer" %}
 
 ## Integration walkthrough
 
@@ -48,7 +48,3 @@ Resmo uses API to do the initial polling and collect existing resources. Followi
 5. Or, you can **permanently uninstall** by clicking the Delete button instead. Mind that this action cannot be undone.
 
 <figure><img src="../.gitbook/assets/wizer-delete-disable.png" alt=""><figcaption></figcaption></figure>
-
-### Support
-
-Still have questions about your Wizer integration? Contact us via live chat or email us at contact@resmo.com for support requests or troubleshooting.

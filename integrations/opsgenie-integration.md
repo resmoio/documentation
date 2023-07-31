@@ -34,9 +34,7 @@ Resmo Opsgenie integration aggregates users, teams, escalations, accounts, sched
 
 See the full list:
 
-{% embed url="https://docs.resmo.com/resources/opsgenie" %}
-Opsgenie resources
-{% endembed %}
+{% embed url="https://resources.resmo.com/opsgenie" %}
 
 {% hint style="info" %}
 **Tip:** Use [Audit Logs](../audit-logs/audit-logs.md) for comprehensive monitoring of all Opsgenie activities and system events.
@@ -69,7 +67,3 @@ Opsgenie resources
 5. Or, click the Delete button to remove the integration permanently.&#x20;
 
 ![](../.gitbook/assets/delete-and-disable-buttons.jpg)
-
-### Support
-
-If you have any questions about Opsgenie integration or Resmo in general, feel free to email us at contact@resmo.com or contact us via live chat on our website.

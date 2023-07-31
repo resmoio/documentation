@@ -39,7 +39,7 @@ Resmo Jamf integration aggregates resources, including account groups, computers
 
 **See the full list:**
 
-{% embed url="https://docs.resmo.com/resources/jamf" %}
+{% embed url="https://resources.resmo.com/jamf" %}
 
 ### Integration Walkthrough
 
@@ -64,7 +64,3 @@ Resmo Jamf integration aggregates resources, including account groups, computers
 
 * To temporarily pause your Jamf integration, click the Disable button on. You can always enable it later to allow the integration to continue collecting resources.
 * To permanently remove it, click the Delete button. This action cannot be undone.
-
-### Support
-
-If you still have questions regarding the Jamf integration, feel free to contact us via live chat or email us at contact@resmo.com.

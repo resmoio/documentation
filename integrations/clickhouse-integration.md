@@ -16,13 +16,13 @@ Resmo seamlessly integrates with ClickHouse, allowing you to effortlessly collec
 
 ### How does the integration work?
 
-Resmo ClickHouse Integration collects resources by using our database agent. After you create, integrate, and set the configurations as specified in the [How to Install section](clickhouse-integration.md#how-to-install), the database agent starts to operate. Once triggered, it sends requests to our servers, pulling resources inside the database.&#x20;
+Resmo ClickHouse Integration collects resources by using our database agent. After you create, integrate, and set the configurations specified in the How to Install section, the database agent starts operating. Once triggered, it sends requests to our servers, pulling resources inside the database.&#x20;
 
-Then, we process them on the server. You can use the database agent as a binary or docker image, depending on the installation path you choose. Resmo performs the resource validation with a unique IngestKey. Note: An IngestKey is different for each integration.
+Then, we process them on the server. You can use the database agent as a binary or docker image, depending on your chosen installation path. Resmo performs the resource validation with a unique IngestKey. Note: An IngestKey is different for each integration.
 
 **Available resources:**
 
-{% embed url="https://docs.resmo.com/resources/clickhouse" %}
+{% embed url="https://resources.resmo.com/clickhouse" %}
 
 ### Integration Walkthrough
 
@@ -69,7 +69,3 @@ Then, we process them on the server. You can use the database agent as a binary 
 Note that account removal cannot be undone; you would need to integrate again. Instead, you can choose to disable an integration until you enable it back.
 
 <figure><img src="../.gitbook/assets/uninstall-clickhouse.png" alt=""><figcaption></figcaption></figure>
-
-### Support
-
-For troubleshooting or support requests, contact us via live chat or email us at contact@resmo.com.

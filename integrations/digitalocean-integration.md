@@ -23,7 +23,7 @@ Resmo uses API to do the initial polling and collect existing resources. Followi
 
 #### Available resources
 
-{% embed url="https://docs.resmo.com/resources/digitalocean" %}
+{% embed url="https://resources.resmo.com/digitalocean" %}
 
 ## Integration walkthrough
 
@@ -46,7 +46,3 @@ Resmo uses API to do the initial polling and collect existing resources. Followi
 4. To temporarily disable the integration, click the **Disable** button from the top right. You can enable it back later on. For permanent deletion, click the Delete button instead. This action cannot be undone.
 
 <figure><img src="../.gitbook/assets/disable-delete-digitalocean.png" alt=""><figcaption></figcaption></figure>
-
-### Support
-
-Reach out to us for support requests or troubleshooting related to your DigitalOcean integration via live chat or email us at contact@resmo.com.

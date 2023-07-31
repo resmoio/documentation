@@ -25,7 +25,7 @@ Resmo uses API keys created by a user. Ensure that you have Our application uses
 
 Resmo aggregates Upstash resources in one place, including Kafka topics, Kafka clusters, Redis databases, and more.
 
-{% embed url="https://docs.resmo.com/resources/upstash" %}
+{% embed url="https://resources.resmo.com/upstash" %}
 
 ## Integration Walkthrough
 
@@ -46,7 +46,3 @@ Resmo aggregates Upstash resources in one place, including Kafka topics, Kafka c
 3. To temporarily pause the integration, click the Disable button; to permanently remove it, click the Delete button.&#x20;
 
 <figure><img src="../.gitbook/assets/upstash-config.png" alt=""><figcaption></figcaption></figure>
-
-### Support
-
-For further questions and issues regarding your Resmo Upstash integration, contact us via live chat or email us at contact@resmo.com.&#x20;

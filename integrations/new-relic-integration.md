@@ -27,9 +27,7 @@ Available resources for New Relic include accounts, alert policies, dashboards, 
 
 See the complete list:&#x20;
 
-{% embed url="https://docs.resmo.com/resources/newrelic" %}
-_New Relic resources_
-{% endembed %}
+{% embed url="https://resources.resmo.com/newrelic" %}
 
 ### **Common Queries and Rules**
 
@@ -72,7 +70,3 @@ _New Relic resources_
 2. Navigate to the Integrations page and click New Relic.&#x20;
 3. Go to the Connected Integrations tab from the opening modal and select the one you want to remove or disable.
 4. Click the Delete button to uninstall or Disable to stop polling New Relic resources temporarily.
-
-### Support
-
-If you have further questions about the New Relic integration, contact us via live chat or email us at contact@resmo.com.

@@ -33,9 +33,7 @@ Resmo GitHub integration collects GitHub repositories, users, organizations, tea
 
 See the full update list:
 
-{% embed url="https://docs.resmo.com/resources/github" %}
-GitHub Resources
-{% endembed %}
+{% embed url="https://resources.resmo.com/github" %}
 
 ### Common queries and rules
 

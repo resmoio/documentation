@@ -24,7 +24,7 @@ Resmo uses API to do the initial polling and collect existing resources. Followi
 
 #### Available resources
 
-{% embed url="https://docs.resmo.com/resources/docusign" %}
+{% embed url="https://resources.resmo.com/docusign" %}
 
 ## Integration walkthrough
 
@@ -46,7 +46,3 @@ Resmo uses API to do the initial polling and collect existing resources. Followi
 3. Click the DocuSign integration you want to remove.
 4. For temporary disabling, click the Disable button from the upper right corner. This will pause the integration until the next time you enable it back.&#x20;
 5. Or, you can permanently remove it by clicking the Delete button instead. Note that this action cannot be undone.
-
-### Support
-
-Reach out to our team for troubleshooting via live chat or email us at contact@resmo.com.

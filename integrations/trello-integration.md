@@ -23,7 +23,7 @@ Resmo uses API to do the initial polling and collect existing resources. Then, w
 
 #### Available resources
 
-{% embed url="https://docs.resmo.com/resources/trello" %}
+{% embed url="https://resources.resmo.com/trello" %}
 
 ## Integration walkthrough
 
@@ -48,7 +48,3 @@ Resmo uses API to do the initial polling and collect existing resources. Then, w
 5. For **permanent deletion**, click the Delete button instead. This action cannot be undone.
 
 <figure><img src="../.gitbook/assets/delete-disable-buttons-trello.png" alt=""><figcaption></figcaption></figure>
-
-### Support
-
-For troubleshooting and support requests, feel free to contact us via live chat or email us at contact@resmo.com.

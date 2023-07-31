@@ -23,7 +23,7 @@ Resmo uses API to do the initial polling and collect existing resources. Followi
 
 #### Available resources
 
-{% embed url="https://docs.resmo.com/resources/mixpanel" %}
+{% embed url="https://resources.resmo.com/mixpanel" %}
 
 ## Integration walkthrough
 
@@ -78,7 +78,3 @@ Resmo uses API to do the initial polling and collect existing resources. Followi
 4. To temporarily pause the integration, click the Disable button from the upper right corner. You can enable it back later on. For permanent deletion, click the Delete button instead. Note that this action cannot be undone.
 
 <figure><img src="../.gitbook/assets/disable-mixpanel-integration.png" alt=""><figcaption></figcaption></figure>
-
-### Support
-
-Contact our team via live chat or email us at contact@resmo.com for troubleshooting or support requests.

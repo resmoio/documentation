@@ -27,7 +27,7 @@ GoDaddy resources you can collect with Resmo include accounts, contacts, domains
 
 **See the complete list:**
 
-{% embed url="https://docs.resmo.com/resources/godaddy" %}
+{% embed url="https://resources.resmo.com/godaddy" %}
 
 ## Integration walkthrough
 
@@ -76,7 +76,3 @@ GoDaddy resources you can collect with Resmo include accounts, contacts, domains
 4. To temporarily pause it, click Disable from the top right and enable it back later. Or you can also permanently remove the integration by clicking on the Delete button.&#x20;
 
 <figure><img src="../.gitbook/assets/delete-or-disable.png" alt=""><figcaption></figcaption></figure>
-
-### Support
-
-Reach out to us for troubleshooting or support requests related to your GoDaddy integration via live chat or email us at contact@resmo.com.

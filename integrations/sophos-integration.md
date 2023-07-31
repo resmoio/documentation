@@ -33,7 +33,7 @@ Once you sign up to Resmo, you can easily integrate your account with Sophos usi
 
 #### Available resources
 
-{% embed url="https://docs.resmo.com/resources/sophos" %}
+{% embed url="https://resources.resmo.com/sophos" %}
 
 ## Integration walkthrough
 
@@ -66,7 +66,3 @@ Once you sign up to Resmo, you can easily integrate your account with Sophos usi
 4. To temporarily pause the integration, click the **Disable** button from the top right. This way, you can enable it back later. For permanent deletion, click the **Delete** button instead. Note that this action cannot be undone.
 
 <figure><img src="../.gitbook/assets/delete-disable-sophos-integration.png" alt=""><figcaption></figcaption></figure>
-
-### Support
-
-Still have questions? Contact us via live chat or email us at contact@resmo.com.

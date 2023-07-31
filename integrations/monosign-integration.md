@@ -24,7 +24,7 @@ Resmo uses API to do the initial polling and collect existing resources. Followi
 
 #### Available resources
 
-{% embed url="https://docs.resmo.com/resources/monosign" %}
+{% embed url="https://resources.resmo.com/monosign" %}
 
 ## Integration walkthrough
 
@@ -66,7 +66,3 @@ Resmo uses API to do the initial polling and collect existing resources. Followi
 4. To temporarily pause Resmo from collecting your MonoSign resources, click the Disable button from the top right. For permanent deletion, click the Delete button instead. Disabling can be undone, while deletion cannot.
 
 <figure><img src="../.gitbook/assets/delete-disable-monosign-integration.png" alt=""><figcaption></figcaption></figure>
-
-### Support
-
-Contact us via live chat or email us at contact@resmo.com to request support or troubleshooting.&#x20;

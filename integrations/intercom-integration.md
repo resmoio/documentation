@@ -20,7 +20,7 @@ Resmo uses API to do the initial polling and collect existing Intercom resources
 
 **Available resources**
 
-{% embed url="https://docs.resmo.com/resources/intercom" %}
+{% embed url="https://resources.resmo.com/intercom" %}
 
 ### Integration Walkthrough
 
@@ -45,7 +45,3 @@ Resmo uses API to do the initial polling and collect existing Intercom resources
 4. You can temporarily disable it or permanently delete it by clicking the related button from the top right (Disable/Delete).
 
 <figure><img src="../.gitbook/assets/disable-intercom.png" alt=""><figcaption></figcaption></figure>
-
-### Support
-
-Contact us via live chat or email us at contact@resmo.com for troubleshooting or support requests.

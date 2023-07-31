@@ -22,7 +22,7 @@ Then, we process them on the server. You can use the database agent as a binary 
 
 **Available resources:**
 
-{% embed url="https://docs.resmo.com/resources/mysql" %}
+{% embed url="https://resources.resmo.com/mysql" %}
 
 ### Integration Walkthrough
 
@@ -69,7 +69,3 @@ Then, we process them on the server. You can use the database agent as a binary 
 Note that account removal cannot be undone; you would need to integrate again. Instead, you can choose to disable an integration until you enable it back.
 
 <figure><img src="../.gitbook/assets/delete-disable-mysql.png" alt=""><figcaption></figcaption></figure>
-
-### Support
-
-Had some trouble integrating your MySQL database? Contact us via live chat or email us at contact@resmo.com, and our team will help you out in no time.

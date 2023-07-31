@@ -34,7 +34,7 @@ Resmo has **native integrations** with certain Microsoft 365 tools; you can set 
 
 **Available resources**
 
-{% embed url="https://docs.resmo.com/resources/microsoft365" %}
+{% embed url="https://resources.resmo.com/microsoft365" %}
 
 ### Integration Walkthrough
 
@@ -57,7 +57,3 @@ Resmo has **native integrations** with certain Microsoft 365 tools; you can set 
 5. Click the related button (Disable/Delete)from the top right depending on your choice.
 
 <figure><img src="../.gitbook/assets/disable-integration.png" alt=""><figcaption></figcaption></figure>
-
-### Support
-
-Still have questions? Contact us via live chat or email us at contact@resmo.com.

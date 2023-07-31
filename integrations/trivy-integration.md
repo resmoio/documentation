@@ -23,7 +23,7 @@ This way, you can ensure vulnerabilities are not only caught in build-time and a
 
 #### Available resources
 
-{% embed url="https://docs.resmo.com/resources/trivy" %}
+{% embed url="https://resources.resmo.com/trivy" %}
 
 ## Integration Walkthrough <a href="#1.-preparing-your-sbom" id="1.-preparing-your-sbom"></a>
 
@@ -189,7 +189,3 @@ We’ve prepared several examples on Github so that you can have a better idea o
 2. Navigate to the Connected Integrations tab on the opening modal.
 3. Click the Trivy integration you want to remove.
 4. To temporarily disable the integration, click the Disable button from the top right. This way, you can enable it later on. For permanent deletion, click the Delete button instead. This action cannot be undone.
-
-### Support
-
-Contact us for troubleshooting or support requests via live chat or email us at contact@resmo.com.

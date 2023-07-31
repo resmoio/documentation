@@ -23,7 +23,7 @@ Resmo uses API to do the initial polling and collect existing resources. Followi
 
 #### Available resources
 
-{% embed url="https://docs.resmo.com/resources/sonarcloud" %}
+{% embed url="https://resources.resmo.com/sonarcloud" %}
 
 ## Integration walkthrough
 
@@ -60,8 +60,4 @@ Resmo uses API to do the initial polling and collect existing resources. Followi
 3. To temporarily pause your SonarCloud integration, click the Disable button form the top right. Or, you can permanently remove it by clicking the Delete button.
 
 <figure><img src="../.gitbook/assets/delete-disable-integration.png" alt=""><figcaption></figcaption></figure>
-
-### Support
-
-Still have questions? Feel free to contact us for troubleshooting at contact@resmo.com or drop us a message via live chat. Our team will be happy to help.
 

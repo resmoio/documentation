@@ -31,7 +31,7 @@ Resmo Google Workspace integration collects users, groups, group members, tokens
 
 See the full list:
 
-{% embed url="https://docs.resmo.com/resources/gsuite" %}
+{% embed url="https://resources.resmo.com/gsuite" %}
 
 {% hint style="info" %}
 **Tip:** Use [Audit Logs](../audit-logs/audit-logs.md) for comprehensive monitoring of all Google Workspace activities and system events.
@@ -111,6 +111,3 @@ If you have at least `View customer related information` permission at your work
 
 </details>
 
-### Troubleshooting
-
-If you have further questions about the Resmo Google Workspace integration, contact us via live chat or email us at contact@resmo.com.

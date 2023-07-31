@@ -23,7 +23,7 @@ Once you sign up to Resmo, you can easily integrate your account with Figma usin
 
 #### Available resources
 
-{% embed url="https://docs.resmo.com/resources/figma" %}
+{% embed url="https://resources.resmo.com/figma" %}
 
 ## Integration walkthrough
 
@@ -54,7 +54,3 @@ Once you sign up to Resmo, you can easily integrate your account with Figma usin
 4. To **permanently remove** it, click the Delete button. This action cannot be undone.
 
 <figure><img src="../.gitbook/assets/disable-delete-figma-integration.png" alt=""><figcaption></figcaption></figure>
-
-### Support
-
-Contact us via live chat or email us at contact@resmo.com for troubleshooting or support requests.

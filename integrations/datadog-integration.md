@@ -21,7 +21,7 @@ Resmo seamlessly integrates with Datadog to help keep your Datadog resources sec
 
 Once you sign up to Resmo, you can easily integrate your account with Datadog using an API key with an Application key. Resmo uses API to do the initial polling and collect existing resources. Then, we receive resource changes and updates in real-time by regular polling.
 
-[Available Resources](https://docs.resmo.com/resources/datadog)
+{% embed url="https://resources.resmo.com/datadog" %}
 
 ### Common queries and rules
 
@@ -71,7 +71,3 @@ Once you sign up to Resmo, you can easily integrate your account with Datadog us
 3. You have two options;
    1. To temporarily pause the integration, click the Disable button.
    2. To permanently remove the integration, click the Delete button.
-
-### Support
-
-If you have further questions, feel free to contact us via live chat or at contact@resmo.com.

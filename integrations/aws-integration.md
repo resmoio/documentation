@@ -33,7 +33,7 @@ Resmo AWS integration collects Autoscaling groups, IAM roles, DynamoDB tables, K
 
 See the full list:
 
-{% embed url="https://docs.resmo.com/resources/aws" %}
+{% embed url="https://resources.resmo.com/aws" %}
 
 ### Common queries and rules
 

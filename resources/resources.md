@@ -4,7 +4,7 @@ description: Overview of Resmo resources.
 
 # Resources
 
-Resources are entities in integration tools. They are created, updated or deleted, meaning they have "changes". Sample resources are Amazon EC2 instances, Amazon S3 buckets, GitHub Repositories or Slack users.
+[Resources](https://resources.resmo.com/) are entities in integration tools. They are created, updated or deleted, meaning they have "changes". Sample resources are Amazon EC2 instances, Amazon S3 buckets, GitHub Repositories or Slack users.
 
 Asset and resource keywords are used interchangeably. Resmo collects a resource's configuration, not the data itself.&#x20;
 

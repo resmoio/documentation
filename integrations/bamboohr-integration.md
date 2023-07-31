@@ -24,13 +24,13 @@ Once you sign up to Resmo, you can easily integrate your account with BambooHR u
 * The **subdomain** can be obtained as follows: "mycompany" is the subdomain of https://mycompany.bamboohr.com.
 * The **API Key** can be created from\
   [https://documentation.bamboohr.com/docs#authentication](https://documentation.bamboohr.com/docs#authentication)
-  * As described in the BambooHR documentation, the API key will be created with the permissions of the associated user. This means the user must have sufficient permissions to create an API key, list users metadata, and list company files. (File content will not be collected.)
+  * As described in the BambooHR documentation, the API key will be created with the permissions of the associated user. This means the user must have sufficient permissions to create an API key, list users' metadata, and list company files. (File content will not be collected.)
   * You can select company file categories to collect. Resmo will collect only selected categories.
   * Creating an API Key with the separate user that was created for the integration with its access requirements is recommended.
 
 #### Available resources
 
-{% embed url="https://docs.resmo.com/resources/bamboohr" %}
+{% embed url="https://resources.resmo.com/bamboohr" %}
 
 ## Integration Walkthrough
 
@@ -52,8 +52,3 @@ Once you sign up to Resmo, you can easily integrate your account with BambooHR u
 2. From there, navigate to the Connected Integrations.&#x20;
 3. Select the BambooHR integration you want to uninstall.
 4. To temporarily pause the integration, click the Disable button from the top right. To permanently remove it, click the Delete button.
-
-### Support
-
-Still have questions or issues? Get in touch with us via live chat or email us at contact@resmo.com.
-

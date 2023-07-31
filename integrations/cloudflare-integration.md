@@ -21,7 +21,7 @@ Resmo integrates with Cloudflare to ensure the security and compliance of your C
 
 Once you sign up to Resmo, you can easily integrate your account with Cloudflare using an API token. Resmo uses API to do the initial polling and collect existing resources. Then, we receive resource changes and updates in real-time through regular polling.
 
-[Available Resources](https://docs.resmo.com/resources/cloudflare)
+{% embed url="https://resources.resmo.com/cloudflare" %}
 
 {% hint style="info" %}
 **Tip:** You can monitor all activities and system events related to your Cloudflare account on [Audit Logs](../audit-logs/audit-logs.md).

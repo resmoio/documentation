@@ -29,7 +29,7 @@ Resmo has a GCP integration that you can install securely once you sign up for a
 
 Resmo GCP integration collects AppEngine, API Gateway, Compute, IAM, and much more.
 
-{% embed url="https://docs.resmo.com/resources/gcp" %}
+{% embed url="https://resources.resmo.com/gcp" %}
 
 ### Integration Walkthrough
 

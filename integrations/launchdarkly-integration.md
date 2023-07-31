@@ -23,7 +23,7 @@ Resmo uses API to do the initial polling and collect existing resources. Followi
 
 #### Available resources
 
-{% embed url="https://docs.resmo.com/resources/launchdarkly" %}
+{% embed url="https://resources.resmo.com/launchdarkly" %}
 
 ## Integration walkthrough
 
@@ -54,7 +54,3 @@ Resmo uses API to do the initial polling and collect existing resources. Followi
 4. For temporary disabling, click the **Disable** button from the upper right-hand. You can enable it back later. Or you can permanently remove the integration by clicking the **Delete** button. This action cannot be undone.
 
 <figure><img src="../.gitbook/assets/disable-delete-integration (1).png" alt=""><figcaption></figcaption></figure>
-
-### Support
-
-Contact our team for support requests or troubleshooting about your LaunchDarkly integration via live chat or email us at contact@resmo.com. We'll get in touch in no time!

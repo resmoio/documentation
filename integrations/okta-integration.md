@@ -22,7 +22,7 @@ Resmo continuously enhances your Okta asset visibility, security, and compliance
 
 Once you sign up for Resmo, you can easily integrate your account with Okta using an API token and Okta Domain. Resmo uses API to do the initial polling and collect existing resources. Then, we receive resource changes and updates in real-time by regular polling.
 
-[Available Resources](https://docs.resmo.com/resources/okta)
+{% embed url="https://resources.resmo.com/okta" %}
 
 {% hint style="info" %}
 **Tip:** Use [Audit Logs](../audit-logs/audit-logs.md) for comprehensive monitoring of all Okta activities and system events.
@@ -77,7 +77,3 @@ Once you sign up for Resmo, you can easily integrate your account with Okta usin
 * To permanently remove it, click Delete.&#x20;
 
 ![](../.gitbook/assets/delete.png)
-
-### Support
-
-Still have questions? Reach out to us via live chat or email us at contact@resmo.com.

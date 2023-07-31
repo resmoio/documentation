@@ -24,7 +24,7 @@ Resmo integrates with Confluence through the OAuth 2.0 app. Once you hit the Cre
 
 Resmo operates the resource receiving and regular data-update collection processes through API polling.&#x20;
 
-{% embed url="https://docs.resmo.com/resources/confluence" %}
+{% embed url="https://resources.resmo.com/confluence" %}
 
 ### Common queries and rules
 

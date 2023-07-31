@@ -21,7 +21,7 @@ Resmo integrates with Gandi to enhance the security and compliance of your Gandi
 
 Once you sign up to Resmo, you can easily integrate your account with Gandi using an API key. Resmo uses API to do the initial polling and collect existing resources. Then, we receive resource changes and updates in real-time by regular polling.
 
-[Available Resources](https://docs.resmo.com/resources/gandi)
+{% embed url="https://resources.resmo.com/gandi" %}
 
 ### Common queries and rules
 
@@ -63,7 +63,3 @@ Go to Integrations -> Gandi.
 Navigate to the Connected Integrations tab on the opening modal.
 
 Click the integration you want to remove, then either the Disable or Delete button based on your choice.
-
-### Support
-
-For further questions or information, please get in touch with us via live chat or at contact@resmo.com.

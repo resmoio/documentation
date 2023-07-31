@@ -22,7 +22,7 @@ Resmo uses API to do the initial polling and collect existing Vanta resources. F
 
 **Available resources**
 
-{% embed url="https://docs.resmo.com/resources/vanta" %}
+{% embed url="https://resources.resmo.com/vanta" %}
 
 ### Integration Walkthrough
 
@@ -60,7 +60,3 @@ Currently, Vanta's capability to generate API tokens is exclusively available to
 4. You can either disable the integration temporarily and enable it back later or delete it permanently. Based on your choice, click the related button (Disable/Delete)from the top right.
 
 <figure><img src="../.gitbook/assets/disable-integration (1).png" alt=""><figcaption></figcaption></figure>
-
-### Support
-
-For troubleshooting and support requests, contact our team via live chat or email us at contact@resmo.com.

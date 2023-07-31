@@ -23,7 +23,7 @@ Resmo uses Personal Access Token created from Flyio Web UI. Our application uses
 
 #### Available resources
 
-{% embed url="https://docs.resmo.com/resources/flyio" %}
+{% embed url="https://resources.resmo.com/flyio" %}
 
 ## Integration Walkthrough
 
@@ -45,7 +45,3 @@ Resmo uses Personal Access Token created from Flyio Web UI. Our application uses
 4. There are two options; to temporarily pause the integration, click the Disable button. To permanently remove it, click the Delete button.
 
 <figure><img src="../.gitbook/assets/flyio-config.png" alt=""><figcaption></figcaption></figure>
-
-### Support
-
-For further questions or troubleshooting about your Flyio integration, contact us via live chat or email us at contact@resmo.com.

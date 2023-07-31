@@ -31,7 +31,7 @@ Resmo GitLab integration collects users, groups, merge requests, projects, and m
 
 See the full list:
 
-{% embed url="https://docs.resmo.com/resources/gitlab" %}
+{% embed url="https://resources.resmo.com/gitlab" %}
 
 ### Common queries and rules
 
@@ -65,7 +65,3 @@ See the full list:
 5. To temporarily pause your GitLab integration, click Disable from the top right. To permanently remove it, click Delete.
 
 ![](../.gitbook/assets/gitlab-disable-delete-buttons.jpg)
-
-### Support
-
-If you have any questions regarding our GitLab integration or Resmo, you can contact us via live chat on our website or email us at contact@resmo.com.

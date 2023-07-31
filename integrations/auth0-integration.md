@@ -23,16 +23,7 @@ Once you sign up and log in to Resmo, you can connect your Auth0 account to Resm
 
 #### Available resources
 
-Resources you can collect with your Auth0 integration include:
-
-* Client
-* Custom Domain
-* Grant
-* Organization
-* Resource Server
-* Role
-* Tenant Settings
-* User
+{% embed url="https://resources.resmo.com/auth0" %}
 
 {% hint style="info" %}
 _“Custom Domains” are only available on upgraded subscriptions; therefore, in order to collect them on Resmo, you must be an upgraded Auth0 subscriber._
@@ -88,12 +79,8 @@ _“Custom Domains” are only available on upgraded subscriptions; therefore, i
 
 1. Go to your applications page.
 2. Click on the “Machine to Machine” application you’ve created for Resmo.
-3. Under the settings click on “Delete this application”
+3. Under the Settings click on “Delete this application”
 4. Write your application’s name to “Name” field and then click “Delete”
 5. Select Auth0 on your Integrations page on Resmo.
 6. Navigate to the Connected Integrations tab on the opening modal and select the account you want to remove.
 7. Click the Delete button to remove the integration permanently or Disable to enable back later.
-
-### Support
-
-Contact us via live chat or email us at contact@resmo.com for troubleshooting or support requests about your Auth0 integration.

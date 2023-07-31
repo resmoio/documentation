@@ -24,7 +24,7 @@ Resmo uses API to do the initial polling and collect existing Microsoft Intune r
 
 **Available resources**
 
-{% embed url="https://docs.resmo.com/resources/intune" %}
+{% embed url="https://resources.resmo.com/intune" %}
 
 ### Integration Walkthrough
 
@@ -46,7 +46,3 @@ Resmo uses API to do the initial polling and collect existing Microsoft Intune r
 4. You can either disable the integration temporarily and enable it back later or delete it permanently. Based on your choice, click the related button (Disable/Delete)from the top right.
 
 <figure><img src="../.gitbook/assets/disable-intune.png" alt=""><figcaption></figcaption></figure>
-
-### Support
-
-Contact us via live chat or email us at contact@resmo.com for support requests.

@@ -24,7 +24,7 @@ Resmo uses Google Workspace Reports API to do the initial polling and collect ex
 
 #### **Available resources**
 
-{% embed url="https://docs.resmo.com/resources/googledrive" %}
+{% embed url="https://resources.resmo.com/googledrive" %}
 
 {% hint style="warning" %}
 **Critical Notes**
@@ -56,7 +56,3 @@ Resmo uses Google Workspace Reports API to do the initial polling and collect ex
 3. For temporary disabling, click the **Disable** button from the top right. This action can be reversed later by enabling the integration back. Or you can permanently uninstall the integration by clicking the **Delete** button. This action cannot be undone.
 
 <figure><img src="../.gitbook/assets/googledrive-disable.png" alt=""><figcaption></figcaption></figure>
-
-### Support
-
-Contact our team via live chat or email us at contact@resmo for troubleshooting. Our team will get back to you as soon as possible.

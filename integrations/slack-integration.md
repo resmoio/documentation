@@ -47,9 +47,7 @@ Resmo + Slack integration helps you monitor and query your Slack resources inclu
 
 See the complete updated list:
 
-{% embed url="https://docs.resmo.com/resources/slack" %}
-_Slack resources_
-{% endembed %}
+{% embed url="https://resources.resmo.com/slack" %}
 
 ### Common queries and rules&#x20;
 
@@ -84,7 +82,3 @@ To delete the integration, open the Slack integration from Integrations>Slack. G
 * **If you uninstall the Resmo App on Slack**, we don’t delete the integration from your Resmo account. You can continue viewing your resources and querying them.&#x20;
   * Coming Soon: We are working on displaying a mark to inform you that you deleted the integration and will no longer be receiving updates.&#x20;
 * **If you uninstall Slack App on Resmo**, you need to go to your Slack account and delete the Resmo App to uninstall the integration. The auto-deletion feature is coming soon.
-
-### Support
-
-Contact us via live chat or email us at contact@resmo.com to request support.

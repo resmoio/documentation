@@ -23,7 +23,7 @@ Resmo has a Hubspot application that you can install once you sign up for a Resm
 
 #### Available resources
 
-{% embed url="https://docs.resmo.com/resources/hubspot" %}
+{% embed url="https://resources.resmo.com/hubspot" %}
 
 ## Integration Walkthrough
 
@@ -41,7 +41,3 @@ Resmo has a Hubspot application that you can install once you sign up for a Resm
 1. On your Resmo account, navigate to the Integrations page and select Hubspot.
 2. Navigate to the Connected Integrations tab and select the Hubspot integration you want to remove.&#x20;
 3. To temporarily pause it, click the Disable button, or you may permanently remove it by clicking the Delete button.
-
-### Support
-
-Still have questions about the Resmo Hubspot integration, feel free to contact us via live chat or email us at contact@resmo.com.

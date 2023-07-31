@@ -27,7 +27,7 @@ Resmo aggregates Snowflake resources such as databases, users, keys, tables, and
 
 **See the full list:**
 
-{% embed url="https://docs.resmo.com/resources/snowflake" %}
+{% embed url="https://resources.resmo.com/snowflake" %}
 
 ## Integration Walkthrough
 
@@ -90,7 +90,3 @@ oauth_issue_refresh_tokens = true;
 3\. You have two options. To temporarily pause the integration, click the Disable button; to permanently uninstall it, click the Delete button.
 
 4\. Optionally, you can remove your oAuth token after uninstalling the integration permanently. Follow the instructions [here](https://docs.snowflake.com/en/user-guide/oauth-consent.html#revoking-delegated-authorizations).
-
-### Support
-
-If you have any questions or issues regarding the Snowflake integration, feel free to contact us via live chat or email us at contact@resmo.com.

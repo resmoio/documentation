@@ -23,7 +23,7 @@ Resmo has an Azure DevOps application that you can install once you sign up for 
 
 #### Available resources
 
-{% embed url="https://docs.resmo.com/resources/azuredevops" %}
+{% embed url="https://resources.resmo.com/azuredevops" %}
 
 ## Integration Walkthrough
 
@@ -52,5 +52,3 @@ If you want to revoke your OAuth tokens after deleting the integration. Navigate
 1. Go to Integrations -> Azure DevOps.
 2. From the Connected Integrations tab of the opening modal, click the Azure DevOps integration you wish to uninstall.
 3. You'll see two options on the top right; Disable and Delete. Disabling your integration makes Resmo pause all related polling until you enable it back again. Deleting, on the other hand, permanently removes it and cannot be undone.
-
-### Support

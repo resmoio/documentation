@@ -16,13 +16,13 @@ Resmo easily integrates with AzureAD to secure and query your entire resource as
 * Query your assets with the simplified SQL language
 * Run automated rule checks with managed or custom rules
 * Get notified of rule changes in real-time
-* Discover historic data for your resource changes, queries, and rule violations
+* Discover historical data for your resource changes, queries, and rule violations
 
 ### How does the integration work?
 
 Resmo connects with AzureAD through an OAuth flow. Then, it initiates polling and aggregating your existing resources. After the initial polling, Resmo performs polling at regular intervals to collect resource changes in real-time.
 
-{% embed url="https://docs.resmo.com/resources/azuread" %}
+{% embed url="https://resources.resmo.com/azuread" %}
 
 {% hint style="info" %}
 **Tip:** Use [Audit Logs](../audit-logs/audit-logs.md) for comprehensive monitoring of all Azure Active Directory activities and system events.
@@ -30,7 +30,7 @@ Resmo connects with AzureAD through an OAuth flow. Then, it initiates polling an
 
 ### Common queries and rules
 
-* View AzureAD organization verified domains.
+* View AzureAD organization-verified domains.
 * List guest users.
 * See Service Principal OAuth2 permissions.
 * Find user groups that are not assignable to any role.
@@ -57,8 +57,4 @@ Resmo connects with AzureAD through an OAuth flow. Then, it initiates polling an
 
 4\. To temporarily pause the integration, click the Disable button from the top right. Or, you can permanently remove it by clicking the Delete button.
 
-5\. Optionally, you can remove your oAuth token after uninstalling the integration permanently. Follow instructions [here](https://docs.microsoft.com/en-us/azure/active-directory/enterprise-users/users-revoke-access#azure-active-directory-environment).
-
-### Support
-
-If you have any questions about the Azure Active Directory integration or Resmo in general, feel free to email us at contact@resmo.com or contact us via live chat on our website.
+5\. Optionally, you can remove your oAuth token after uninstalling the integration permanently. Follow the instructions [here](https://docs.microsoft.com/en-us/azure/active-directory/enterprise-users/users-revoke-access#azure-active-directory-environment).

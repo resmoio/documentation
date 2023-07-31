@@ -21,6 +21,8 @@ Resmo integrates with Linear in one click to bring complete visibility, security
 
 Resmo uses API to do the initial polling and collect existing resources. Following the initial polling, it receives updates and changes in real-time through webhook and regular polling.
 
+{% embed url="https://resources.resmo.com/linear" %}
+
 ## Integration walkthrough
 
 ### How to install
@@ -46,7 +48,3 @@ Resmo uses API to do the initial polling and collect existing resources. Followi
 4. You can either temporarily disable the integration or permanently delete it. Depending on your choice, click the related button (Disable / Delete) from the upper right corner, as seen in the image below.
 
 <figure><img src="../.gitbook/assets/disable-delete-linear.png" alt=""><figcaption></figcaption></figure>
-
-### Support
-
-Contact us via lie chat or email us at contact@resmo.com for support requests or troubleshooting.

@@ -25,7 +25,9 @@ Resmo has a Heroku application that you can install once you sign up for a Resmo
 
 Resmo aggregates Heroku resources like teams, applications, and add-ons to help you keep them visible and secure.
 
-{% embed url="https://docs.resmo.com/resources/heroku" %}
+
+
+{% embed url="https://resources.resmo.com/heroku" %}
 
 ## Integration Walkthrough
 
@@ -62,9 +64,5 @@ There are two options for Oauth token scopes: global and read. Resmo sets 'globa
 
 If you want to revoke your OAuth tokens after deleting the integration. Navigate the [settings page](https://dashboard.heroku.com/account/applications) and delete the Resmo application.
 {% endhint %}
-
-### Support
-
-If you have questions or issues regarding your Heroku integration, please contact us via live chat or email us at contact@resmo.com. Our team will assist you in the shortest possible time.
 
 &#x20;

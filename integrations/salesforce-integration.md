@@ -23,7 +23,7 @@ Once you sign up to Resmo, you can easily integrate your account with Salesforce
 
 #### Available resources
 
-{% embed url="https://docs.resmo.com/resources/salesforce" %}
+{% embed url="https://resources.resmo.com/salesforce" %}
 
 ## Integration walkthrough
 
@@ -75,8 +75,4 @@ There are two options you may follow. One is to temporarily disable the integrat
 3. Depending on your choice, click either Disable or Delete from the top right of the integration configuration screen.
 
 <figure><img src="../.gitbook/assets/salesforce-disable.png" alt=""><figcaption></figcaption></figure>
-
-### Support
-
-For troubleshooting or support requests regarding integrations, please contact our team via live chat or email us at contact@resmo.com.
 
