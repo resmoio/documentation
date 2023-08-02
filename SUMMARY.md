@@ -160,6 +160,7 @@
 * [Microsoft Defender Integration](integrations/microsoft-defender-integration.md)
 * [Microsoft 365 Integration](integrations/microsoft-365-integration.md)
 * [NPM Integration](integrations/npm-integration.md)
+* [CrowdStrike Integration](integrations/crowdstrike-integration.md)
 
 ## Notifications
 

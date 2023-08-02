@@ -51,7 +51,7 @@ Resmo employs APIs to execute initial polling and gather pre-existing NPM resour
 
 <figure><img src="../.gitbook/assets/integration-screen.png" alt=""><figcaption></figcaption></figure>
 
-5. Hit the Create button.
+6. Hit the Create button.
 
 #### How to uninstall
 
