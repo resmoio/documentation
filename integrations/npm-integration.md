@@ -60,4 +60,4 @@ Resmo employs APIs to execute initial polling and gather pre-existing NPM resour
 3. You can either disable the integration temporarily and enable it back later or delete it permanently.&#x20;
 4. Click the related button (Disable/Delete)from the top right depending on your choice.
 
-<figure><img src="../.gitbook/assets/delete-disable.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/delete-disable (2).png" alt=""><figcaption></figcaption></figure>
