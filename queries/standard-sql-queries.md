@@ -46,6 +46,14 @@ All SQL queries are standard _`Select`_ statements.&#x20;
 `SELECT name, email FROM newrelic_user WHERE email NOT IN (SELECT VALUE primaryEmail FROM gsuite_user)`
 {% endhint %}
 
+**SQL query response filtered for a field in an object**
+
+Print aliasTager's dnsName:
+
+{% hint style="info" %}
+SELECT accountId,accountName,hostedZoneName,name, **aliasTarget.dnsName** FROM aws\_route53\_hosted\_zone\_record
+{% endhint %}
+
 **SQL query with nested objects**
 
 Most configuration data is nested and it's easy to refer to inner objects with the dot notation.&#x20;
