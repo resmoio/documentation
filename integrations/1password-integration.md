@@ -2,7 +2,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/1password-logo.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1Password_primary logo_light backgrounds_intrepid blue.png" alt=""><figcaption></figcaption></figure>
 
 Resmo's integration with 1Password ensures comprehensive monitoring and advanced analysis of item usage and critical audit events.
 
@@ -50,7 +50,7 @@ Specify the following:
 7. Select your 1Password server. (e.g. 1Password Business, 1Password Enterprise, etc.)
 8. Hit the Create button and your integration is all set!
 
-<figure><img src="../.gitbook/assets/api-token-server.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1password-integration-screen.png" alt=""><figcaption></figcaption></figure>
 
 #### How to uninstall
 
@@ -58,4 +58,4 @@ Specify the following:
 2. From the Connected Integrations tab on the modal, click the account you want to remove.
 3. To temporarily pause the integration click the Disable button. For permanent deletion, click the Delete button.
 
-<figure><img src="../.gitbook/assets/delete-disable.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1password-delete-disable.png" alt=""><figcaption></figcaption></figure>
