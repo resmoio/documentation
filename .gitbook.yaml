@@ -1,0 +1,4 @@
+root: ./
+
+redirects:
+    product/integrations/aws-integration: integrations/aws-integration.md
