@@ -1,9 +1,8 @@
 root: ./
 
 redirects:
-    product/integrations/aws-integration: integrations/aws-integration.md
     product/integrations/atlassian-access-integration: integrations/atlassian-access-integration.md
-    product/users-and-permissions/rbac-role-based-access-control/custom-roles-and-policies: /users-and-permissions/rbac-role-based-access-control/custom-roles-and-policies.md
+    product/users-and-permissions/rbac-role-based-access-control/custom-roles-and-policies: users-and-permissions/rbac-role-based-access-control/custom-roles-and-policies.md
     product/integrations/zendesk-integration: integrations/zendesk-integration.md   
     product/integrations/microsoft-intune-integration: integrations/microsoft-intune-integration.md 
     product/integrations/microsoft-365-integration: integrations/microsoft-365-integration.md
