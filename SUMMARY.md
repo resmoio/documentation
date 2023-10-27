@@ -46,10 +46,10 @@
 
 ## SaaS Discovery
 
-* [SaaS Discovery](saas-discovery/saas-discovery.md)
-* [Chrome Browser Extension](saas-discovery/chrome-browser-extension.md)
-* [SaaS Discovery Apps Dashboard](saas-discovery/saas-discovery-apps-dashboard.md)
-* [SaaS Discovery Employees Dashboard](saas-discovery/saas-discovery-employees-dashboard.md)
+* [SaaS Discovery Methods](saas-discovery/saas-discovery.md)
+* [Chrome Browser Extension Installation Admin Guide](saas-discovery/chrome-browser-extension.md)
+* [Apps Page](saas-discovery/saas-discovery-apps-dashboard.md)
+* [Users Page](saas-discovery/saas-discovery-employees-dashboard.md)
 
 ## Rules
 
