@@ -34,6 +34,26 @@ Resmo uses Google Workspace Reports API to do the initial polling and collect ex
 * Initially, this integration polls the last six months' audit logs, creates document resources, and listens for document events.
 {% endhint %}
 
+### How to grant domain-wide delegation access to your organization
+
+Resmo needs domain-wide delegation access to collect users' files in your organization. Yo can grant domain-wide delegation access for Resmo using following below steps. Visit official documentation for more [information](https://support.google.com/a/answer/162106).&#x20;
+
+1. Go to [https://admin.google.com](https://admin.google.com/)
+2. Go to **Security** > **Access and data control** > **API Controls**
+3. Click **Manage Domain Wide Delegation**.
+4. Click **Add new** and enter.&#x20;
+
+* **Client ID**: `109597776999965244120`
+
+5. **OAuth Scopes**:
+
+{% hint style="warning" %}
+* For comprehensive management of file permissions via Resmo, the **broader Drive permission scope** is essential. This scope facilitates both the listing and the permission management of files within Google Drive. The OAuth scope to enable this enhanced functionality is `https://www.googleapis.com/auth/drive`.
+* Alternatively, to assign Resmo **read-only access** for the Google Drive integration, thereby **excluding remediation functionalities**, you may allocate the read-only scope. This restricts Resmo's capabilities to data retrieval without the possibility of modification. You can only list and monitor your Drive files without the ability to manage them through Resmo. The read-only OAuth scope for this level of permission is `https://www.googleapis.com/auth/drive.metadata`.
+{% endhint %}
+
+6. Click **Authorize.**
+
 ## Integration walkthrough
 
 ### How to install

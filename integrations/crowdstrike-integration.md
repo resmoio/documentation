@@ -31,7 +31,7 @@ Resmo utilizes APIs to process initial data retrieval, collecting pre-existing r
 
 2. Hit the Add Integration button from the bottom right corner.
 
-<figure><img src="../.gitbook/assets/add-integration.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/add-integration (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Log in to your CrowdStrike account on a new tab.
 4. Open **Support and Resources** from the left side menu, then select **API clients and keys** under **Resources and Tools**.

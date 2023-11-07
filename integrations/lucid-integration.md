@@ -14,6 +14,10 @@ Identify changes in your Lucid environment; configure alerts for vulnerabilities
 
 Resmo uses API to do the initial polling and collect existing resources. Following the initial polling, it receives updates and changes in real-time through webhook and regular polling.
 
+**Available resources:**
+
+{% embed url="https://resources.resmo.com/lucid" %}
+
 ### Integration walkthrough
 
 #### How to install

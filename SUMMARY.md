@@ -163,6 +163,7 @@
 * [CrowdStrike Integration](integrations/crowdstrike-integration.md)
 * [1Password Integration](integrations/1password-integration.md)
 * [Lucid Integration](integrations/lucid-integration.md)
+* [OneDrive Integration](integrations/onedrive-integration.md)
 
 ## Notifications
 
