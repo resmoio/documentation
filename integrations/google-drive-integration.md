@@ -42,17 +42,15 @@ Resmo needs domain-wide delegation access to collect users' files in your organi
 2. Go to **Security** > **Access and data control** > **API Controls**
 3. Click **Manage Domain Wide Delegation**.
 4. Click **Add new** and enter.&#x20;
-
-* **Client ID**: `109597776999965244120`
-
-5. **OAuth Scopes**:
+   1. **Client ID**: `109597776999965244120`
+   2. **OAuth Scopes**: `https://www.googleapis.com/auth/drive`
 
 {% hint style="warning" %}
 * For comprehensive management of file permissions via Resmo, the **broader Drive permission scope** is essential. This scope facilitates both the listing and the permission management of files within Google Drive. The OAuth scope to enable this enhanced functionality is `https://www.googleapis.com/auth/drive`.
 * Alternatively, to assign Resmo **read-only access** for the Google Drive integration, thereby **excluding remediation functionalities**, you may allocate the read-only scope. This restricts Resmo's capabilities to data retrieval without the possibility of modification. You can only list and monitor your Drive files without the ability to manage them through Resmo. The read-only OAuth scope for this level of permission is `https://www.googleapis.com/auth/drive.metadata`.
 {% endhint %}
 
-6. Click **Authorize.**
+5. Click **Authorize.**
 
 ## Integration walkthrough
 
