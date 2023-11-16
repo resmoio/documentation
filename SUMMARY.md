@@ -4,7 +4,8 @@
 
 ## Getting Started
 
-* [Quick Start Guide](getting-started/quick-start-guide.md)
+* [Quick Start Guide for Admins](getting-started/quick-start-guide.md)
+* [SaaS Security Guide for Employees](getting-started/saas-security-guide-for-employees.md)
 * [Glossary](getting-started/glossary.md)
 * [FAQ](getting-started/faq.md)
 * [Support](getting-started/support.md)
