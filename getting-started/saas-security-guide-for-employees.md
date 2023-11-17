@@ -2,44 +2,43 @@
 
 ### Overview
 
-Resmo safeguards your digital workspace by identifying authorized/unauthorized SaaS applications used and security vulnerabilities in those. It streamlines the process of ensuring digital safety and simplifies compliance with security best practices.
+Resmo keeps your work online safe. It checks the apps you use for work to make sure they're secure and used correctly. Resmo works quietly in the background and only lets you know when something needs your attention.&#x20;
 
-**Resmo operates discreetly in the background, alerting you only when it detects issues like:**
+### What Resmo Does
 
-* Weak, shared, or reused passwords in work-related apps.
-* Insecure configurations risking data exposure.
-* Lack of multi-factor authentication (MFA) on accounts.
+* Finds weak or reused passwords in work apps.
+* Checks if work apps are set up safely.
+* Tells you if you need extra security, like multi-factor authentication (MFA), on your work accounts.&#x20;
 
-When Resmo identifies a security vulnerability, it communicates actionable, easy-to-understand advice through ChatOps tools like Slack or Microsoft Teams, and via direct browser notifications, based on your organization's setup. Actions to mitigate risks are often just a click away.
+**How You'll Know:**
 
-Resmo also aids your security team by maintaining an inventory of apps accessed with work credentials, covering a wide range from productivity tools to specialized software handling sensitive data. This ensures your company data is managed securely.
+If there's a security tip or action needed, Resmo will send you a clear message through tools like Slack, Microsoft Teams, or directly in your browser.&#x20;
 
-Furthermore, Resmo identifies potentially risky or untrustworthy apps in use, enabling your security team to address them effectively.
+### How Does it Work?&#x20;
 
-This proactive approach helps protect not only the organization but also its stakeholders, like customers or clients, from the repercussions of data breaches.
+Resmo looks at how you and others in your company use work apps. It uses a special tool in your browser and connects with work systems like Azure Active Directory or Google Workspace to:
 
-### How Does it Work?
+* See which work apps everyone is using.&#x20;
+* Check if passwords in these apps are strong.
+* Alert if someone has too much access to information.
+* Help the team fix security issues quickly.&#x20;
 
-Resmo utilizes various methods, including a browser extension, to monitor employee logins to online work accounts. It focuses solely on work-related accounts and does not interfere with personal accounts.
+### Don't Worry About Privacy&#x20;
 
-Should Resmo detect a security issue with these logins, it flags them to your security team. If configured, Resmo can also directly interact with employees via ChatOps to guide them in resolving these issues.
+Resmo is all about keeping work stuff safe. It doesn't peek into what you do outside of work. It doesn't track where you go online or send any personal info or passwords.&#x20;
 
-Resmo integrates seamlessly with your company’s primary work platforms, like Azure Active Directory or Google Workspace. This integration and the Chrome browser extension enable your IT team to:
+### Setting Up Resmo
 
-* Identify the range of SaaS applications in use within your organization.
-* Monitor for usage of weak or repeated passwords.
-* Flag instances of excessive access rights.
-* Strengthen the overall security framework of your SaaS environment.
-* Let your team proactively address and resolve security issues.
+Your IT team will help set up Resmo for you. They might install it for you or send you a link to do it yourself. Just follow the easy steps they give you to make your online work life more secure.&#x20;
 
-When necessary, Resmo’s ChatOps feature may prompt you to enable MFA, strengthen your password, or review the relevance of older third-party integrations.
+### What Resmo Helps You Do
 
-### Privacy and Security
+* Choose strong passwords for work apps.
+* Spot any shared passwords in these apps.
+* Turn on extra security, like multi-factor authentication, for your work apps.&#x20;
 
-We prioritize the protection of your data and commit to transparency in how we collect and use your information within our service. Your privacy is a top priority at Resmo. Rest assured, the extension does not track your browsing habits nor does it transmit any personal data, such as passwords.
+### What Resmo Won't Do
 
-For more details on our data protection practices, refer to our [Trust Center](https://trust.resmo.com/).
+It won't keep tabs on your browsing. It won't take note of anything from your personal email. It won't send out any of your personal details or passwords.&#x20;
 
-### How to Set up Resmo
-
-Setting up Resmo is straightforward. Your IT administrator will guide the [installation of Resmo's browser extension](../saas-discovery/chrome-browser-extension.md), either automatically or by providing you with a link via email or chat. Follow the simple steps provided to ensure your digital workspace is secure with Resmo.
+**Remember:** Resmo needs a special link from your IT team to work. Make sure you use the enrollment link they send you.
