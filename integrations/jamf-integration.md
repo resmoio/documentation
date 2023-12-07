@@ -30,6 +30,7 @@ Once you sign up to Resmo, you can easily integrate your account with Jamf using
 * Read Computers
 * Read Jamf Pro User Accounts & Groups
 * Read macOS Configuration Profiles
+* Read iOS Configuration Profiles
 * Read Mobile Devices
 * Read Users
 
