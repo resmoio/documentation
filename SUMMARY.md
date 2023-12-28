@@ -153,7 +153,7 @@
 * [ClickHouse Integration](integrations/clickhouse-integration.md)
 * [Help Scout Integration](integrations/help-scout-integration.md)
 * [Intercom Integration](integrations/intercom-integration.md)
-* [Atlassian Access Integration](integrations/atlassian-access-integration.md)
+* [Atlassian Integration](integrations/atlassian-access-integration.md)
 * [Drata Integration](integrations/drata-integration.md)
 * [Hetzner Cloud Integration](integrations/hetzner-cloud-integration.md)
 * [Vanta Integration](integrations/vanta-integration.md)

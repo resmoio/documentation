@@ -76,4 +76,4 @@ Once you sign up for Resmo, you can easily integrate your account with Okta usin
 * To temporarily pause the integration, click the Disable button.
 * To permanently remove it, click Delete.&#x20;
 
-![](../.gitbook/assets/delete.png)
+![](<../.gitbook/assets/delete (1).png>)

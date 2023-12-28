@@ -1,12 +1,8 @@
----
-description: Guide for Resmo Atlassian Access integration
----
-
-# Atlassian Access Integration
+# Atlassian Integration
 
 <figure><img src="../.gitbook/assets/atlassian-access-logo.png" alt=""><figcaption></figcaption></figure>
 
-The Resmo Atlassian Access integration empowers organizations to efficiently analyze configuration data from Atlassian cloud products. Through Resmo, users can gain insights into user access, organizational policies, workspaces, and roles, while getting timely alerts on changes.
+The Resmo Atlassian integration empowers organizations to efficiently analyze configuration data from Atlassian cloud products. Through Resmo, users can gain insights into user access, organizational policies, workspaces, and roles, while getting timely alerts on changes.
 
 ### What does Resmo offer to Atlassian Access users?
 
@@ -32,43 +28,45 @@ Resmo uses API to do the initial polling and collect existing Atlassian Access r
 #### How to install
 
 1. Log in to your Resmo account and go to your Integrations page.
-2. Find and select Atlassian Access.
-3. Click the Add Integration button from the bottom right corner of the opening modal.
+2. Find and select Atlassian.
+3. Click the Add Integration button.
 
-<figure><img src="../.gitbook/assets/add-atlassian-access.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/add-integration.png" alt=""><figcaption></figcaption></figure>
 
-4. Log in to your [Atlassian admin account](https://admin.atlassian.com/).
+4. Optionally, add your **Access API Key**, and **User API Token** for additional data.&#x20;
 
-<figure><img src="../.gitbook/assets/atlassian-admin-login.png" alt=""><figcaption></figcaption></figure>
+{% hint style="info" %}
+Note that you can enable **user provisioning** if you add the User API Token and enable user account and permissions management.
+{% endhint %}
 
-5. Select an organization and copy the Organization ID.
+<figure><img src="../.gitbook/assets/configurations.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/copy-id.png" alt=""><figcaption></figcaption></figure>
-
-6. Navigate to Resmo Integration Screen.
-
-* In the Resmo integration screen, locate the ‘Organization ID’ field under the Atlassian Access section. Paste the Organization ID that you copied earlier into this field.&#x20;
-
-7. Go back to your Atlassian Access account. From Settings > API Keys.
+5. Log in to your [Atlassian admin account](https://admin.atlassian.com/).
+6. Go to Settings > API Keys.
 
 <figure><img src="../.gitbook/assets/api-keys.png" alt=""><figcaption></figcaption></figure>
 
-8. Click the Create API Key button and copy it to your clipboard.
+7. Click the Create API Key button and copy it to your clipboard.
 
 <figure><img src="../.gitbook/assets/copy-api.png" alt=""><figcaption></figcaption></figure>
 
-9. Return to the Resmo integration screen and locate the ‘API Key’ field. Paste the API Key that you copied into this field.&#x20;
+8. Return to the Resmo integration screen and locate the ‘API Key’ field. Paste the API Key that you copied into this field.&#x20;
+9. For the User API Token, follow these steps:
 
-<figure><img src="../.gitbook/assets/add-credentials.png" alt=""><figcaption></figcaption></figure>
+* Sign in at https://id.atlassian.com/manage-profile/security/api-tokens.
+* Select the option to Create API token.
+* In the appearing dialog box, provide a brief and memorable Label for your token, then select Create.
+* Choose Copy to clipboard and proceed to paste it in the Resmo integration screen, User API Token field.
 
-10. Click the ‘**Create**’ button on the Resmo integration screen.
+10. Enable User Provisioning for granular access management.
+11. Click the ‘**Create**’ button on the Resmo integration screen and it's ready.
 
-You should see a confirmation message indicating that the integration is complete and successful. Congratulations! Your Atlassian Access account is now integrated with Resmo, and you can start leveraging the combined capabilities of both platforms.
+You should see a confirmation message indicating that the integration is complete and successful. Congratulations! Your Atlassian account is now integrated with Resmo, and you can start leveraging the combined capabilities of both platforms.
 
 #### How to uninstall
 
-1. Go to your Integrations page on Resmo and select Atlassian Access.
+1. Go to your Integrations page on Resmo and select Atlassian.
 2. Navigate to the Connected Integrations tab and select the account you want to remove.
 3. You can either disable it temporarily or delete it permanently. Depending on your choice, click the Disable/Delete button from the top right.
 
-<figure><img src="../.gitbook/assets/disable-integration (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/delete.png" alt=""><figcaption></figcaption></figure>

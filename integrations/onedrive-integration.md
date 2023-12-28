@@ -42,7 +42,7 @@ Resmo utilizes an API for initial data gathering and to accumulate current resou
 
 3. Hit the Add Integration button.
 
-<figure><img src="../.gitbook/assets/add-integration.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/add-integration (1).png" alt=""><figcaption></figcaption></figure>
 
 4. Give the required access permissions.
 5. Your OneDrive integration will be ready in no time!
