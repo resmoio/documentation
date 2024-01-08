@@ -165,6 +165,7 @@
 * [1Password Integration](integrations/1password-integration.md)
 * [Lucid Integration](integrations/lucid-integration.md)
 * [OneDrive Integration](integrations/onedrive-integration.md)
+* [JetBrains Integration](integrations/jetbrains-integration.md)
 
 ## Notifications
 
