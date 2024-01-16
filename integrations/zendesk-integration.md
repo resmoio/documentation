@@ -48,4 +48,4 @@ Resmo has a Zendesk application that you can install once you sign up for a Resm
 4. To temporarily pause the integration, click the Disable button from the top right. You can always enable it back later.&#x20;
 5. The other option is permanent deletion. To uninstall your Zendesk integration permanently, you can click the Delete button.
 
-<figure><img src="../.gitbook/assets/delete-integration.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/delete-integration (1).png" alt=""><figcaption></figcaption></figure>
