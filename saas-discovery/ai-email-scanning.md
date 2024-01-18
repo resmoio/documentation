@@ -16,9 +16,8 @@ The first step in the process is downloading Gmail emails for all users in your 
 
 ### How to Create a Service Account
 
-{% hint style="success" %}
-* Credentials and super admin rights are required in Google Workspace is provided by service account. To configure service account, you can check documentation from here. Steps:
-* Credentials and super admin rights are required in Google Workspace is provided by service account.
+{% hint style="info" %}
+* Credentials and super admin rights are required in Google Workspace is provided by service account.&#x20;
 * To configure service account, you can check documentation from [here](https://cloud.google.com/iam/docs/service-accounts-create).
 {% endhint %}
 
@@ -76,13 +75,12 @@ You must be signed in as a [super administrator](https://support.google.com/a/an
 
 After that, AI takes part in the process to achieve the best results in identifying possible account creations from emails. The scan process uses AI-based classification practices and labels emails into several categories. With the help of labeling, unrelated emails eliminated and the others processed in Resmo as related users and apps.
 
-<figure><img src="../.gitbook/assets/ai-email-scanning.png" alt=""><figcaption></figcaption></figure>
-
 ### How to Use
 
 {% code overflow="wrap" %}
 ```
 # Ensure you have git and Python 3.7 installed in your environment. AI Labeling can take time.
+
 # Clone the repository
 $ git clone https://github.com/resmoio/email-app-scanner.git
 
@@ -92,13 +90,13 @@ $ pip install -r requirements.txt
 
 # Set variables
 ADMIN_EMAIL="admin@yourdomain.com"
-INGEST_KEY="e14432c9-e7c0-4734-a855-c635959dbf41"
-SERVICE_ACCOUNT_FILE="service-account.json"
+INGEST_KEY="b80b2cb6-2036-471d-85be-0f250ad435f8"
+SERVICE_ACCOUNT="service-account.json"
 
 # Run the code for downloading emails for all users, it will take a while depending on your internet connection and number of users
 $ python gmail-download-mails.py \
   --admin-email $ADMIN_EMAIL \
-  --service-account-file $SERVICE_ACCOUNT_FILE
+  --service-account $SERVICE_ACCOUNT
 
 # Run the code for AI labeling emails for all users. It's recommended to use a machine with GPU for this step. It will take a while depending on your machine and number of users
 $ python label-emails.py
@@ -106,7 +104,6 @@ $ python label-emails.py
 # After the execution is done, you can see the results in the JSON file
 # To upload this file to Resmo, run the following code
 $ python send-to-resmo.py --ingest-key $INGEST_KEY
-
 
 ```
 {% endcode %}
