@@ -168,6 +168,7 @@
 * [OneDrive Integration](integrations/onedrive-integration.md)
 * [JetBrains Integration](integrations/jetbrains-integration.md)
 * [Google Analytics Integration](integrations/google-analytics-integration.md)
+* [Hexnode Integration](integrations/hexnode-integration.md)
 
 ## Notifications
 
