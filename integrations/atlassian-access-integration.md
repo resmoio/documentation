@@ -19,6 +19,16 @@ Resmo uses API to do the initial polling and collect existing Atlassian Access r
 
 {% embed url="https://resources.resmo.com/atlassianaccess" %}
 
+{% hint style="danger" %}
+To successfully complete this integration, you must have **the Product Admin role** **for Jira Administration**. Without it, the integration will fail to function correctly and will not be able to gather the necessary data.&#x20;
+
+To verify your level of product access, navigate to the Atlassian Admin page, select 'Directory', then 'Users', and finally 'User Details'.
+
+See the following image:
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/jira-administration-product-admin.png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="info" %}
 **Tip:** Use [Audit Logs](../audit-logs/audit-logs.md) for comprehensive monitoring of all Atlassian Access activities and system events.
 {% endhint %}
@@ -42,7 +52,7 @@ Note that you can enable **user provisioning** if you add the User API Token and
 <figure><img src="../.gitbook/assets/configurations.png" alt=""><figcaption></figcaption></figure>
 
 5. Log in to your [Atlassian admin account](https://admin.atlassian.com/).
-6. Go to Settings > API Keys.
+6. Go to Settings>API Keys.
 
 <figure><img src="../.gitbook/assets/api-keys.png" alt=""><figcaption></figcaption></figure>
 
@@ -56,7 +66,7 @@ Note that you can enable **user provisioning** if you add the User API Token and
 * Sign in at https://id.atlassian.com/manage-profile/security/api-tokens.
 * Select the option to Create API token.
 * In the appearing dialog box, provide a brief and memorable Label for your token, then select Create.
-* Choose Copy to clipboard and proceed to paste it in the Resmo integration screen, User API Token field.
+* Choose Copy to clipboard and proceed to paste it in the Resmo integration screen, User API Token field.&#x20;
 
 10. Enable User Provisioning for granular access management.
 11. Click the ‘**Create**’ button on the Resmo integration screen and it's ready.
