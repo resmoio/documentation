@@ -48,7 +48,7 @@
 ## SaaS Discovery
 
 * [SaaS Discovery Methods](saas-discovery/saas-discovery.md)
-* [Chrome Browser Extension Installation Admin Guide](saas-discovery/chrome-browser-extension.md)
+* [Browser Extension Admin Guide](saas-discovery/chrome-browser-extension.md)
 * [Apps Page](saas-discovery/saas-discovery-apps-dashboard.md)
 * [Users Page](saas-discovery/saas-discovery-employees-dashboard.md)
 * [AI Email Scanning](saas-discovery/ai-email-scanning.md)
