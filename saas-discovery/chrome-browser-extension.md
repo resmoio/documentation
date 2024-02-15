@@ -75,6 +75,36 @@ Depending on the value of "Warn Users on Unauthorized App Usage" in the Settings
 
 Access to the listed webpages in the "Domains to Block" section in the Settings/Browser Extension page will be blocked. This section allows users to block webpages that are not listed on the Apps page within Resmo.
 
+### Blocking Domains
+
+Access to the listed webpages in the "Domains to Block" section in the Settings/Browser Extension page will be blocked. This section allows users to block webpages that are not listed on the Apps page within Resmo.&#x20;
+
+Blocking can be selected as full-page blocking or displaying a banner as a warning. Admin can select the “Warn Users on Unauthorized App Usage“ section on the same page.
+
+1. Select the type of blocking users on pages. “Block” means full-page block and “Warning“ means just warn.
+
+<figure><img src="../.gitbook/assets/1-extension.jpg" alt=""><figcaption></figcaption></figure>
+
+2. Click on the Block List button and write down domains to block.
+
+<figure><img src="../.gitbook/assets/2-extension.jpg" alt=""><figcaption></figcaption></figure>
+
+Here's an example block list as seen in the image below:
+
+<figure><img src="../.gitbook/assets/4-extension.jpg" alt=""><figcaption><p>Examples of Block List. Admin blocks the specified domains.</p></figcaption></figure>
+
+**Example 1:**
+
+<figure><img src="../.gitbook/assets/5-extension.jpg" alt=""><figcaption><p>i.e., twitter.com has been blocked</p></figcaption></figure>
+
+**Example 2:**
+
+<figure><img src="../.gitbook/assets/6-extension.jpg" alt=""><figcaption><p>Domains containing "tube" are blocked regardless of their prefix. That’s why youtube.com has been.</p></figcaption></figure>
+
+Or, Admins can choose to warn the user with a banner instead of the full page warning. Here's an example:
+
+<figure><img src="../.gitbook/assets/7-extension.jpg" alt=""><figcaption><p>when the user enters twitter.com, just gets a warning with a banner.</p></figcaption></figure>
+
 ### Installing the browser extension
 
 #### MDM:&#x20;
