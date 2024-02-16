@@ -169,6 +169,7 @@
 * [JetBrains Integration](integrations/jetbrains-integration.md)
 * [Google Analytics Integration](integrations/google-analytics-integration.md)
 * [Hexnode Integration](integrations/hexnode-integration.md)
+* [SendGrid Integration](integrations/sendgrid-integration.md)
 
 ## Notifications
 
