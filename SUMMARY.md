@@ -170,6 +170,7 @@
 * [Google Analytics Integration](integrations/google-analytics-integration.md)
 * [Hexnode Integration](integrations/hexnode-integration.md)
 * [SendGrid Integration](integrations/sendgrid-integration.md)
+* [WordPress Integration](integrations/wordpress-integration.md)
 
 ## Notifications
 
