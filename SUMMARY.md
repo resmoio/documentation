@@ -49,9 +49,10 @@
 
 * [SaaS Discovery Methods](saas-discovery/saas-discovery.md)
 * [Browser Extension Admin Guide](saas-discovery/chrome-browser-extension.md)
+* [AI Email Scanning](saas-discovery/ai-email-scanning.md)
+* [Resmo Agent (Beta)](saas-discovery/resmo-agent-beta.md)
 * [Apps Page](saas-discovery/saas-discovery-apps-dashboard.md)
 * [Users Page](saas-discovery/saas-discovery-employees-dashboard.md)
-* [AI Email Scanning](saas-discovery/ai-email-scanning.md)
 
 ## Rules
 
